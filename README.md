@@ -12,7 +12,8 @@
     - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link
   - crawl-youtube
     - Using innertube api, tensorflow videos related videos are crawled per api name
-  - 
+  - tf-frontend
+    - Vue files that contain all frontend workings to display ELSU parser. Displays beginner and orignal tensorflow APIs and allows for user to check off youtube option to view related youtube videos per api symbol.
   
 ### Notes
   - Weekly meetings and scratch notes dated in the file name and in file
