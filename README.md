@@ -10,8 +10,9 @@
     - Clusetering performed on provided dataset from Elim to find number of clusters based on number of votes.
   - tf-api
     - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link
-  - crawl youtube
+  - crawl-youtube
     - Using innertube api, tensorflow videos related videos are crawled per api name
+  - 
   
 ### Notes
   - Weekly meetings and scratch notes dated in the file name and in file
