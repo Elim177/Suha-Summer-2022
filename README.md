@@ -15,7 +15,9 @@
   - tf-frontend
     - Vue files that contain all frontend workings to display ELSU parser. Displays beginner and orignal tensorflow APIs and allows for user to check off youtube option to view related youtube videos per api symbol.
   - querying-stackoverflow-questions
-    - querying stack overflow questions based on question ids provided by Elim using the stackoverflow API.
+    - Querying stack overflow questions based on question ids provided by Elim using the stackoverflow API.
+  - ml-classifier-and-cross-validation
+    - Using different ML algorithms and CV scoring we selected which algorithm we would use to classify each API description based on the tutorials
   
 ### Notes
   - Weekly meetings and scratch notes dated in the file name and in file
