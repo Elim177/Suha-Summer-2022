@@ -7,13 +7,15 @@
   
 ### Branches and their Purposes
   - k-means-clustering-elim-sample-dataset
-    - Clusetering performed on provided dataset from Elim to find number of clusters based on number of votes.
+    - Clustering performed on provided dataset from Elim to find number of clusters based on number of votes.
   - tf-api
     - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link
   - crawl-youtube
     - Using innertube api, tensorflow videos related videos are crawled per api name
   - tf-frontend
     - Vue files that contain all frontend workings to display ELSU parser. Displays beginner and orignal tensorflow APIs and allows for user to check off youtube option to view related youtube videos per api symbol.
+  - querying-stackoverflow-questions
+    - querying stack overflow questions based on question ids provided by Elim using the stackoverflow API.
   
 ### Notes
   - Weekly meetings and scratch notes dated in the file name and in file
