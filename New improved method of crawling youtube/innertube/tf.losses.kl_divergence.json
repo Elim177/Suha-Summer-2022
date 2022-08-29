@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "yxUVu0iN26Q",
+    "thumbnail": "https://i.ytimg.com/vi/yxUVu0iN26Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0CNsTRRQnq0RVIZiGUT7WImHQaQ",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+    "length": "4:52",
+    "views": "26,711",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "GMrTBtzJkCg",
+    "thumbnail": "https://i.ytimg.com/vi/GMrTBtzJkCg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZT5Wn0oFpyyimC1IcSrIj5dltw",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.1 (Coding TensorFlow)",
+    "length": "4:43",
+    "views": "56,372",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "0FmNxqLFeYo",
+    "thumbnail": "https://i.ytimg.com/vi/0FmNxqLFeYo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZrBrfsGij4ysSQ_gjqIKjR2j2iQ",
+    "title": "173 - Intersection over Union (IoU) for semantic segmentation",
+    "length": "14:53",
+    "views": "9,453",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qjx65mD6nrc",
+    "thumbnail": "https://i.ytimg.com/vi/qjx65mD6nrc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9WVtcF3RX_V_Di1utq8qonSOJLw",
+    "title": "Inside TensorFlow: Eager execution runtime",
+    "length": "45:11",
+    "views": "6,720",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "i5iVzP-R7WI",
+    "thumbnail": "https://i.ytimg.com/vi/i5iVzP-R7WI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaBxBwDxTex8I-9i0_6lAc7WR9Xw",
+    "title": "Python tips and tricks - 7:  Continuing keras model training when using custom loss and metrics",
+    "length": "9:03",
+    "views": "2,387",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "upsAvKvdROY",
+    "thumbnail": "https://i.ytimg.com/vi/upsAvKvdROY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-Aid2bpKsQ5BT3Vlg6R9BruuMPA",
+    "title": "Optimizers, Loss Functions and Learning Rate in Neural Networks with Keras and TensorFlow",
+    "length": "21:07",
+    "views": "4,758",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "us-5I52Lac8",
+    "thumbnail": "https://i.ytimg.com/vi/us-5I52Lac8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ERppOcIds8lR0cUSMesCB3d-DQ",
+    "title": "8/9 Gradient Descent in Tensorflow 2 - tf.GradientTape",
+    "length": "6:12",
+    "views": "1,979",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4eIlvlP-8wk",
+    "thumbnail": "https://i.ytimg.com/vi/4eIlvlP-8wk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFxYXIKFGLzsMy8zsEI6HfB7yu3g",
+    "title": "Custom Activation and Loss Functions in Keras and TensorFlow with Automatic Differentiation",
+    "length": "18:29",
+    "views": "10,426",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "E1yyaLRUnLo",
+    "thumbnail": "https://i.ytimg.com/vi/E1yyaLRUnLo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTd_hFWKQdoW-iv-0YsFT117TTGA",
+    "title": "Loss or Cost Function | Deep Learning Tutorial 11 (Tensorflow Tutorial, Keras & Python)",
+    "length": "24:37",
+    "views": "60,512",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "AZr64OxshLo",
+    "thumbnail": "https://i.ytimg.com/vi/AZr64OxshLo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs7vtesi8ch9zG-u51sWdQbJRGZg",
+    "title": "Image Segmentation Loss:  IoU vs Dice Coefficient",
+    "length": "15:19",
+    "views": "16,703",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8_HOB62rpvw",
+    "thumbnail": "https://i.ytimg.com/vi/8_HOB62rpvw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9aWqc6XKtW15Tp_25LAsKZ8AuuA",
+    "title": "The Tensors Must Flow - William Piel",
+    "length": "40:27",
+    "views": "2,840",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "5qgk9QJ4rdQ",
+    "thumbnail": "https://i.ytimg.com/vi/5qgk9QJ4rdQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo8AYSfnsmM09Iazyrh6ZaqYQVew",
+    "title": "Decision forests in TensorFlow | Session",
+    "length": "9:22",
+    "views": "12,446",
+    "publish_time": "1 year ago"
+  }
+]

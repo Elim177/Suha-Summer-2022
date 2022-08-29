@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,491",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,437",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,827",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "6qQx6d1O10I",
+    "thumbnail": "https://i.ytimg.com/vi/6qQx6d1O10I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqJjuUA-dhrAVR5Ac-S-B7Qzh9FA",
+    "title": "How To Load Your Own Custom Dataset in Google Colab with Keras and TensorFlow",
+    "length": "16:19",
+    "views": "5,205",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "8wwfVV7ixyY",
+    "thumbnail": "https://i.ytimg.com/vi/8wwfVV7ixyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6p2vmrVeOpRsR0vqi2TRZ_iXAQ",
+    "title": "TensorFlow Tutorial 13 - Data Augmentation",
+    "length": "15:40",
+    "views": "13,492",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Vm_wFo4j3So",
+    "thumbnail": "https://i.ytimg.com/vi/Vm_wFo4j3So/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbNnX19xWZTuyaNX3KciwwtOCIDQ",
+    "title": "Datasets - Keras",
+    "length": "6:31",
+    "views": "3,737",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "Zrt76AIbeh4",
+    "thumbnail": "https://i.ytimg.com/vi/Zrt76AIbeh4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo97CtfcOngz1jxxPb0hQbFYN4MQ",
+    "title": "Fine-Tuning MobileNet on Custom Data Set with TensorFlow's Keras API",
+    "length": "15:11",
+    "views": "14,435",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "LDQ0C8WwzHY",
+    "thumbnail": "https://i.ytimg.com/vi/LDQ0C8WwzHY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkQW4LF8vKN55x1msUXOKULPD0NQ",
+    "title": "Object Detection on Custom Dataset with TensorFlow 2 and Keras in Python",
+    "length": "44:00",
+    "views": "53,562",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Jku4j0Ve-3Q",
+    "thumbnail": "https://i.ytimg.com/vi/Jku4j0Ve-3Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9h_UAk-FEsC_rZVlcqxQKSJMv5w",
+    "title": "Easier data processing with Keras",
+    "length": "8:56",
+    "views": "4,126",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "3FwGDUD_ZuQ",
+    "thumbnail": "https://i.ytimg.com/vi/3FwGDUD_ZuQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbw1q0PMqzNU8rDM1GQOATswARmA",
+    "title": "Keras with TensorFlow - Data Processing for Neural Network Training",
+    "length": "11:15",
+    "views": "34,076",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "WvoLTXIjBYU",
+    "thumbnail": "https://i.ytimg.com/vi/WvoLTXIjBYU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM-D0ZA9l3xyNYFbXD1tV8lh-5xg",
+    "title": "Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3",
+    "length": "18:39",
+    "views": "477,991",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "aKLcvGdOP6g",
+    "thumbnail": "https://i.ytimg.com/vi/aKLcvGdOP6g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOHcHmiGCcoBjhXiaLzzI4vQBSJQ",
+    "title": "Quickly get CSV into datasets for Keras (TensorFlow Tip of the Week)",
+    "length": "1:58",
+    "views": "24,080",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "u8BW_fl6WRc",
+    "thumbnail": "https://i.ytimg.com/vi/u8BW_fl6WRc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARgM1p1xcScSLQOxPUoa1ziNtpVA",
+    "title": "Tutorial on CNN implementation for own data set in keras(TF & Theano backend)-part-1",
+    "length": "34:50",
+    "views": "50,693",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "3yfRJKA1BiQ",
+    "thumbnail": "https://i.ytimg.com/vi/3yfRJKA1BiQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTt7hGEhNSsKwOuzqfTiGJgmYBVQ",
+    "title": "TensorFlow Tutorial #03-C Keras API",
+    "length": "23:11",
+    "views": "20,836",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "9OUJ-UluCyc",
+    "thumbnail": "https://i.ytimg.com/vi/9OUJ-UluCyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa3bNUb5nXzlvEz6srn80jIfxzuQ",
+    "title": "PyTorch vs. TensorFlow - DataLoader example",
+    "length": "5:03",
+    "views": "4,102",
+    "publish_time": "1 year ago"
+  }
+]

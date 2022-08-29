@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "qpFrg4gN4Mg",
+    "thumbnail": "https://i.ytimg.com/vi/qpFrg4gN4Mg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQsYIJuwJ4WRYC0o7v2aUhC5GifQ",
+    "title": "Build a Deep Iris Detection Model using Python and Tensorflow | Keypoint Detection",
+    "length": "1:42:22",
+    "views": "7,451",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "U7g7-Jzj9qo",
+    "thumbnail": "https://i.ytimg.com/vi/U7g7-Jzj9qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKZCWuVc-M623GTTW2YUi2s_MKg",
+    "title": "Inside TensorFlow: TF-Agents",
+    "length": "49:59",
+    "views": "17,471",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "X_KbNV2PKOI",
+    "thumbnail": "https://i.ytimg.com/vi/X_KbNV2PKOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPytZ4NefesdHLdRG98S5Or6YBA",
+    "title": "TFRecords - How to Read and Write Machine Learning Training Data",
+    "length": "8:59",
+    "views": "4,524",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "5ECD8J3dvDQ",
+    "thumbnail": "https://i.ytimg.com/vi/5ECD8J3dvDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB61djnOJn7tteFOTLRgdMVoXXZog",
+    "title": "Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)",
+    "length": "40:56",
+    "views": "107,193",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "k5c-vg4rjBw",
+    "thumbnail": "https://i.ytimg.com/vi/k5c-vg4rjBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLnCfjiHVxfX0mK2VlqtfJxO1_hQ",
+    "title": "Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)",
+    "length": "22:21",
+    "views": "309,279",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "N_W4EYtsa10",
+    "thumbnail": "https://i.ytimg.com/vi/N_W4EYtsa10/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAug_EPlSfGCAIEG4J_Xk2mrzpnBQ",
+    "title": "Build a Deep Face Detection Model with Python and Tensorflow | Full Course",
+    "length": "2:26:05",
+    "views": "19,424",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "264nTqrPCJQ",
+    "thumbnail": "https://i.ytimg.com/vi/264nTqrPCJQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiQuoTx2T26yXivCye5WoLejc7Hg",
+    "title": "Ease ML deployments with TensorFlow Serving - Kirkland ML Summit ‘19",
+    "length": "25:06",
+    "views": "3,887",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uaRO0AV6Tto",
+    "thumbnail": "https://i.ytimg.com/vi/uaRO0AV6Tto/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYgCmMUSqHr_zT59BAjsf20K3XWQ",
+    "title": "Inside TensorFlow: Resources and Variants",
+    "length": "46:55",
+    "views": "5,433",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,443",
+    "publish_time": "3 years ago"
+  }
+]

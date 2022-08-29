@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "rHgQrdME-DA",
+    "thumbnail": "https://i.ytimg.com/vi/rHgQrdME-DA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhet-42B-soIq-QmtdEOneF4e--A",
+    "title": "135 - A quick introduction to Metrics in deep learning. (Keras & TensorFlow)",
+    "length": "10:14",
+    "views": "6,606",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "t48a_KOh0fQ",
+    "thumbnail": "https://i.ytimg.com/vi/t48a_KOh0fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ_WAXnjx1hkxUM79Mlc6f7hznxA",
+    "title": "TensorFlow 1 vs TensorFlow 2: Is the new TF better?",
+    "length": "2:33",
+    "views": "11,719",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "-HbCA0WGbBg",
+    "thumbnail": "https://i.ytimg.com/vi/-HbCA0WGbBg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk1gX7lEviTHTCq1bTt2SpcNpINw",
+    "title": "Calculating Tensorflow Object Detection Metrics with Python | Mean Average  Precision (mAP) & Recall",
+    "length": "15:00",
+    "views": "16,140",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,909",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "ay1E1f8VqP8",
+    "thumbnail": "https://i.ytimg.com/vi/ay1E1f8VqP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6PapHc-BkVCQ8LIU6sfATajkX1A",
+    "title": "I built the same model with TensorFlow and PyTorch | Which Framework is better?",
+    "length": "13:33",
+    "views": "41,576",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "T7MjW-yWoEY",
+    "thumbnail": "https://i.ytimg.com/vi/T7MjW-yWoEY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKw7jV7Q6d58IPGMZP0SXsB4Fkyw",
+    "title": "TensorFlow for Computer Vision #6 - Does Increasing Model Complexity Increases the Accuracy?",
+    "length": "14:11",
+    "views": "182",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "SX67Mni0Or4",
+    "thumbnail": "https://i.ytimg.com/vi/SX67Mni0Or4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA24gFayOxpz3dKUY4YKuUK5CEbLg",
+    "title": "Neural Transformer Encoders for Timeseries Data in Keras (10.5)",
+    "length": "8:24",
+    "views": "2,649",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "9-2cdbV3BTk",
+    "thumbnail": "https://i.ytimg.com/vi/9-2cdbV3BTk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDRrvvURTY5UmecG8_ATAxOQHr8A",
+    "title": "Tensorflow MLP implementaion with MNIST dataset",
+    "length": "11:45",
+    "views": "4,254",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  }
+]

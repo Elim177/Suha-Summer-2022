@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "NbID_AqdZXM",
+    "thumbnail": "https://i.ytimg.com/vi/NbID_AqdZXM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy_X0DY43O06KJr_Dha_N9y48p5Q",
+    "title": "Simplified distributed training with tf.distribute parameter servers",
+    "length": "5:05",
+    "views": "2,840,164",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "S1tN9a4Proc",
+    "thumbnail": "https://i.ytimg.com/vi/S1tN9a4Proc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJyTOPBigr1_bLeUHX0yCKiVJfvw",
+    "title": "A friendly introduction to distributed training (ML Tech Talks)",
+    "length": "24:19",
+    "views": "19,752",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "0wNOgsmgogc",
+    "thumbnail": "https://i.ytimg.com/vi/0wNOgsmgogc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwGA6C0watT5Y73bWH_4dKxd8dlg",
+    "title": "Distributed Training using TensorFlow  Distributed Strategy-part-2",
+    "length": "11:04",
+    "views": "387",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1gfUYEvF640",
+    "thumbnail": "https://i.ytimg.com/vi/1gfUYEvF640/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbkLqCkn7PPM4U49Z2iNi64UQgPg",
+    "title": "Lecture 36: TensorFlow Distributed Training",
+    "length": "46:25",
+    "views": "5,662",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Ea6L_fq0GeM",
+    "thumbnail": "https://i.ytimg.com/vi/Ea6L_fq0GeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAho8cnXYGYMcKtrWlOtYFgeP53Gw",
+    "title": "Theory And Practice Of Distributed Training With Tensorflow",
+    "length": "35:03",
+    "views": "670",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "D4mJZQdgV0Y",
+    "thumbnail": "https://i.ytimg.com/vi/D4mJZQdgV0Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4B2XXWEvyQ2sRNccms5CKQMM2VQ",
+    "title": "What's new in TensorFlow 2.0? Video Series - (2 of X) - Keras Distribution Strategy Integration",
+    "length": "7:50",
+    "views": "3,079",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "bRMGoPqsn20",
+    "thumbnail": "https://i.ytimg.com/vi/bRMGoPqsn20/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9EDfBpvLmTGi9c3zF2FB6HyGwew",
+    "title": "Distributed TensorFlow training (Google I/O '18)",
+    "length": "35:29",
+    "views": "35,719",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "yH1cF7GnoIo",
+    "thumbnail": "https://i.ytimg.com/vi/yH1cF7GnoIo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JPDoqgzKJxOiclz9AMrf8CuMbw",
+    "title": "Performant, scalable models in TensorFlow 2 with tf.data, tf.function & tf.distribute (TF World '19)",
+    "length": "40:35",
+    "views": "8,537",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "dJ6AB6Fgh0U",
+    "thumbnail": "https://i.ytimg.com/vi/dJ6AB6Fgh0U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaH5uD3CMEFJC3y-waBxPWh64owQ",
+    "title": "Simplify Distributed TensorFlow Training for Fast Image Categorization at StarbucksVishwanath Subram",
+    "length": "39:44",
+    "views": "729",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "YH1ee0Ka2Mc",
+    "thumbnail": "https://i.ytimg.com/vi/YH1ee0Ka2Mc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCecOEENHFahBnb6Amw5v-BClZzNg",
+    "title": "Quick to Production with the Best of Both Apache Spark and Tensorflow on Databricks",
+    "length": "36:45",
+    "views": "6",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "cdNLtMszdLs",
+    "thumbnail": "https://i.ytimg.com/vi/cdNLtMszdLs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGTPAND0sdBleUu4v_VSY21LIwKw",
+    "title": "Tips and tricks for distributed large model training",
+    "length": "26:37",
+    "views": "2,119",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "LQ8b7piC1M4",
+    "thumbnail": "https://i.ytimg.com/vi/LQ8b7piC1M4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHgVx1a01AsZmDU9MZqbg8Uuon-A",
+    "title": "Slam Dunk Video Classification Tutorial (w/ TF 2.0 Distributed Training!)",
+    "length": "17:47",
+    "views": "5,425",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "95OyAjIZAbs",
+    "thumbnail": "https://i.ytimg.com/vi/95OyAjIZAbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkw9npKvEOgLRi3235cDEOlqVUbA",
+    "title": "Distributed Training On NVIDIA DGX Station A100 | Deep Learning Tutorial 43 (Tensorflow & Python)",
+    "length": "14:16",
+    "views": "13,582",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BrwKURU-wpk",
+    "thumbnail": "https://i.ytimg.com/vi/BrwKURU-wpk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzJlb-pZsZ9ixLKZfMvfD7gC_gGg",
+    "title": "TensorFlow Probability: Learning with confidence (TF Dev Summit '19)",
+    "length": "13:57",
+    "views": "54,237",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "U7g7-Jzj9qo",
+    "thumbnail": "https://i.ytimg.com/vi/U7g7-Jzj9qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKZCWuVc-M623GTTW2YUi2s_MKg",
+    "title": "Inside TensorFlow: TF-Agents",
+    "length": "49:59",
+    "views": "17,471",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "xzSCvXDcX68",
+    "thumbnail": "https://i.ytimg.com/vi/xzSCvXDcX68/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgzBY0imVS6oVkCb49HQU9P3qUWw",
+    "title": "MirroredStrategy demo for distributed training",
+    "length": "12:38",
+    "views": "8,413",
+    "publish_time": "6 months ago"
+  }
+]

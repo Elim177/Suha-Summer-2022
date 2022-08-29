@@ -1,0 +1,138 @@
+[
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "1C-hmu107v0",
+    "thumbnail": "https://i.ytimg.com/vi/1C-hmu107v0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR5WILGqxbQeJZ34nMixqqqtMjXQ",
+    "title": "TensorFlow 2.0: An Overview #AskTensorFlow",
+    "length": "8:57",
+    "views": "8,514",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "48rrIqnKM90",
+    "thumbnail": "https://i.ytimg.com/vi/48rrIqnKM90/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpZSSTlJV5r4tP-TbslRYSqKO-Rg",
+    "title": "【TensorFlow 2.0 系列教程】第一课：TensorFlow 2 环境的配置",
+    "length": "13:10",
+    "views": "2,232",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Ssj5BlqCJyE",
+    "thumbnail": "https://i.ytimg.com/vi/Ssj5BlqCJyE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhvnamhe9FH4qgLQChTGMDA-57Cw",
+    "title": "Visualising word embeddings using TensorFlow (TF-2.0)and Tensorboard",
+    "length": "7:39",
+    "views": "2,562",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k0Bm7t6VJ5U",
+    "thumbnail": "https://i.ytimg.com/vi/k0Bm7t6VJ5U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFcsu0-ErzDB4qbdgj_RwICq9O9Q",
+    "title": "Imbalanced X_ray Classification with Transfer Learning and Gradients CAM in Tensorflow",
+    "length": "18:30",
+    "views": "1,852",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VYQ8n3Besrw",
+    "thumbnail": "https://i.ytimg.com/vi/VYQ8n3Besrw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCog9A6iwDUrXfjIKkyGntRABbCJw",
+    "title": "Tensor2Tensor (TensorFlow @ O’Reilly AI Conference, San Francisco '18)",
+    "length": "39:01",
+    "views": "5,602",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tfM5QUNYtEA",
+    "thumbnail": "https://i.ytimg.com/vi/tfM5QUNYtEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zcQs_OOZXiYDKJlmw709zPo8KQ",
+    "title": "#7: Broadcasting, ragged tensor, sparse and dense tensor | TensorFlow | Tutorial",
+    "length": "25:08",
+    "views": "137",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "IBaDGxgY3Po",
+    "thumbnail": "https://i.ytimg.com/vi/IBaDGxgY3Po/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb6Hmudg_oTICjPujA911TYR3N2g",
+    "title": "NLP with TF Keras and HF Transformers with Merve Noyan",
+    "length": "59:59",
+    "views": "4,126",
+    "publish_time": "Streamed 5 months ago"
+  },
+  {
+    "videoId": "oGuCxVyEhiA",
+    "thumbnail": "https://i.ytimg.com/vi/oGuCxVyEhiA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWRiXNVBMWvxjrVxZXCdCAhXcwiQ",
+    "title": "Linear Regression with TF Keras",
+    "length": "15:36",
+    "views": "1,123",
+    "publish_time": "3 years ago"
+  }
+]

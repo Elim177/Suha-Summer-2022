@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_AKDqw6li58",
+    "thumbnail": "https://i.ytimg.com/vi/_AKDqw6li58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7XskPUQVZsRoEhIydW0XiniqTOw",
+    "title": "CuPy  A NumPy compatible Library for the GPU - Sean Farley",
+    "length": "27:38",
+    "views": "8,705",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,524",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Dm2wkObQSas",
+    "thumbnail": "https://i.ytimg.com/vi/Dm2wkObQSas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBU6ExYuImeZjBsfmCG-Y7yQlkSA",
+    "title": "TF-KR 첫 모임: Zen of NumPy",
+    "length": "40:55",
+    "views": "2,521",
+    "publish_time": "6 years ago"
+  },
+  {
+    "videoId": "cOHbuaoWWXw",
+    "thumbnail": "https://i.ytimg.com/vi/cOHbuaoWWXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0ZhNWsdJmQKzRWQWkht-4_4Vp6Q",
+    "title": "Deep Learning in TensorFlow #1 L3 - NumPy Array Creation",
+    "length": "8:41",
+    "views": "117",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "nkNbR1YUgp0",
+    "thumbnail": "https://i.ytimg.com/vi/nkNbR1YUgp0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjnXqnZKzhJIFVf7eazi7yjffvwA",
+    "title": "#4 Working on Tensorflow Image Classification with Transfer Learning  - Improving Model",
+    "length": "2:00:36",
+    "views": "51",
+    "publish_time": "Streamed 2 days ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tfM5QUNYtEA",
+    "thumbnail": "https://i.ytimg.com/vi/tfM5QUNYtEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zcQs_OOZXiYDKJlmw709zPo8KQ",
+    "title": "#7: Broadcasting, ragged tensor, sparse and dense tensor | TensorFlow | Tutorial",
+    "length": "25:08",
+    "views": "137",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6_2hzRopPbQ",
+    "thumbnail": "https://i.ytimg.com/vi/6_2hzRopPbQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVW8jp8o9NoPSHsLpNWuD7A2fqhA",
+    "title": "Tensorflow Tutorial for Python in 10 Minutes",
+    "length": "11:33",
+    "views": "92,440",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  }
+]

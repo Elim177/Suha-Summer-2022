@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kaQCdv46OBA",
+    "thumbnail": "https://i.ytimg.com/vi/kaQCdv46OBA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjXy6kuOwmjnh6AfSw1PyhpryJyw",
+    "title": "Resuming Training and Checkpoints in Python TensorFlow Keras (13.2)",
+    "length": "13:26",
+    "views": "4,254",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "gVO1dFCbi6o",
+    "thumbnail": "https://i.ytimg.com/vi/gVO1dFCbi6o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4D_zY06GAzFUwjH-GvCcwjUl_HQ",
+    "title": "Model Checkpoint in Tensorflow | Save Best Model using Checkpoint and Callbacks",
+    "length": "10:08",
+    "views": "1,231",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "SiXBO5qGCR0",
+    "thumbnail": "https://i.ytimg.com/vi/SiXBO5qGCR0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-VRbq7CF5d0zTQrpcHeqztlkduQ",
+    "title": "Tesorflow Callbacks - Model Checkpoint Deep Learning Tricks tf.keras.callbacks.ModelCheckpoint",
+    "length": "15:26",
+    "views": "703",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "j4_BSGiG8dY",
+    "thumbnail": "https://i.ytimg.com/vi/j4_BSGiG8dY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqGDQc9yV6yvAiFTf5FdJlzUFLSA",
+    "title": "TensorFlow Tutorial 23: TensorFlow Callbacks | TensorFlow  Callbacks, Checkpoints and Early Stopping",
+    "length": "17:29",
+    "views": "373",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "X_KbNV2PKOI",
+    "thumbnail": "https://i.ytimg.com/vi/X_KbNV2PKOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPytZ4NefesdHLdRG98S5Or6YBA",
+    "title": "TFRecords - How to Read and Write Machine Learning Training Data",
+    "length": "8:59",
+    "views": "4,523",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "yJg1FX2goCo",
+    "thumbnail": "https://i.ytimg.com/vi/yJg1FX2goCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALEZg7uqfX1-WyXFf-9e9bOLof3Q",
+    "title": "How to Train EfficientDet in TensorFlow 2 Object Detection",
+    "length": "28:25",
+    "views": "25,926",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IQU_6ORnGfQ",
+    "thumbnail": "https://i.ytimg.com/vi/IQU_6ORnGfQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBShQx1qq26LPGVAID_IuQiF82bRg",
+    "title": "Tensorflow: Variable Scopes",
+    "length": "2:51",
+    "views": "1,023",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uqomO_BZ44g",
+    "thumbnail": "https://i.ytimg.com/vi/uqomO_BZ44g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4iq4Z_JVzAAQRHEh7ZkB_X_VoTg",
+    "title": "Train Neural Network by loading your images |TensorFlow, CNN, Keras tutorial",
+    "length": "18:29",
+    "views": "174,759",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,439",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "k8VAfWI6iAw",
+    "thumbnail": "https://i.ytimg.com/vi/k8VAfWI6iAw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGegL1w6YSibmQnsVxKObnwB6u8A",
+    "title": "Simple Transformers Test Drive - Ep. 1 - Early Stopping & Checkpoints",
+    "length": "30:55",
+    "views": "4,895",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GHJXU7Fi-_I",
+    "thumbnail": "https://i.ytimg.com/vi/GHJXU7Fi-_I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6wJ83toxkFzY4DX9V2qhe_rI4lA",
+    "title": "Simple Transformers Test Drive - Ep. 3 - Best Checkpoint Strategy",
+    "length": "20:21",
+    "views": "1,356",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "j-3vuBynnOE",
+    "thumbnail": "https://i.ytimg.com/vi/j-3vuBynnOE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBGo8k6cETlTVR85WR0ruLydPqWA",
+    "title": "Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2",
+    "length": "18:51",
+    "views": "737,443",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "GhGUZrcB-WM",
+    "thumbnail": "https://i.ytimg.com/vi/GhGUZrcB-WM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd4qVb9n0nFWVe42Rd1bxHG1kCMA",
+    "title": "How-to Use HuggingFace's Datasets - Transformers From Scratch #1",
+    "length": "14:21",
+    "views": "6,826",
+    "publish_time": "1 year ago"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ltIW58NKBdQ",
+    "thumbnail": "https://i.ytimg.com/vi/ltIW58NKBdQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJH1Vhz19A75-r7OmosbrYvbDrtQ",
+    "title": "TypeError: 'numpy.float64' object cannot be interpreted as an integer / tensorflow object detection",
+    "length": "1:31",
+    "views": "852",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "_AKDqw6li58",
+    "thumbnail": "https://i.ytimg.com/vi/_AKDqw6li58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7XskPUQVZsRoEhIydW0XiniqTOw",
+    "title": "CuPy  A NumPy compatible Library for the GPU - Sean Farley",
+    "length": "27:38",
+    "views": "8,705",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4nYwL8ZZDK8",
+    "thumbnail": "https://i.ytimg.com/vi/4nYwL8ZZDK8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqLR2D0fTlKlNdl-qAc2lVAINbbw",
+    "title": "Working with Tensors | Φ-Flow Tutorial 1",
+    "length": "8:23",
+    "views": "654",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "0bkiqWc8WhY",
+    "thumbnail": "https://i.ytimg.com/vi/0bkiqWc8WhY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaw1IZmQ2b0viEfv91Ul3p1c8mmg",
+    "title": "TensorFlow 1.X Recipes for Supervised and Unsupervised Learning: Building Autoencoders|packtpub.com",
+    "length": "14:12",
+    "views": "138",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  }
+]

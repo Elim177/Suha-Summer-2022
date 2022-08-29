@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jp_S0L1i8Jw",
+    "thumbnail": "https://i.ytimg.com/vi/jp_S0L1i8Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-RXfmvWugbF2sSeZQk24qqIzspQ",
+    "title": "Error in Tensorflow",
+    "length": "13:35",
+    "views": "1,967",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yxUVu0iN26Q",
+    "thumbnail": "https://i.ytimg.com/vi/yxUVu0iN26Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0CNsTRRQnq0RVIZiGUT7WImHQaQ",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+    "length": "4:52",
+    "views": "26,710",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BhQW2OLzx_c",
+    "thumbnail": "https://i.ytimg.com/vi/BhQW2OLzx_c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLVHvMEMyYzcN6zKVJ6AocezWqsg",
+    "title": "TensorFlow Tutorial #17 Estimator API",
+    "length": "21:16",
+    "views": "20,640",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ngIzuh13a3g",
+    "thumbnail": "https://i.ytimg.com/vi/ngIzuh13a3g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeSmfhcxXK1w1z7u1zDCmw-x4Hgg",
+    "title": "AttributeError: module 'tensorflow' has no attribute 'placeholder'",
+    "length": "2:23",
+    "views": "2,147",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "N9kO52itd0Q",
+    "thumbnail": "https://i.ytimg.com/vi/N9kO52itd0Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsSF_kYr23qWmXw1C-NFzaxGt9g",
+    "title": "Debugging the Training Pipeline (TensorFlow)",
+    "length": "7:45",
+    "views": "252",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "OB7HJxMCF8s",
+    "thumbnail": "https://i.ytimg.com/vi/OB7HJxMCF8s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDEuUau8bPevDbii1WA5YhErOpnw",
+    "title": "How to fix AttributeError: module 'tensorflow' has no attribute 'Session'",
+    "length": "1:23",
+    "views": "12,768",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "R6JG8Ax8eZ8",
+    "thumbnail": "https://i.ytimg.com/vi/R6JG8Ax8eZ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO8xdvgB0-H9_8Q7NXi_yhtG9Uvg",
+    "title": "FIX ERROR AttributeError: module 'keras.optimizers' has no attribute 'Adam'",
+    "length": "0:30",
+    "views": "5,774",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "-QVe-97D3rg",
+    "thumbnail": "https://i.ytimg.com/vi/-QVe-97D3rg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDye8kI40ujz7f4cdFhi3rIcKs-mQ",
+    "title": "tester import tensorflow as tf",
+    "length": "1:08",
+    "views": "247",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "sFk2K85Y_WA",
+    "thumbnail": "https://i.ytimg.com/vi/sFk2K85Y_WA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCay00jV9VGMJ0saI-XRUOTIqqcGw",
+    "title": "BharatOnlineDS: keras.utils.Sequence",
+    "length": "2:33",
+    "views": "414",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,081",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Oiq4dZbXVWA",
+    "thumbnail": "https://i.ytimg.com/vi/Oiq4dZbXVWA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm7T9tV11Z7HahaoSH5Xn3OCiwsg",
+    "title": "you'll always be inferior",
+    "length": "5:15",
+    "views": "8,599",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "9mbQPjyu-7M",
+    "thumbnail": "https://i.ytimg.com/vi/9mbQPjyu-7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwoVVY2uNI_Azz5QdV6F8P3kmCOw",
+    "title": "Tokenization On Text In TF 2.0 | Converting Text To A Sequence Of Number | TF text vectorization",
+    "length": "12:04",
+    "views": "798",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "1bEqRvJrZgE",
+    "thumbnail": "https://i.ytimg.com/vi/1bEqRvJrZgE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA88WHavEsvA3EIZ778dmBdmmomnw",
+    "title": "How to Manage GPU Resource Utilization in Tensorflow and Keras",
+    "length": "14:09",
+    "views": "5,892",
+    "publish_time": "2 years ago"
+  }
+]

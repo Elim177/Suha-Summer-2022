@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,839",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,442",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "NMGsIsR7gR4",
+    "thumbnail": "https://i.ytimg.com/vi/NMGsIsR7gR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-4MnbT-r5MA2ZplMYq61XvM_Kkg",
+    "title": "Multi-Output Model with TensorFlow Keras Functional API",
+    "length": "12:53",
+    "views": "4,003",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GVShIIh3_yE",
+    "thumbnail": "https://i.ytimg.com/vi/GVShIIh3_yE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxzE-v2R8PUpC582PZhHHm7vmVJQ",
+    "title": "Keras Preprocessing Layers",
+    "length": "37:14",
+    "views": "13,650",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "wQz36Cmhe40",
+    "thumbnail": "https://i.ytimg.com/vi/wQz36Cmhe40/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVHQYXey9gd4Mf5C3x-g9IMo14dA",
+    "title": "TensorFlow Models with Functional API, Subclassing and Custom Layers - Full Stack Deep Learning",
+    "length": "49:33",
+    "views": "772",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "lor2LnEVn8M",
+    "thumbnail": "https://i.ytimg.com/vi/lor2LnEVn8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN0oRB73gHoBov6L5p2ft2_3hgqA",
+    "title": "[TensorFlow 2 Deep Learning] Dense Layer",
+    "length": "5:52",
+    "views": "19,941",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "G_atwIlFc4A",
+    "thumbnail": "https://i.ytimg.com/vi/G_atwIlFc4A/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe4AtXhjcsNHCf9U51Z_mBdr0fbg",
+    "title": "Deep Learning in TensorFlow #6 L5 - Keras Functional API: Shared Layers & Reuse Nodes",
+    "length": "6:33",
+    "views": "114",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "Gz2SGt94hRY",
+    "thumbnail": "https://i.ytimg.com/vi/Gz2SGt94hRY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdgEILGrlA0JsW2TkdHN8RgLNtCQ",
+    "title": "Tensorflow - Improving Model Performance - Estimator Train & Eval Spec - DIY#12",
+    "length": "17:20",
+    "views": "263",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uhzGTijaw8A",
+    "thumbnail": "https://i.ytimg.com/vi/uhzGTijaw8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9KyJbWSewRHeZsYfkVAC4VOtEhQ",
+    "title": "Inside TensorFlow: tf.Keras (part 2)",
+    "length": "51:34",
+    "views": "12,006",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "lajKHFfen9g",
+    "thumbnail": "https://i.ytimg.com/vi/lajKHFfen9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8zXtajiWXXxIF_SYG3fRYSn-Qrg",
+    "title": "Building a Regression model using Keras - Pt-11 | Machine Learning using TF",
+    "length": "9:37",
+    "views": "334",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "0jhdNS59SdU",
+    "thumbnail": "https://i.ytimg.com/vi/0jhdNS59SdU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSQdFcTme8fl9Cw2-V3n4Ytehscg",
+    "title": "Custom Layer in TensorFlow using Keras API | Custom Dense Layer in TensorFlow Keras | Deep Learning",
+    "length": "14:44",
+    "views": "2,187",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oXMEeGrAuk0",
+    "thumbnail": "https://i.ytimg.com/vi/oXMEeGrAuk0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-i1Qn63MTOeafoXzRwJ16kvLk_Q",
+    "title": "Layers - Keras",
+    "length": "10:57",
+    "views": "27,085",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "i5Et50umrUA",
+    "thumbnail": "https://i.ytimg.com/vi/i5Et50umrUA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZW2xrI50VNFRqw2NYj2CNO5E1NA",
+    "title": "Keras Text Vectorization Layer: Configure, Adapt, Use, Save, and Upload: Part A Background",
+    "length": "20:01",
+    "views": "621",
+    "publish_time": "Streamed 8 months ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "55Nd4T3_FhE",
+    "thumbnail": "https://i.ytimg.com/vi/55Nd4T3_FhE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8cgu0Brkap7IlaDyBHpSSNMgRMA",
+    "title": "Building a Regression model using Keras - Pt-12 | Machine Learning using TF",
+    "length": "3:51",
+    "views": "301",
+    "publish_time": "6 months ago"
+  }
+]

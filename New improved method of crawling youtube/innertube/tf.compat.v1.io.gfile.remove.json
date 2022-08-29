@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jp_S0L1i8Jw",
+    "thumbnail": "https://i.ytimg.com/vi/jp_S0L1i8Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-RXfmvWugbF2sSeZQk24qqIzspQ",
+    "title": "Error in Tensorflow",
+    "length": "13:35",
+    "views": "1,966",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,445",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,436",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "OB7HJxMCF8s",
+    "thumbnail": "https://i.ytimg.com/vi/OB7HJxMCF8s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDEuUau8bPevDbii1WA5YhErOpnw",
+    "title": "How to fix AttributeError: module 'tensorflow' has no attribute 'Session'",
+    "length": "1:23",
+    "views": "12,767",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "w0Ebsbz7HYA",
+    "thumbnail": "https://i.ytimg.com/vi/w0Ebsbz7HYA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9gaoAvUlUPlUpX5krAZXnENpqkQ",
+    "title": "How to Export a Tensorflow saved model for object detection classifier",
+    "length": "8:59",
+    "views": "5,438",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "MoMjIwGSFVQ",
+    "thumbnail": "https://i.ytimg.com/vi/MoMjIwGSFVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9brZxAJzyka_JXej1U4jY3Uv1AQ",
+    "title": "A tutorial on implementing tensor flow object detection API with Webcam",
+    "length": "25:31",
+    "views": "254,058",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "xhGq5zvbY3U",
+    "thumbnail": "https://i.ytimg.com/vi/xhGq5zvbY3U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7F-lVHFu2tzkSdsfujyMCjEaMSA",
+    "title": "Step 5-Final TFOD Set Up With Tensorflow 2.0 In Windows- COCO API installation Object Detection API",
+    "length": "12:09",
+    "views": "12,395",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "dZh_ps8gKgs",
+    "thumbnail": "https://i.ytimg.com/vi/dZh_ps8gKgs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-qsiNybkj9dXuT6KOfWzmX_sm_w",
+    "title": "Install Tensorflow Object Detection From Scratch in 5 Steps | Python Deep Learning",
+    "length": "28:03",
+    "views": "86,839",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,826",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "usR2LQuxhL4",
+    "thumbnail": "https://i.ytimg.com/vi/usR2LQuxhL4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD750Jqx4B5d-WIN3yL6USCGrbjDw",
+    "title": "How to Install TensorFlow Object Detection in 2020 (Webcam and Images!)",
+    "length": "30:43",
+    "views": "57,449",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "TOP2aLxcuu8",
+    "thumbnail": "https://i.ytimg.com/vi/TOP2aLxcuu8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiX5Ju8orQy9K7SZmVeWQYcwFZew",
+    "title": "TensorFlow high-level APIs: Part 2 - going deep on data and features",
+    "length": "5:09",
+    "views": "32,163",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Lx8JUJROkh0",
+    "thumbnail": "https://i.ytimg.com/vi/Lx8JUJROkh0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0vdBaa6NigFkQtvWe_YKACp3SVA",
+    "title": "TensorFlow Tutorial #04 Save & Restore",
+    "length": "14:53",
+    "views": "32,063",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "0EO08QEL0Q8",
+    "thumbnail": "https://i.ytimg.com/vi/0EO08QEL0Q8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZM9WzE2C-5Gs3TqGwnAW7QHFodA",
+    "title": "[Solved] AttributeError: 'module' object has no attribute",
+    "length": "5:08",
+    "views": "126,747",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "nJ3p96TevMw",
+    "thumbnail": "https://i.ytimg.com/vi/nJ3p96TevMw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrvqUbraN2BpFgu5H3rMWIkFkruA",
+    "title": "TensorFlow CS:GO custom object detection aim bot",
+    "length": "37:27",
+    "views": "51,379",
+    "publish_time": "3 years ago"
+  }
+]

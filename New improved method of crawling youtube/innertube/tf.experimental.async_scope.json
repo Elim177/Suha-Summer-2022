@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "rI0dGrUc-xA",
+    "thumbnail": "https://i.ytimg.com/vi/rI0dGrUc-xA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaexRvuCL_RET4fl5Ba_dz0vkvZg",
+    "title": "Tensorflow: 10 tf.InteractiveSession()",
+    "length": "3:52",
+    "views": "250",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "QSbAUxWfxQw",
+    "thumbnail": "https://i.ytimg.com/vi/QSbAUxWfxQw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjQs-nt04Wup9sKEkFkx8Je1uUnA",
+    "title": "TensorFlow Lite, Experimental GPU Delegate (Coding TensorFlow)",
+    "length": "3:46",
+    "views": "30,803",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,506",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "pAhPiF3yiXI",
+    "thumbnail": "https://i.ytimg.com/vi/pAhPiF3yiXI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFp48DdwpSEm8FyLUWZmsqPSzVdg",
+    "title": "TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API",
+    "length": "20:59",
+    "views": "54,999",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ChidCgtd1Lw",
+    "thumbnail": "https://i.ytimg.com/vi/ChidCgtd1Lw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiR7YRCejF8q2XeSUIZq7SojJ48A",
+    "title": "TensorFlow high-level APIs: Part 3 - Building and refining your models",
+    "length": "7:26",
+    "views": "25,824",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yvIPD2sNJ0s",
+    "thumbnail": "https://i.ytimg.com/vi/yvIPD2sNJ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQWLAr1mAvX2sPtutXHBlY0xrHQ",
+    "title": "07 TensorFlow Crashkurs: Tensoren stapeln: tf.stack",
+    "length": "2:33",
+    "views": "102",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yH1cF7GnoIo",
+    "thumbnail": "https://i.ytimg.com/vi/yH1cF7GnoIo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JPDoqgzKJxOiclz9AMrf8CuMbw",
+    "title": "Performant, scalable models in TensorFlow 2 with tf.data, tf.function & tf.distribute (TF World '19)",
+    "length": "40:35",
+    "views": "8,537",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "T_afaArR0E8",
+    "thumbnail": "https://i.ytimg.com/vi/T_afaArR0E8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCQqYSM-y6U8cAOSPRhlkswau28w",
+    "title": "How to Deploy a Tensorflow Model to Production",
+    "length": "38:10",
+    "views": "114,834",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "29cNZ_afIGU",
+    "thumbnail": "https://i.ytimg.com/vi/29cNZ_afIGU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzXwhjM5El540-kpTEXB8gASq1Ew",
+    "title": "Tensorflow: Use of PreMade Estimator tf.estimator",
+    "length": "10:40",
+    "views": "339",
+    "publish_time": "2 years ago"
+  }
+]

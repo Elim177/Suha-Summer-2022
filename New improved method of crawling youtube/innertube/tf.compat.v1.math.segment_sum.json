@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,783",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "C5CbsTDwQM0",
+    "thumbnail": "https://i.ytimg.com/vi/C5CbsTDwQM0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANCfBdvHta2CfVow29Qu2jg8xuGw",
+    "title": "TensorFlow Dataset Pipeline for Semantic Segmentation using tf.data API |  TensorFlow 2.0",
+    "length": "19:05",
+    "views": "2,373",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,909",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k7KfYXXrOj0",
+    "thumbnail": "https://i.ytimg.com/vi/k7KfYXXrOj0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCC6BTn7fTT8sdiQZrjPhPQH-Hw",
+    "title": "TensorFlow Tutorial 17 - Complete TensorBoard Guide",
+    "length": "1:22:55",
+    "views": "28,304",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "1C-hmu107v0",
+    "thumbnail": "https://i.ytimg.com/vi/1C-hmu107v0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR5WILGqxbQeJZ34nMixqqqtMjXQ",
+    "title": "TensorFlow 2.0: An Overview #AskTensorFlow",
+    "length": "8:57",
+    "views": "8,514",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "OI4cskHUslQ",
+    "thumbnail": "https://i.ytimg.com/vi/OI4cskHUslQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSc6QETqHHVV6zcEztkROsGP4o5w",
+    "title": "Inside TensorFlow: Summaries and TensorBoard",
+    "length": "43:23",
+    "views": "13,046",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "e1B7l3smXFE",
+    "thumbnail": "https://i.ytimg.com/vi/e1B7l3smXFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChdB-OMbMAufG43cIyPesU8cc6nQ",
+    "title": "TensorFlow: Tensor and Image Basics",
+    "length": "37:37",
+    "views": "1,777",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2uIq1FvVfp8",
+    "thumbnail": "https://i.ytimg.com/vi/2uIq1FvVfp8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsZtA8nsi9ONLPuuZkpJ7DenA79Q",
+    "title": "UNET with EfficientNet B0 as pretrained Encoder in TensorFlow 2.0 - UNET Segmentation",
+    "length": "20:28",
+    "views": "2,107",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4oNdaQk0Qv4",
+    "thumbnail": "https://i.ytimg.com/vi/4oNdaQk0Qv4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC7SnMZmLBvgc2xl0zbXnN-JN1tg",
+    "title": "The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018)",
+    "length": "19:47",
+    "views": "13,892",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "Ng_uGKcWfIo",
+    "thumbnail": "https://i.ytimg.com/vi/Ng_uGKcWfIo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvoAMDo0gZUyN-ZZQYJfCdLoBncg",
+    "title": "TIPS & TRICKS - How to Reshape Input Data for Long Short-Term Memory (LSTM) Networks in Tensorflow",
+    "length": "26:02",
+    "views": "1,761",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "Uzkhn5ENJzQ",
+    "thumbnail": "https://i.ytimg.com/vi/Uzkhn5ENJzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_eGEL37cdUefiYZzw2c2GYv8NrA",
+    "title": "Tensorboard with Tensorflow 2.0 under 10 mins",
+    "length": "8:15",
+    "views": "9,563",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1s9k2GxH2g4",
+    "thumbnail": "https://i.ytimg.com/vi/1s9k2GxH2g4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1UJ2dYpQNVob3DZAz1olLhHAOag",
+    "title": "Convert TensorFlow/Keras models to TensorFlow.js (TFJS)",
+    "length": "12:09",
+    "views": "8,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kPweUtct2yY",
+    "thumbnail": "https://i.ytimg.com/vi/kPweUtct2yY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0g59pJo_6VdwhkgEFAwK76_X1uQ",
+    "title": "Find out what’s new in TensorFlow 2.0 at #TFDevSummit '19",
+    "length": "1:39",
+    "views": "16,090",
+    "publish_time": "3 years ago"
+  }
+]

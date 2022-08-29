@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "NVY0FucNRU4",
+    "thumbnail": "https://i.ytimg.com/vi/NVY0FucNRU4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBktn4a1m1o0mUWmmfzsthU-OehGg",
+    "title": "TensorFlow Tutorial 06 - Save & Load Models",
+    "length": "8:44",
+    "views": "6,820",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,447",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "idus3KO6Wic",
+    "thumbnail": "https://i.ytimg.com/vi/idus3KO6Wic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFtJVkLVmg7G2gC9z5kvVh8OqwA",
+    "title": "TensorFlow Tutorial 10 - Saving and Loading Models",
+    "length": "7:28",
+    "views": "22,818",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "8Nl-of5C3uA",
+    "thumbnail": "https://i.ytimg.com/vi/8Nl-of5C3uA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAciZCqATcMgpWKZjJz7M3QwK29cg",
+    "title": "Save and Load a Model with TensorFlow's Keras API",
+    "length": "9:31",
+    "views": "26,871",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,438",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "rxgvKa0MdK4",
+    "thumbnail": "https://i.ytimg.com/vi/rxgvKa0MdK4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbdq7OYm2vO7y5Af9wuU57t61wVw",
+    "title": "Tensorflow 6강. File load in Tensorflow and Queue Thread (Full)",
+    "length": "2:18:06",
+    "views": "3,494",
+    "publish_time": "Streamed 5 years ago"
+  },
+  {
+    "videoId": "6pw9IDFxWFM",
+    "thumbnail": "https://i.ytimg.com/vi/6pw9IDFxWFM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6LAqrboxd7GW0W81oTKddXaPKQg",
+    "title": "Saving and Loading Machine Learning Models (Transfer Learning!)",
+    "length": "8:00",
+    "views": "232",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,459",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "hHWkvEcDBO0",
+    "thumbnail": "https://i.ytimg.com/vi/hHWkvEcDBO0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx5GyK7WS2omJDkg0O9GQPHVklfw",
+    "title": "Installing Latest TensorFlow version with CUDA, cudNN and GPU support - Step by step tutorial 2021",
+    "length": "8:25",
+    "views": "153,417",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "hPkmxczEj6k",
+    "thumbnail": "https://i.ytimg.com/vi/hPkmxczEj6k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs787PItFthA8ZdTuJC0YEQyWqbQ",
+    "title": "Tensorflow 6강. File load in Tensorflow and Queue Thread",
+    "length": "1:54:50",
+    "views": "2,621",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "ysUCoO7iksA",
+    "thumbnail": "https://i.ytimg.com/vi/ysUCoO7iksA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByXhYu6UQO-9LItn00aGDPr8FRg",
+    "title": "ModelExtras - Keras",
+    "length": "4:55",
+    "views": "1,514",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "P-5sMcpTE0g",
+    "thumbnail": "https://i.ytimg.com/vi/P-5sMcpTE0g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_vHtPGUrGNf1tCDTUJTGb-3y0sQ",
+    "title": "tf serving tutorial | tensorflow serving tutorial | Deep Learning Tutorial 48 (Tensorflow, Python)",
+    "length": "19:52",
+    "views": "18,982",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "T_vcUhoPX2U",
+    "thumbnail": "https://i.ytimg.com/vi/T_vcUhoPX2U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-c1VclgDToMGEnjBXq6_sylgRJg",
+    "title": "Tensorflow 2 Object Detection API Tutorial with a GPU in Windows 10",
+    "length": "27:08",
+    "views": "2,890",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BhQW2OLzx_c",
+    "thumbnail": "https://i.ytimg.com/vi/BhQW2OLzx_c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLVHvMEMyYzcN6zKVJ6AocezWqsg",
+    "title": "TensorFlow Tutorial #17 Estimator API",
+    "length": "21:16",
+    "views": "20,640",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "-4Gmux-82-8",
+    "thumbnail": "https://i.ytimg.com/vi/-4Gmux-82-8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3IIckb4A6Nj70TvJuLG_o3UNUoA",
+    "title": "TensorFlow Tutorial 18- Save TensorFlow Model | TensorFlow | Python",
+    "length": "15:44",
+    "views": "867",
+    "publish_time": "1 year ago"
+  }
+]

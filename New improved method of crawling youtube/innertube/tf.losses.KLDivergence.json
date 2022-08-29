@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "SxGYPqCgJWM",
+    "thumbnail": "https://i.ytimg.com/vi/SxGYPqCgJWM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgZ2pugurebj7fHJZzfg6AY46rLA",
+    "title": "Intuitively Understanding the KL Divergence",
+    "length": "5:13",
+    "views": "20,594",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HUsznqt2V5I",
+    "thumbnail": "https://i.ytimg.com/vi/HUsznqt2V5I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg58xBNsV9Lklw1MkAp8ueMFOiFQ",
+    "title": "Introduction to KL-Divergence | Simple Example | with usage in TensorFlow Probability",
+    "length": "15:29",
+    "views": "4,647",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GMrTBtzJkCg",
+    "thumbnail": "https://i.ytimg.com/vi/GMrTBtzJkCg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZT5Wn0oFpyyimC1IcSrIj5dltw",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.1 (Coding TensorFlow)",
+    "length": "4:43",
+    "views": "56,372",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "x9StQ8RZ0ag",
+    "thumbnail": "https://i.ytimg.com/vi/x9StQ8RZ0ag/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsKjAoo8Sq364y7sap_ZsXpW5aSQ",
+    "title": "Approximating the KL-Divergence | Two Ways in TensorFlow Probability",
+    "length": "8:58",
+    "views": "472",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "6ArSys5qHAU",
+    "thumbnail": "https://i.ytimg.com/vi/6ArSys5qHAU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1rxSBwMT4ZdjX4nZK9Vih4QEdnw",
+    "title": "Neural Networks Part 6: Cross Entropy",
+    "length": "9:31",
+    "views": "74,000",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "apmNSYWEEnw",
+    "thumbnail": "https://i.ytimg.com/vi/apmNSYWEEnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEoNkhtF4iXJ3EIRwYuQ_DKcZcTA",
+    "title": "Optimizers Losses And Metrics - Keras",
+    "length": "6:57",
+    "views": "9,150",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,840",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yxUVu0iN26Q",
+    "thumbnail": "https://i.ytimg.com/vi/yxUVu0iN26Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0CNsTRRQnq0RVIZiGUT7WImHQaQ",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+    "length": "4:52",
+    "views": "26,711",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Y2K13XDqwiM",
+    "thumbnail": "https://i.ytimg.com/vi/Y2K13XDqwiM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-Hn32q4FeMfHBmeZ3JxU6LSBuxQ",
+    "title": "Knowledge Distillation - Keras Code Examples",
+    "length": "16:54",
+    "views": "4,771",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Pwgpl9mKars",
+    "thumbnail": "https://i.ytimg.com/vi/Pwgpl9mKars/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYoFvcAlUH50-6UVhthkrnNXIkXg",
+    "title": "Intuitively Understanding the Cross Entropy Loss",
+    "length": "5:24",
+    "views": "14,613",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_2PZxw4FzDU",
+    "thumbnail": "https://i.ytimg.com/vi/_2PZxw4FzDU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKje4stWPDYyR61Ul9gSKhE5-ihA",
+    "title": "015  Jensen's inequality & Kullback Leibler divergence",
+    "length": "9:41",
+    "views": "19,645",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4eIlvlP-8wk",
+    "thumbnail": "https://i.ytimg.com/vi/4eIlvlP-8wk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFxYXIKFGLzsMy8zsEI6HfB7yu3g",
+    "title": "Custom Activation and Loss Functions in Keras and TensorFlow with Automatic Differentiation",
+    "length": "18:29",
+    "views": "10,426",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Md4b67HvmRo",
+    "thumbnail": "https://i.ytimg.com/vi/Md4b67HvmRo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdTHkVQyM_cIlar267kv_-F8IsGQ",
+    "title": "Tips Tricks 15 - Understanding Binary Cross-Entropy loss",
+    "length": "18:29",
+    "views": "5,642",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BzuEGdGHKjc",
+    "thumbnail": "https://i.ytimg.com/vi/BzuEGdGHKjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBibSQlHryrmAsJ5XgLDHJT2jLDIA",
+    "title": "JAX: accelerated machine learning research via composable function transformations in Python",
+    "length": "1:09:58",
+    "views": "7,976",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3aK_B1me2vY",
+    "thumbnail": "https://i.ytimg.com/vi/3aK_B1me2vY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0lAKg9_a_73wAOeiA4i1tRMOiHw",
+    "title": "DLFVC - D02 - Visualization using Tensorboard",
+    "length": "6:24",
+    "views": "71",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Ur2U96Xjgzo",
+    "thumbnail": "https://i.ytimg.com/vi/Ur2U96Xjgzo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0xPWpybdF90sTDhXa3g9PaqWlyg",
+    "title": "JAX numpy killer",
+    "length": "55:57",
+    "views": "2,194",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "K_fFHt6Y7ds",
+    "thumbnail": "https://i.ytimg.com/vi/K_fFHt6Y7ds/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhLxOxCE-Nlc-CN9slz9XBiHiGqw",
+    "title": "CuPy | SciPy 2019 | Masayuki Takagi",
+    "length": "23:20",
+    "views": "1,203",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "O69rBPifG44",
+    "thumbnail": "https://i.ytimg.com/vi/O69rBPifG44/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmVX3ST8GyuffPBwDn-_adpFwbjg",
+    "title": "Deep Learning in TensorFlow #1 L1 - Tensors for Deep Learning with NumPy and NumPy Structure",
+    "length": "11:43",
+    "views": "272",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "CecuWGpoztw",
+    "thumbnail": "https://i.ytimg.com/vi/CecuWGpoztw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJi30fd55jhYf6E5AgvEc-_nu4ng",
+    "title": "Bayesian Programming with JAX + NumPyro — Andy Kitchen",
+    "length": "17:54",
+    "views": "3,169",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "07BXhaWtUEo",
+    "thumbnail": "https://i.ytimg.com/vi/07BXhaWtUEo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8z4COTteFWd3sGC2VEqGpuBi7KQ",
+    "title": "Visualizing TensorFlow Models: Part 1",
+    "length": "17:13",
+    "views": "203",
+    "publish_time": "Streamed 5 months ago"
+  },
+  {
+    "videoId": "PZ_01UnKS9k",
+    "thumbnail": "https://i.ytimg.com/vi/PZ_01UnKS9k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSaWXv_X1vyceLz48Tmdg9PdjhOA",
+    "title": "Predicting LoL Wins with TensorFlow - Data Every Day #001",
+    "length": "50:40",
+    "views": "5,656",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GzjRE3MUx6Q",
+    "thumbnail": "https://i.ytimg.com/vi/GzjRE3MUx6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5Q_CgELJBsrAn6cDyBACp-cmzPw",
+    "title": "14- Pytorch: What is model.eval?",
+    "length": "16:09",
+    "views": "638",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "ULXXej1n9H8",
+    "thumbnail": "https://i.ytimg.com/vi/ULXXej1n9H8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7ImXObjoMg4s_qO42xxJshQYNmw",
+    "title": "Visualizing TensorFlow Models: Part I",
+    "length": "38:19",
+    "views": "230",
+    "publish_time": "Streamed 5 months ago"
+  },
+  {
+    "videoId": "wG_nF1awSSY",
+    "thumbnail": "https://i.ytimg.com/vi/wG_nF1awSSY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqoJxklv177_QCg5wKqX4pRwjPVQ",
+    "title": "What is Automatic Differentiation?",
+    "length": "14:25",
+    "views": "47,080",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "mbUwCPiqZBM",
+    "thumbnail": "https://i.ytimg.com/vi/mbUwCPiqZBM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDsDeIALYT3IXuB3f8dzKQDTf_6g",
+    "title": "Stanford MLSys Seminar Episode 6: Roy Frostig on JAX",
+    "length": "1:06:58",
+    "views": "3,831",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "cOHbuaoWWXw",
+    "thumbnail": "https://i.ytimg.com/vi/cOHbuaoWWXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0ZhNWsdJmQKzRWQWkht-4_4Vp6Q",
+    "title": "Deep Learning in TensorFlow #1 L3 - NumPy Array Creation",
+    "length": "8:41",
+    "views": "117",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "kF2AlpykJGY",
+    "thumbnail": "https://i.ytimg.com/vi/kF2AlpykJGY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZD2Sgr0pUsxcRbte-24dDHlRFCw",
+    "title": "Stack vs Concat in PyTorch, TensorFlow & NumPy - Deep Learning Tensor Ops",
+    "length": "16:50",
+    "views": "22,481",
+    "publish_time": "3 years ago"
+  }
+]

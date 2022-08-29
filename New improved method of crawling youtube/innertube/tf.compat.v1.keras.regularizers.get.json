@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "5CdJ9tMx1NA",
+    "thumbnail": "https://i.ytimg.com/vi/5CdJ9tMx1NA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhJd2gDo3zqdbtwD9imso4yrZdNg",
+    "title": "Initializers Activations Regularizers And Constraints - Keras",
+    "length": "13:05",
+    "views": "2,896",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,446",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "BFBZyT-kEVg",
+    "thumbnail": "https://i.ytimg.com/vi/BFBZyT-kEVg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoKGsLrDzwE26kQrRnZ6QKkXP7hw",
+    "title": "Tokenizer using Keras Tensorflow",
+    "length": "17:13",
+    "views": "488",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8Nl-of5C3uA",
+    "thumbnail": "https://i.ytimg.com/vi/8Nl-of5C3uA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAciZCqATcMgpWKZjJz7M3QwK29cg",
+    "title": "Save and Load a Model with TensorFlow's Keras API",
+    "length": "9:31",
+    "views": "26,871",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,438",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ysUCoO7iksA",
+    "thumbnail": "https://i.ytimg.com/vi/ysUCoO7iksA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByXhYu6UQO-9LItn00aGDPr8FRg",
+    "title": "ModelExtras - Keras",
+    "length": "4:55",
+    "views": "1,514",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "ULA37T24hWg",
+    "thumbnail": "https://i.ytimg.com/vi/ULA37T24hWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD57350LDjoBogubQd1t1qx_w-u4g",
+    "title": "Tokenization using Tensorflow Keras",
+    "length": "18:43",
+    "views": "663",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,839",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,081",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "CEFcwpBneFo",
+    "thumbnail": "https://i.ytimg.com/vi/CEFcwpBneFo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeoMgZtZUBblb86Kuso_UScW5YBA",
+    "title": "9.2: Using L1 and L2 Regularization in Keras and TensorFlow (Module 9, Part 2)",
+    "length": "8:29",
+    "views": "8,468",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,442",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "aner3u79IGw",
+    "thumbnail": "https://i.ytimg.com/vi/aner3u79IGw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbE-jo53rJM0yhXeHUX43BY0vqTw",
+    "title": "Regularization in Neural Networks and Deep Learning with Keras and TensorFlow",
+    "length": "13:18",
+    "views": "764",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zhWMMrHSSU0",
+    "thumbnail": "https://i.ytimg.com/vi/zhWMMrHSSU0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-nKlzHW5pXCHEXtt9aHqOu1ZdpQ",
+    "title": "Regularisation in Keras",
+    "length": "10:22",
+    "views": "274",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JEWzWv1fBFQ",
+    "thumbnail": "https://i.ytimg.com/vi/JEWzWv1fBFQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB89muhUxH5bONp-CjwqMUJMYaZlw",
+    "title": "Using L1 and L2 Regularization with Keras to Decrease Overfitting (5.3)",
+    "length": "6:19",
+    "views": "9,875",
+    "publish_time": "3 years ago"
+  }
+]

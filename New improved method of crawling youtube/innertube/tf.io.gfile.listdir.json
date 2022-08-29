@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,439",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,506",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "pECXKyaRfYM",
+    "thumbnail": "https://i.ytimg.com/vi/pECXKyaRfYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7uQ81p9vtro9pY_3eo0yutoD5g",
+    "title": "Using GPUs in TensorFlow, TensorBoard in notebooks, finding new datasets, & more! #AskTensorFlow",
+    "length": "12:56",
+    "views": "5,893",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zqavy_5QMk8",
+    "thumbnail": "https://i.ytimg.com/vi/zqavy_5QMk8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNgSYNSAQA-q9NQM0_OkEpJ6hhA",
+    "title": "TensorFlow Tutorial - Create TFRecords",
+    "length": "16:25",
+    "views": "8,002",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5MQ63pDxULw",
+    "thumbnail": "https://i.ytimg.com/vi/5MQ63pDxULw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JPLOLmjWfnsVAZW-ZxTTFUXC1g",
+    "title": "How to Build & Use TensorFlow Data Pipeline for Image Processing",
+    "length": "54:51",
+    "views": "2,846",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "zOfYBJHB8tg",
+    "thumbnail": "https://i.ytimg.com/vi/zOfYBJHB8tg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCEXKC6JhOiVtEy5xdSKX9anRWMw",
+    "title": "Convert weights file to tflite | Part-4",
+    "length": "5:34",
+    "views": "5,156",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "P7r0hIP2GQ4",
+    "thumbnail": "https://i.ytimg.com/vi/P7r0hIP2GQ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI4OqRXhExm2q12v0M_F20u8kCSQ",
+    "title": "Crop and Save YOLOv4 Object Detections | Custom YOLOv4 Functions with TensorFlow",
+    "length": "10:55",
+    "views": "16,683",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WvHr-yGnGPw",
+    "thumbnail": "https://i.ytimg.com/vi/WvHr-yGnGPw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUBA2FoabxASgcfhildQdNe67yaA",
+    "title": "Incredible things your community is creating with TensorFlow.js  - #MadeWithTFJS",
+    "length": "4:33",
+    "views": "1,729,254",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "0d-2551pQcM",
+    "thumbnail": "https://i.ytimg.com/vi/0d-2551pQcM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQl6ItQydluvkLH7WLvB2WDA6OaQ",
+    "title": "Training and deploying ML models on edge devices (TF Fall 2020 Updates)",
+    "length": "11:41",
+    "views": "12,722",
+    "publish_time": "1 year ago"
+  }
+]

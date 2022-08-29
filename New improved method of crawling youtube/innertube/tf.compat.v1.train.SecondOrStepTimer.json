@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "mcSZQdY7psA",
+    "thumbnail": "https://i.ytimg.com/vi/mcSZQdY7psA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTyPz5GWYohOJF0a4JCP0wVfv6Ow",
+    "title": "Train Custom Image Classifier from Scratch - End-to-End Tutorial  - 🤗 Transformers with HuggingPics",
+    "length": "15:10",
+    "views": "1,388",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3V9YFPfgyAY",
+    "thumbnail": "https://i.ytimg.com/vi/3V9YFPfgyAY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3VIhD5A44HkH_Wk5uhbFYvxc9sg",
+    "title": "Build and Train a Convolutional Neural Network with TensorFlow's Keras API",
+    "length": "9:55",
+    "views": "25,138",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "QEaBAZQCtwE",
+    "thumbnail": "https://i.ytimg.com/vi/QEaBAZQCtwE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDglPpZG9xPF1rGnXt-E5unyt962g",
+    "title": "Getting Started With Hugging Face in 15 Minutes | Transformers, Pipeline, Tokenizer, Models",
+    "length": "14:49",
+    "views": "5,893",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "NbID_AqdZXM",
+    "thumbnail": "https://i.ytimg.com/vi/NbID_AqdZXM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy_X0DY43O06KJr_Dha_N9y48p5Q",
+    "title": "Simplified distributed training with tf.distribute parameter servers",
+    "length": "5:05",
+    "views": "2,840,164",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "u--UVvH-LIQ",
+    "thumbnail": "https://i.ytimg.com/vi/u--UVvH-LIQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjCIl2y-eG4EXtJTWYp8zbtcy48g",
+    "title": "Simple Training with the 🤗 Transformers Trainer",
+    "length": "26:42",
+    "views": "4,305",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mPvcBq24Bt0",
+    "thumbnail": "https://i.ytimg.com/vi/mPvcBq24Bt0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ-bhGHr3e38SNnW42KJXE55AErw",
+    "title": "How to Implement GPT in Tensorflow | GPT-3, Transformer Implementation in TF",
+    "length": "33:58",
+    "views": "1,300",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GYDFBfx8Ts8",
+    "thumbnail": "https://i.ytimg.com/vi/GYDFBfx8Ts8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnl0iEXdB7D385Xm4WQAvMZ2JsCA",
+    "title": "How-to Build a Transformer for Language Classification in TensorFlow",
+    "length": "38:19",
+    "views": "15,663",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k5c-vg4rjBw",
+    "thumbnail": "https://i.ytimg.com/vi/k5c-vg4rjBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLnCfjiHVxfX0mK2VlqtfJxO1_hQ",
+    "title": "Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)",
+    "length": "22:21",
+    "views": "309,279",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "GhGUZrcB-WM",
+    "thumbnail": "https://i.ytimg.com/vi/GhGUZrcB-WM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd4qVb9n0nFWVe42Rd1bxHG1kCMA",
+    "title": "How-to Use HuggingFace's Datasets - Transformers From Scratch #1",
+    "length": "14:21",
+    "views": "6,826",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  }
+]

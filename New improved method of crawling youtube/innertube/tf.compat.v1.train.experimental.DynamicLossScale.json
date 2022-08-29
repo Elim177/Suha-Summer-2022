@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "Gz2SGt94hRY",
+    "thumbnail": "https://i.ytimg.com/vi/Gz2SGt94hRY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdgEILGrlA0JsW2TkdHN8RgLNtCQ",
+    "title": "Tensorflow - Improving Model Performance - Estimator Train & Eval Spec - DIY#12",
+    "length": "17:20",
+    "views": "263",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "amURyS6CAaY",
+    "thumbnail": "https://i.ytimg.com/vi/amURyS6CAaY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfQBLiW-4gnGxWzwciXi3rWif5qg",
+    "title": "Train a Deep Learning model for custom object detection using TensorFlow 2.x (On Google Colab)",
+    "length": "34:33",
+    "views": "12,125",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "KrS94hG4VU0",
+    "thumbnail": "https://i.ytimg.com/vi/KrS94hG4VU0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ1df1c3l39M4u-QXlBmbU1GFpWw",
+    "title": "Custom Training Loops for Multi Headed Tensorflow 2 Models",
+    "length": "4:19",
+    "views": "2,943",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "k5c-vg4rjBw",
+    "thumbnail": "https://i.ytimg.com/vi/k5c-vg4rjBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLnCfjiHVxfX0mK2VlqtfJxO1_hQ",
+    "title": "Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)",
+    "length": "22:21",
+    "views": "309,279",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3V9YFPfgyAY",
+    "thumbnail": "https://i.ytimg.com/vi/3V9YFPfgyAY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3VIhD5A44HkH_Wk5uhbFYvxc9sg",
+    "title": "Build and Train a Convolutional Neural Network with TensorFlow's Keras API",
+    "length": "9:55",
+    "views": "25,138",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kq2Gjv_pPe8",
+    "thumbnail": "https://i.ytimg.com/vi/kq2Gjv_pPe8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0L_y2txVCITqJ_7gp7_ZBgFZ7Bg",
+    "title": "Creating TFRecords - TensorFlow Object Detection API Tutorial p.4",
+    "length": "16:25",
+    "views": "174,105",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "9IEcI5JZWg8",
+    "thumbnail": "https://i.ytimg.com/vi/9IEcI5JZWg8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0K5_QlwFmFe21H5pDIgv6ujfI4w",
+    "title": "04 Train Keras Model Using Your Own Dataset",
+    "length": "10:13",
+    "views": "6,436",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,697",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "2UHCjhyNLKw",
+    "thumbnail": "https://i.ytimg.com/vi/2UHCjhyNLKw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZvi7i8JTzUNZFUaxk7_3vnU5Ig",
+    "title": "[TensorFlow 2 Deep Learning] Dropout, Early Stopping",
+    "length": "6:01",
+    "views": "3,636",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "LsdxvjLWkIY",
+    "thumbnail": "https://i.ytimg.com/vi/LsdxvjLWkIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY6N5Q2kTMChdGZHy5zBu_FrHVow",
+    "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras & Python)",
+    "length": "25:55",
+    "views": "73,699",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Bm4RSHTLXFE",
+    "thumbnail": "https://i.ytimg.com/vi/Bm4RSHTLXFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmbrBg1jYMrKZ6jzX_yafmvlhDtw",
+    "title": "How to compile and train model using keras | Keras tutorial videos",
+    "length": "10:09",
+    "views": "871",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "g2t7M2HTZ9U",
+    "thumbnail": "https://i.ytimg.com/vi/g2t7M2HTZ9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRa2Vs2uJh-cah3BLIVqyUa2ZAKA",
+    "title": "TensorFlow Tutorial 04 - Linear Regression - Full Project Walkthrough",
+    "length": "30:16",
+    "views": "13,324",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "IrPhMM_RUmg",
+    "thumbnail": "https://i.ytimg.com/vi/IrPhMM_RUmg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2cuPo-5BWueTpPe1LaWdyN1Q4Q",
+    "title": "TensorFlow Tutorial 10 - Recurrent Neural Nets (RNN & LSTM & GRU)",
+    "length": "10:30",
+    "views": "16,295",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "U7g7-Jzj9qo",
+    "thumbnail": "https://i.ytimg.com/vi/U7g7-Jzj9qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKZCWuVc-M623GTTW2YUi2s_MKg",
+    "title": "Inside TensorFlow: TF-Agents",
+    "length": "49:59",
+    "views": "17,471",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "-vHQub0NXI4",
+    "thumbnail": "https://i.ytimg.com/vi/-vHQub0NXI4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkhJ7YMTPNrtng8y6oDfdvRfh0Pg",
+    "title": "Get started with using TensorFlow to solve for regression problems (Coding TensorFlow)",
+    "length": "11:39",
+    "views": "200,039",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "aBV3VfPlXDE",
+    "thumbnail": "https://i.ytimg.com/vi/aBV3VfPlXDE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDabazT-NNl7nQKr1TXQwsJLgPNmw",
+    "title": "2022 從Python到TensorFlow線上讀書會 tf.keras.backend",
+    "length": "15:34",
+    "views": "3",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "PGm8pLp7T40",
+    "thumbnail": "https://i.ytimg.com/vi/PGm8pLp7T40/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLymJEx7MJv6vaH0dkYPez2Ir2Zw",
+    "title": "Deep Learning 11: Linear Regression using Tensor Flow in Google Colaboratory",
+    "length": "11:31",
+    "views": "5,260",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "a_RkE897-Kw",
+    "thumbnail": "https://i.ytimg.com/vi/a_RkE897-Kw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeR1ZoU55Vtl4pQAxMa3R5gcvR5w",
+    "title": "Introduction to Neural Networks in TensorFlow 2.0",
+    "length": "1:45:47",
+    "views": "192",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Xiab2JhwzYY",
+    "thumbnail": "https://i.ytimg.com/vi/Xiab2JhwzYY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXpoNu1ttY7MfB0AQ_ln_55BaSKQ",
+    "title": "Tensorflow Basics Tutorial Series - (Pt.1) Linear Regression",
+    "length": "19:53",
+    "views": "43,726",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "55Nd4T3_FhE",
+    "thumbnail": "https://i.ytimg.com/vi/55Nd4T3_FhE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8cgu0Brkap7IlaDyBHpSSNMgRMA",
+    "title": "Building a Regression model using Keras - Pt-12 | Machine Learning using TF",
+    "length": "3:51",
+    "views": "301",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "PcstG8qiObc",
+    "thumbnail": "https://i.ytimg.com/vi/PcstG8qiObc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPmK19Q-4og4jVVD-VYx5kx94RZA",
+    "title": "TensorFlow Tutorial 02 - Tensor Basics - Beginner Course",
+    "length": "22:44",
+    "views": "12,877",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "UYyqNH3r4lk",
+    "thumbnail": "https://i.ytimg.com/vi/UYyqNH3r4lk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFjQ3IWDC202NScqV5bC4FGtg5sA",
+    "title": "Tensorflow 7 Variable (neural network tutorials)",
+    "length": "5:55",
+    "views": "9,916",
+    "publish_time": "6 years ago"
+  },
+  {
+    "videoId": "wuo4JdG3SvU",
+    "thumbnail": "https://i.ytimg.com/vi/wuo4JdG3SvU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5dC1woh4lLpEEDjk0F3PDmeUSQw",
+    "title": "TensorFlow Tutorial #01 Simple Linear Model",
+    "length": "21:04",
+    "views": "178,970",
+    "publish_time": "6 years ago"
+  }
+]

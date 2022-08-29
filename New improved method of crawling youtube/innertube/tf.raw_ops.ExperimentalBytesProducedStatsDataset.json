@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "X_KbNV2PKOI",
+    "thumbnail": "https://i.ytimg.com/vi/X_KbNV2PKOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPytZ4NefesdHLdRG98S5Or6YBA",
+    "title": "TFRecords - How to Read and Write Machine Learning Training Data",
+    "length": "8:59",
+    "views": "4,524",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zqavy_5QMk8",
+    "thumbnail": "https://i.ytimg.com/vi/zqavy_5QMk8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNgSYNSAQA-q9NQM0_OkEpJ6hhA",
+    "title": "TensorFlow Tutorial - Create TFRecords",
+    "length": "16:25",
+    "views": "8,002",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "5MQ63pDxULw",
+    "thumbnail": "https://i.ytimg.com/vi/5MQ63pDxULw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JPLOLmjWfnsVAZW-ZxTTFUXC1g",
+    "title": "How to Build & Use TensorFlow Data Pipeline for Image Processing",
+    "length": "54:51",
+    "views": "2,847",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "DlISevQmvFc",
+    "thumbnail": "https://i.ytimg.com/vi/DlISevQmvFc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPhBFK4kN4ekyC77_B6OZjh8D3LQ",
+    "title": "TensorFlow Data Pipeline. Practical tutorial.",
+    "length": "14:11",
+    "views": "1,238",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Ssj5BlqCJyE",
+    "thumbnail": "https://i.ytimg.com/vi/Ssj5BlqCJyE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhvnamhe9FH4qgLQChTGMDA-57Cw",
+    "title": "Visualising word embeddings using TensorFlow (TF-2.0)and Tensorboard",
+    "length": "7:39",
+    "views": "2,562",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "egjgcmeJ0wQ",
+    "thumbnail": "https://i.ytimg.com/vi/egjgcmeJ0wQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1EqFWP3XkZD2-inaVJDxtbfoYSQ",
+    "title": "bytesize: bactopia & using nf-core components in non-nf-core pipelines",
+    "length": "21:30",
+    "views": "23",
+    "publish_time": "10 hours ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  }
+]

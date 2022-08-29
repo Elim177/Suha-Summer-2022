@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "Hx3A0A2lM84",
+    "thumbnail": "https://i.ytimg.com/vi/Hx3A0A2lM84/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOC4nzug18zH49YFiEDYgVqh1Fw",
+    "title": "MLIR: Accelerating TF with compilers (TF Dev Summit '20)",
+    "length": "10:19",
+    "views": "7,487",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "R5LLIj8EMxw",
+    "thumbnail": "https://i.ytimg.com/vi/R5LLIj8EMxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI7VVWTJmmVs454MSTXtL-G8qTVA",
+    "title": "Inside TensorFlow: MLIR for TF developers",
+    "length": "43:41",
+    "views": "7,702",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HXzz87WVm6c",
+    "thumbnail": "https://i.ytimg.com/vi/HXzz87WVm6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHko67TvfksHVKlAL6wsigUslIA",
+    "title": "237 - What is Tensorflow Lite and how to convert keras model to tflite?",
+    "length": "30:41",
+    "views": "4,719",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "6BwqK6E8v3g",
+    "thumbnail": "https://i.ytimg.com/vi/6BwqK6E8v3g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTFmS5uEkV9ElEobdN01m4V8wXRA",
+    "title": "Read a paper: Multi-level Intermediate Representation (MLIR)",
+    "length": "7:42",
+    "views": "737",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "4xuxOKveu9U",
+    "thumbnail": "https://i.ytimg.com/vi/4xuxOKveu9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpP6gY3AWp164MJGa4kCqRvbi0aA",
+    "title": "Inside TensorFlow: New TF Lite Converter",
+    "length": "37:32",
+    "views": "7,731",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "FE-Gw6YTd8s",
+    "thumbnail": "https://i.ytimg.com/vi/FE-Gw6YTd8s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAVHF23KWUTuJfim8_k7tAy-SJKA",
+    "title": "TVM Conf 2020 - Day 2 - MLIR and MLIR in the TensorFlow Ecosystem",
+    "length": "30:55",
+    "views": "1,198",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "v9a240kjAx4",
+    "thumbnail": "https://i.ytimg.com/vi/v9a240kjAx4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL6aDgXdn7RzRf2mwPZ9kNuSrBpA",
+    "title": "Collaborative ML with TensorBoard.dev (TF Dev Summit '20)",
+    "length": "5:47",
+    "views": "7,980",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "bljgNwojUUc",
+    "thumbnail": "https://i.ytimg.com/vi/bljgNwojUUc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsNFr4kA9RC8ooCPk300eSnyenag",
+    "title": "Zero to Hero with TensorFlow (TF Fall 2020 Updates)",
+    "length": "15:19",
+    "views": "18,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "yvIPD2sNJ0s",
+    "thumbnail": "https://i.ytimg.com/vi/yvIPD2sNJ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQWLAr1mAvX2sPtutXHBlY0xrHQ",
+    "title": "07 TensorFlow Crashkurs: Tensoren stapeln: tf.stack",
+    "length": "2:33",
+    "views": "102",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4oNdaQk0Qv4",
+    "thumbnail": "https://i.ytimg.com/vi/4oNdaQk0Qv4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC7SnMZmLBvgc2xl0zbXnN-JN1tg",
+    "title": "The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018)",
+    "length": "19:47",
+    "views": "13,892",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "IBaDGxgY3Po",
+    "thumbnail": "https://i.ytimg.com/vi/IBaDGxgY3Po/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb6Hmudg_oTICjPujA911TYR3N2g",
+    "title": "NLP with TF Keras and HF Transformers with Merve Noyan",
+    "length": "59:59",
+    "views": "4,126",
+    "publish_time": "Streamed 5 months ago"
+  },
+  {
+    "videoId": "qzljG6DKgic",
+    "thumbnail": "https://i.ytimg.com/vi/qzljG6DKgic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmhGFSw9C9IJfZVfFw3pK94jY65g",
+    "title": "2019 EuroLLVM Developers’ Meeting: T. Shpeisman & C. Lattner “MLIR: Multi-Level Intermediate Repr..”",
+    "length": "40:23",
+    "views": "21,426",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "n7byMbl2VUQ",
+    "thumbnail": "https://i.ytimg.com/vi/n7byMbl2VUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj4UEGeyBr8vgyu3LCwoZBpJcFZA",
+    "title": "Scaling Tensorflow data processing with tf.data (TF Dev Summit '20)",
+    "length": "12:44",
+    "views": "10,279",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "15tiQoPpuZ8",
+    "thumbnail": "https://i.ytimg.com/vi/15tiQoPpuZ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRErhFFbNXSqsGh5g1rRZqEidBHw",
+    "title": "TFRT: A new TensorFlow runtime (TF Dev Summit '20)",
+    "length": "10:10",
+    "views": "7,994",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  }
+]

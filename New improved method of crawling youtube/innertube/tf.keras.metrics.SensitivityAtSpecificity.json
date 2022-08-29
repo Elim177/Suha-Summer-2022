@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "rHgQrdME-DA",
+    "thumbnail": "https://i.ytimg.com/vi/rHgQrdME-DA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhet-42B-soIq-QmtdEOneF4e--A",
+    "title": "135 - A quick introduction to Metrics in deep learning. (Keras & TensorFlow)",
+    "length": "10:14",
+    "views": "6,606",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "nx10eh4CoOs",
+    "thumbnail": "https://i.ytimg.com/vi/nx10eh4CoOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK4CjTfulO5-S1ipTAxQvGfgD6Dg",
+    "title": "TensorFlow Predictions and metrics",
+    "length": "4:11",
+    "views": "1,012",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "PM6uvCLyeXM",
+    "thumbnail": "https://i.ytimg.com/vi/PM6uvCLyeXM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKoPqOD8aPWFaKKsvL1tluauN7JQ",
+    "title": "[AI] Binary classification using tensorflow keras",
+    "length": "17:12",
+    "views": "9,174",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,506",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,443",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "MLEKEplgCas",
+    "thumbnail": "https://i.ytimg.com/vi/MLEKEplgCas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfkfX1LKkl_wwY5yGeZs_KFd1WQ",
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch & cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "length": "26:16",
+    "views": "13,694",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "IrPhMM_RUmg",
+    "thumbnail": "https://i.ytimg.com/vi/IrPhMM_RUmg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2cuPo-5BWueTpPe1LaWdyN1Q4Q",
+    "title": "TensorFlow Tutorial 10 - Recurrent Neural Nets (RNN & LSTM & GRU)",
+    "length": "10:30",
+    "views": "16,295",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "apmNSYWEEnw",
+    "thumbnail": "https://i.ytimg.com/vi/apmNSYWEEnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEoNkhtF4iXJ3EIRwYuQ_DKcZcTA",
+    "title": "Optimizers Losses And Metrics - Keras",
+    "length": "6:57",
+    "views": "9,150",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "KrbpKg5TZXc",
+    "thumbnail": "https://i.ytimg.com/vi/KrbpKg5TZXc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5PO8N7Md2cset1-MSEYsE0Zjxog",
+    "title": "Stream 13 : Optimisers, Losses and Metrics in Keras",
+    "length": "1:02:59",
+    "views": "223",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "-wKOn8s3iYU",
+    "thumbnail": "https://i.ytimg.com/vi/-wKOn8s3iYU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyhLih1xCJhr3ElD7gWCDS-vQy2w",
+    "title": "tensorflow tf.keras mnist with tensorflow functions and self written digits numbers",
+    "length": "10:13",
+    "views": "162",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kaQCdv46OBA",
+    "thumbnail": "https://i.ytimg.com/vi/kaQCdv46OBA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjXy6kuOwmjnh6AfSw1PyhpryJyw",
+    "title": "Resuming Training and Checkpoints in Python TensorFlow Keras (13.2)",
+    "length": "13:26",
+    "views": "4,254",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "AiyK0idr4uM",
+    "thumbnail": "https://i.ytimg.com/vi/AiyK0idr4uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb8hwakP2i0U1X5yTd-R6LDsRXrg",
+    "title": "Rank, Axes, and Shape Explained - Tensors for Deep Learning",
+    "length": "10:04",
+    "views": "57,207",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "uhzGTijaw8A",
+    "thumbnail": "https://i.ytimg.com/vi/uhzGTijaw8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9KyJbWSewRHeZsYfkVAC4VOtEhQ",
+    "title": "Inside TensorFlow: tf.Keras (part 2)",
+    "length": "51:34",
+    "views": "12,006",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1C-hmu107v0",
+    "thumbnail": "https://i.ytimg.com/vi/1C-hmu107v0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR5WILGqxbQeJZ34nMixqqqtMjXQ",
+    "title": "TensorFlow 2.0: An Overview #AskTensorFlow",
+    "length": "8:57",
+    "views": "8,514",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "wQ8BIBpya2k",
+    "thumbnail": "https://i.ytimg.com/vi/wQ8BIBpya2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1tITRmFx0cs8Kz91aIyEuIBhNpA",
+    "title": "Deep Learning with Python, TensorFlow, and Keras tutorial",
+    "length": "20:34",
+    "views": "1,111,646",
+    "publish_time": "3 years ago"
+  }
+]

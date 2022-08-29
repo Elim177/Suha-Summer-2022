@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2JtCNIyGNPU",
+    "thumbnail": "https://i.ytimg.com/vi/2JtCNIyGNPU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8khFToRA7o_ozeOj6gltO65olxA",
+    "title": "Silent TensorFlow tutorial | tf.cast (Part 1)",
+    "length": "8:35",
+    "views": "256",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "rI0dGrUc-xA",
+    "thumbnail": "https://i.ytimg.com/vi/rI0dGrUc-xA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaexRvuCL_RET4fl5Ba_dz0vkvZg",
+    "title": "Tensorflow: 10 tf.InteractiveSession()",
+    "length": "3:52",
+    "views": "250",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "dUEDSFaBUPU",
+    "thumbnail": "https://i.ytimg.com/vi/dUEDSFaBUPU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXpnV1NpbX7x6E1XVfrEicrUKWgw",
+    "title": "Tensorflow: 08 Data Types and Casting Type Casting",
+    "length": "6:48",
+    "views": "42",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "U7g7-Jzj9qo",
+    "thumbnail": "https://i.ytimg.com/vi/U7g7-Jzj9qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKZCWuVc-M623GTTW2YUi2s_MKg",
+    "title": "Inside TensorFlow: TF-Agents",
+    "length": "49:59",
+    "views": "17,471",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "9Wid86JzbAg",
+    "thumbnail": "https://i.ytimg.com/vi/9Wid86JzbAg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9WeaI_pA7p0Tat-Hj46D2zSAPEw",
+    "title": "tf dtype: Print And Check TensorFlow Tensor Type - TensorFlow Tutorial",
+    "length": "2:22",
+    "views": "6",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "nlB_dRudPnE",
+    "thumbnail": "https://i.ytimg.com/vi/nlB_dRudPnE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDj1vUwmNISAcCO5Ga14UlP4SI0w",
+    "title": "dtype related functions - tf.equal and tf.cast",
+    "length": "2:54",
+    "views": "41",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uMVa-S55uK4",
+    "thumbnail": "https://i.ytimg.com/vi/uMVa-S55uK4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKv5V2MEd6unuueTwPV22KUByHjw",
+    "title": "Answering Your TF Questions #AskTensorFlow",
+    "length": "0:42",
+    "views": "5,033",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "MSXouZPyTrc",
+    "thumbnail": "https://i.ytimg.com/vi/MSXouZPyTrc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgIrVkpF-g03XLnu11hZmzI44Shw",
+    "title": "Inside TensorFlow: Functions, not sessions",
+    "length": "46:09",
+    "views": "11,611",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "AiyK0idr4uM",
+    "thumbnail": "https://i.ytimg.com/vi/AiyK0idr4uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb8hwakP2i0U1X5yTd-R6LDsRXrg",
+    "title": "Rank, Axes, and Shape Explained - Tensors for Deep Learning",
+    "length": "10:04",
+    "views": "57,207",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "LawaN3BdI00",
+    "thumbnail": "https://i.ytimg.com/vi/LawaN3BdI00/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmT3Nx6K0y1AHh42WK3WhqP54PmQ",
+    "title": "Everything You Need To Master Actor Critic Methods | Tensorflow 2 Tutorial",
+    "length": "40:47",
+    "views": "27,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "X_KbNV2PKOI",
+    "thumbnail": "https://i.ytimg.com/vi/X_KbNV2PKOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPytZ4NefesdHLdRG98S5Or6YBA",
+    "title": "TFRecords - How to Read and Write Machine Learning Training Data",
+    "length": "8:59",
+    "views": "4,523",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  }
+]

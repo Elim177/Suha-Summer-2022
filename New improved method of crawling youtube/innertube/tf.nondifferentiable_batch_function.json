@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "yH1cF7GnoIo",
+    "thumbnail": "https://i.ytimg.com/vi/yH1cF7GnoIo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JPDoqgzKJxOiclz9AMrf8CuMbw",
+    "title": "Performant, scalable models in TensorFlow 2 with tf.data, tf.function & tf.distribute (TF World '19)",
+    "length": "40:35",
+    "views": "8,537",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ROxrFOEbsQE",
+    "thumbnail": "https://i.ytimg.com/vi/ROxrFOEbsQE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbkSg1QyEccK2wQszhHjqoWQbEKA",
+    "title": "Batching inputs together (TensorFlow)",
+    "length": "2:51",
+    "views": "1,227",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "PicxU81owCs",
+    "thumbnail": "https://i.ytimg.com/vi/PicxU81owCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRKOnP2KF6pPxJwQlLJyJbXSOFnQ",
+    "title": "Lecture 7: Introduction to TensorFlow",
+    "length": "1:12:33",
+    "views": "224,150",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,507",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "MLEKEplgCas",
+    "thumbnail": "https://i.ytimg.com/vi/MLEKEplgCas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfkfX1LKkl_wwY5yGeZs_KFd1WQ",
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch & cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "length": "26:16",
+    "views": "13,694",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "E0H4UCEtsGA",
+    "thumbnail": "https://i.ytimg.com/vi/E0H4UCEtsGA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb-12PVl9y7jrfrQlEqBDd-47MwA",
+    "title": "8  TensorFlow Sessions and Batching Data",
+    "length": "17:21",
+    "views": "97",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BrwKURU-wpk",
+    "thumbnail": "https://i.ytimg.com/vi/BrwKURU-wpk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzJlb-pZsZ9ixLKZfMvfD7gC_gGg",
+    "title": "TensorFlow Probability: Learning with confidence (TF Dev Summit '19)",
+    "length": "13:57",
+    "views": "54,237",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "pf3nVaquCCo",
+    "thumbnail": "https://i.ytimg.com/vi/pf3nVaquCCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYLK3cosD1f9Z4hsYuIPf3PyCB4A",
+    "title": "Tensor Flow 2.0  - Part 1: Deep Learning and Tabular Data + tf.function",
+    "length": "1:25:51",
+    "views": "241",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uIcqeP7MFH0",
+    "thumbnail": "https://i.ytimg.com/vi/uIcqeP7MFH0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMhSiShU6DUPrMQiBHoVdI3h-KfA",
+    "title": "tf.data: Fast, flexible, and easy-to-use input pipelines (TensorFlow Dev Summit 2018)",
+    "length": "15:10",
+    "views": "64,491",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "c_248vw8QJw",
+    "thumbnail": "https://i.ytimg.com/vi/c_248vw8QJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABBZJG7xKRokBthlVZ6oWus1sENw",
+    "title": "Dissecting tf function to discover AutoGraph strengths and subtleties",
+    "length": "27:13",
+    "views": "48",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "3Jthf8d_SxM",
+    "thumbnail": "https://i.ytimg.com/vi/3Jthf8d_SxM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-VSZrVs0U1UuuUozAWzSxz7OIgA",
+    "title": "Inside TensorFlow: Graph rewriting (Macros, not functions)",
+    "length": "44:03",
+    "views": "4,734",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "6luu829WXG8",
+    "thumbnail": "https://i.ytimg.com/vi/6luu829WXG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFxugim9_b97sPbH53wLFxYXALBg",
+    "title": "Working with tf.data in TensorFlow 2 Meetup",
+    "length": "53:52",
+    "views": "997",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  }
+]

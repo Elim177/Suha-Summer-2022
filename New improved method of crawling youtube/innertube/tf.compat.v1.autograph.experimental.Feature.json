@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "LWlbFVtPiwo",
+    "thumbnail": "https://i.ytimg.com/vi/LWlbFVtPiwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUrcO8Ns5EBDycRlm5TE-NIZfvCg",
+    "title": "Tensorflow Object Detection Tutorial: Fast Style Transfer in Real-time",
+    "length": "29:02",
+    "views": "1,510",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "lDAiLRcS8X8",
+    "thumbnail": "https://i.ytimg.com/vi/lDAiLRcS8X8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvC73PhRtY66lByezmfK9qCO2Mig",
+    "title": "TensorFlow AutoGraph (TensorFlow @ O’Reilly AI Conference, San Francisco '18)",
+    "length": "16:07",
+    "views": "5,350",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "k5c-vg4rjBw",
+    "thumbnail": "https://i.ytimg.com/vi/k5c-vg4rjBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLnCfjiHVxfX0mK2VlqtfJxO1_hQ",
+    "title": "Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)",
+    "length": "22:21",
+    "views": "309,279",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "rrOgPiqYu6s",
+    "thumbnail": "https://i.ytimg.com/vi/rrOgPiqYu6s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwijIy1e2LNpqDChuJl_olEazmzg",
+    "title": "Convolutional Weights as Image Features ( Deep Learning with TensorFlow)",
+    "length": "4:56",
+    "views": "2,644",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "IraU2xyAoKc",
+    "thumbnail": "https://i.ytimg.com/vi/IraU2xyAoKc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAAAFB1R5QJtTR9WdVbHk3__YF0g",
+    "title": "TF 2.x on Kaggle (TF Dev Summit '20)",
+    "length": "5:33",
+    "views": "4,485",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "NIEgzljyDyI",
+    "thumbnail": "https://i.ytimg.com/vi/NIEgzljyDyI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABCMpfNjkIO1mJf45QNDra1Z9Org",
+    "title": "Inside TensorFlow: AutoGraph",
+    "length": "53:55",
+    "views": "8,696",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4NLlNx6wVaw",
+    "thumbnail": "https://i.ytimg.com/vi/4NLlNx6wVaw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLi-iRJJZNtVSm1v1Vvitn0CVSVg",
+    "title": "Differences Between Tensorflow 1.x and Tensorflow 2.0 (Episode 3)",
+    "length": "10:03",
+    "views": "11,697",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yH1cF7GnoIo",
+    "thumbnail": "https://i.ytimg.com/vi/yH1cF7GnoIo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JPDoqgzKJxOiclz9AMrf8CuMbw",
+    "title": "Performant, scalable models in TensorFlow 2 with tf.data, tf.function & tf.distribute (TF World '19)",
+    "length": "40:35",
+    "views": "8,537",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c_248vw8QJw",
+    "thumbnail": "https://i.ytimg.com/vi/c_248vw8QJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABBZJG7xKRokBthlVZ6oWus1sENw",
+    "title": "Dissecting tf function to discover AutoGraph strengths and subtleties",
+    "length": "27:13",
+    "views": "48",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "kq2Gjv_pPe8",
+    "thumbnail": "https://i.ytimg.com/vi/kq2Gjv_pPe8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0L_y2txVCITqJ_7gp7_ZBgFZ7Bg",
+    "title": "Creating TFRecords - TensorFlow Object Detection API Tutorial p.4",
+    "length": "16:25",
+    "views": "174,104",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "WQu_iikwr-g",
+    "thumbnail": "https://i.ytimg.com/vi/WQu_iikwr-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdJiTezu8Ni122aBr1LB4w62x0g",
+    "title": "Whats the purpose of tf.app.flags in TensorFlow - PYTHON",
+    "length": "1:12",
+    "views": "12",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "iyUkOAI69ts",
+    "thumbnail": "https://i.ytimg.com/vi/iyUkOAI69ts/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtCv-14G2X2oXNcHKYWqMRH4NQOw",
+    "title": "Accelerate models with TFLite Delegates (TF Dev Summit '20)",
+    "length": "15:20",
+    "views": "4,709",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "OI4cskHUslQ",
+    "thumbnail": "https://i.ytimg.com/vi/OI4cskHUslQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSc6QETqHHVV6zcEztkROsGP4o5w",
+    "title": "Inside TensorFlow: Summaries and TensorBoard",
+    "length": "43:23",
+    "views": "13,046",
+    "publish_time": "3 years ago"
+  }
+]

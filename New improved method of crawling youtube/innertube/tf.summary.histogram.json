@@ -1,0 +1,146 @@
+[
+  {
+    "videoId": "ZsUf9Zu2n20",
+    "thumbnail": "https://i.ytimg.com/vi/ZsUf9Zu2n20/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6vrXO0N-1GjVX-cgXVm83gKiKA",
+    "title": "Deep Learning 10: Easy explanation of Tf.summary.histogram command in TensorFlow",
+    "length": "5:37",
+    "views": "6,239",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "OI4cskHUslQ",
+    "thumbnail": "https://i.ytimg.com/vi/OI4cskHUslQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSc6QETqHHVV6zcEztkROsGP4o5w",
+    "title": "Inside TensorFlow: Summaries and TensorBoard",
+    "length": "43:23",
+    "views": "13,047",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,217",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "k7KfYXXrOj0",
+    "thumbnail": "https://i.ytimg.com/vi/k7KfYXXrOj0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCC6BTn7fTT8sdiQZrjPhPQH-Hw",
+    "title": "TensorFlow Tutorial 17 - Complete TensorBoard Guide",
+    "length": "1:22:55",
+    "views": "28,307",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "MWfvEp2IzrI",
+    "thumbnail": "https://i.ytimg.com/vi/MWfvEp2IzrI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfqLVjEf3AvX_lmJNRpF4WLn98MQ",
+    "title": "Deep Learning 9: Easy explanation of Tf.summary.scalar command in TensorFlow",
+    "length": "8:24",
+    "views": "5,902",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "SI9kBf_03gk",
+    "thumbnail": "https://i.ytimg.com/vi/SI9kBf_03gk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7GxKJ78njXxxyLhErkfiXMjA9Fg",
+    "title": "5. prometheus metrics types explained | 4 types - Counter Gauge Summary Histogram",
+    "length": "4:13",
+    "views": "5,153",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4oNdaQk0Qv4",
+    "thumbnail": "https://i.ytimg.com/vi/4oNdaQk0Qv4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC7SnMZmLBvgc2xl0zbXnN-JN1tg",
+    "title": "The Practitioner's Guide with TF High Level APIs (TensorFlow Dev Summit 2018)",
+    "length": "19:47",
+    "views": "13,892",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "-ZG2vF7avoc",
+    "thumbnail": "https://i.ytimg.com/vi/-ZG2vF7avoc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt6CrB1m5LtiW4FqWAZUIkSGnBgQ",
+    "title": "MXBoard: Histograms",
+    "length": "4:58",
+    "views": "1,649",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "020dTFcF7Ug",
+    "thumbnail": "https://i.ytimg.com/vi/020dTFcF7Ug/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3h9veZHSeLFtrYdlr_JqxtqReYQ",
+    "title": "Create TensorFlow Summary File Writer For TensorBoard - TensorFlow Tutorial",
+    "length": "4:18",
+    "views": "20",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "ut52sO51VNM",
+    "thumbnail": "https://i.ytimg.com/vi/ut52sO51VNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD92uyT9iwanHNyjD2HOK2DaxX6eA",
+    "title": "9  Tensorboard Summaries and the Filewriter",
+    "length": "18:00",
+    "views": "83",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "9SdLOcGnebU",
+    "thumbnail": "https://i.ytimg.com/vi/9SdLOcGnebU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFA7F2bHV9VGu10Ky0TPA6ZyAbDQ",
+    "title": "Tensorboard Introduction | Deep Learning Tutorial 16 (Tensorflow2.0, Keras & Python)",
+    "length": "14:56",
+    "views": "38,680",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qEQ-_EId-D0",
+    "thumbnail": "https://i.ytimg.com/vi/qEQ-_EId-D0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlEKE5n14sgmpiVIXad_dqUDp4BA",
+    "title": "Visualizing Your Model Using TensorBoard",
+    "length": "4:37",
+    "views": "95,479",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "SNimr_nOC7w",
+    "thumbnail": "https://i.ytimg.com/vi/SNimr_nOC7w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqRw6mmTldAA2vcyeZGbZSJNLWMg",
+    "title": "How to Summarize Text Using Python and Machine Learning",
+    "length": "22:25",
+    "views": "1,541",
+    "publish_time": "8 months ago"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F_zfw3az_vc",
+    "thumbnail": "https://i.ytimg.com/vi/F_zfw3az_vc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA2PzACCf6U2SsaYnaJYrGpIab8g",
+    "title": "Deep Learning Series - lstm using tensorflow",
+    "length": "6:21",
+    "views": "1,819",
+    "publish_time": "6 days ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cOHbuaoWWXw",
+    "thumbnail": "https://i.ytimg.com/vi/cOHbuaoWWXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0ZhNWsdJmQKzRWQWkht-4_4Vp6Q",
+    "title": "Deep Learning in TensorFlow #1 L3 - NumPy Array Creation",
+    "length": "8:41",
+    "views": "117",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "LHS30qyfB9M",
+    "thumbnail": "https://i.ytimg.com/vi/LHS30qyfB9M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZBkEln6CaTLyNgLtF_qysKlKL0Q",
+    "title": "Demo PED1 - Abnormal Events Detection",
+    "length": "7:51",
+    "views": "4",
+    "publish_time": "1 hour ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "SuddDSqGRzg",
+    "thumbnail": "https://i.ytimg.com/vi/SuddDSqGRzg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUO-ahdoifLHNMeXoCFPQeatEQeg",
+    "title": "Pix2Pix implementation from scratch",
+    "length": "1:02:29",
+    "views": "21,503",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jQAlvJgv_0U",
+    "thumbnail": "https://i.ytimg.com/vi/jQAlvJgv_0U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzcbxhtn022hlOkxIKd-N-TXqoA",
+    "title": "Deep Learning in TensorFlow #1 L5 - NumPy Shape Manipulation",
+    "length": "9:40",
+    "views": "110",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "kF2AlpykJGY",
+    "thumbnail": "https://i.ytimg.com/vi/kF2AlpykJGY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZD2Sgr0pUsxcRbte-24dDHlRFCw",
+    "title": "Stack vs Concat in PyTorch, TensorFlow & NumPy - Deep Learning Tensor Ops",
+    "length": "16:50",
+    "views": "22,481",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "QDLyqSuKv40",
+    "thumbnail": "https://i.ytimg.com/vi/QDLyqSuKv40/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuiMLP1HDIBuUyvgo7CCh2qeMu9g",
+    "title": "Deep Learning in TensorFlow #1 L4 - NumPy Indexing and Slicing",
+    "length": "11:59",
+    "views": "113",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "cWrb3qIFlCQ",
+    "thumbnail": "https://i.ytimg.com/vi/cWrb3qIFlCQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk_f8OpeZCPKhCFA8uR_Pi9IEF1w",
+    "title": "TFLite model conversion in Under 3 minutes",
+    "length": "2:25",
+    "views": "24,467",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "lajKHFfen9g",
+    "thumbnail": "https://i.ytimg.com/vi/lajKHFfen9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8zXtajiWXXxIF_SYG3fRYSn-Qrg",
+    "title": "Building a Regression model using Keras - Pt-11 | Machine Learning using TF",
+    "length": "9:37",
+    "views": "334",
+    "publish_time": "6 months ago"
+  }
+]

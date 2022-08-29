@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BStuayuCaGM",
+    "thumbnail": "https://i.ytimg.com/vi/BStuayuCaGM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKl_wWjnWwveToBgHgZIuejOQ3Qw",
+    "title": "Deep Learning in TensorFlow #1 L2 - NumPy Properties & Attributes",
+    "length": "4:18",
+    "views": "132",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "QDLyqSuKv40",
+    "thumbnail": "https://i.ytimg.com/vi/QDLyqSuKv40/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuiMLP1HDIBuUyvgo7CCh2qeMu9g",
+    "title": "Deep Learning in TensorFlow #1 L4 - NumPy Indexing and Slicing",
+    "length": "11:59",
+    "views": "113",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "f3HleeCvJi4",
+    "thumbnail": "https://i.ytimg.com/vi/f3HleeCvJi4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTFsWF8k43KG-8eYBRUx7zLUEAug",
+    "title": "Deep Learning in TensorFlow #1 L6 - NumPy Element-wise VS Broadcasting",
+    "length": "12:38",
+    "views": "74",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "pkVwUVEHmfI",
+    "thumbnail": "https://i.ytimg.com/vi/pkVwUVEHmfI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABWSW7Ivn3CQtxsDujUJ7xW0A34w",
+    "title": "Einsum Is All You Need: NumPy, PyTorch and TensorFlow",
+    "length": "16:22",
+    "views": "21,339",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "idus3KO6Wic",
+    "thumbnail": "https://i.ytimg.com/vi/idus3KO6Wic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFtJVkLVmg7G2gC9z5kvVh8OqwA",
+    "title": "TensorFlow Tutorial 10 - Saving and Loading Models",
+    "length": "7:28",
+    "views": "22,818",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "O69rBPifG44",
+    "thumbnail": "https://i.ytimg.com/vi/O69rBPifG44/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmVX3ST8GyuffPBwDn-_adpFwbjg",
+    "title": "Deep Learning in TensorFlow #1 L1 - Tensors for Deep Learning with NumPy and NumPy Structure",
+    "length": "11:43",
+    "views": "272",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "cOHbuaoWWXw",
+    "thumbnail": "https://i.ytimg.com/vi/cOHbuaoWWXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0ZhNWsdJmQKzRWQWkht-4_4Vp6Q",
+    "title": "Deep Learning in TensorFlow #1 L3 - NumPy Array Creation",
+    "length": "8:41",
+    "views": "117",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "Uzkhn5ENJzQ",
+    "thumbnail": "https://i.ytimg.com/vi/Uzkhn5ENJzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_eGEL37cdUefiYZzw2c2GYv8NrA",
+    "title": "Tensorboard with Tensorflow 2.0 under 10 mins",
+    "length": "8:15",
+    "views": "9,563",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jQAlvJgv_0U",
+    "thumbnail": "https://i.ytimg.com/vi/jQAlvJgv_0U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzcbxhtn022hlOkxIKd-N-TXqoA",
+    "title": "Deep Learning in TensorFlow #1 L5 - NumPy Shape Manipulation",
+    "length": "9:40",
+    "views": "110",
+    "publish_time": "8 months ago"
+  }
+]

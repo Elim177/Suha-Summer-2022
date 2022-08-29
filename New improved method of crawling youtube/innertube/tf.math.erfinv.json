@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4nYwL8ZZDK8",
+    "thumbnail": "https://i.ytimg.com/vi/4nYwL8ZZDK8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqLR2D0fTlKlNdl-qAc2lVAINbbw",
+    "title": "Working with Tensors | Φ-Flow Tutorial 1",
+    "length": "8:23",
+    "views": "654",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sALkfu9aqNY",
+    "thumbnail": "https://i.ytimg.com/vi/sALkfu9aqNY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjWr5PTVodN0Yc7xn6SFG1nLhU0Q",
+    "title": "How to use a trained model for inference using the suggest function (Tensorflow)",
+    "length": "2:43",
+    "views": "10",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "pFbyPWLB17I",
+    "thumbnail": "https://i.ytimg.com/vi/pFbyPWLB17I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm1F2lloCzyYfJb6VtoSrkL5qLLg",
+    "title": "Neural Networks From Zero: TFLearn Introduction",
+    "length": "9:06",
+    "views": "4,118",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "6luu829WXG8",
+    "thumbnail": "https://i.ytimg.com/vi/6luu829WXG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFxugim9_b97sPbH53wLFxYXALBg",
+    "title": "Working with tf.data in TensorFlow 2 Meetup",
+    "length": "53:52",
+    "views": "997",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "k7KfYXXrOj0",
+    "thumbnail": "https://i.ytimg.com/vi/k7KfYXXrOj0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCC6BTn7fTT8sdiQZrjPhPQH-Hw",
+    "title": "TensorFlow Tutorial 17 - Complete TensorBoard Guide",
+    "length": "1:22:55",
+    "views": "28,306",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "MSXouZPyTrc",
+    "thumbnail": "https://i.ytimg.com/vi/MSXouZPyTrc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgIrVkpF-g03XLnu11hZmzI44Shw",
+    "title": "Inside TensorFlow: Functions, not sessions",
+    "length": "46:09",
+    "views": "11,611",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "alq1l8Lv9GA",
+    "thumbnail": "https://i.ytimg.com/vi/alq1l8Lv9GA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAYk5pijfDdgc31MuSSHzGUBm6vQ",
+    "title": "Fine-tuning with TensorFlow",
+    "length": "5:49",
+    "views": "3,467",
+    "publish_time": "1 year ago"
+  }
+]

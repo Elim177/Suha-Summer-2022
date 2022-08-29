@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "Zg0t3f90n6Q",
+    "thumbnail": "https://i.ytimg.com/vi/Zg0t3f90n6Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy7m157nQstiikq0kbytcs1kQzmA",
+    "title": "Intro to On-device Machine Learning (TF Fall 2020 Updates)",
+    "length": "11:46",
+    "views": "21,654",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Azu0Jr2-bhQ",
+    "thumbnail": "https://i.ytimg.com/vi/Azu0Jr2-bhQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDugK_nC2HO-lyl1EYdRO7FzK8Eig",
+    "title": "TF-Encrypted: Private machine learning in tensorflow with secure computing | AISC Lunch & Learn",
+    "length": "50:50",
+    "views": "1,795",
+    "publish_time": "Streamed 3 years ago"
+  },
+  {
+    "videoId": "bljgNwojUUc",
+    "thumbnail": "https://i.ytimg.com/vi/bljgNwojUUc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsNFr4kA9RC8ooCPk300eSnyenag",
+    "title": "Zero to Hero with TensorFlow (TF Fall 2020 Updates)",
+    "length": "15:19",
+    "views": "18,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2o07Zv8dcFY",
+    "thumbnail": "https://i.ytimg.com/vi/2o07Zv8dcFY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhphRQDikLFyiu3GfgwxmgZPetuw",
+    "title": "TF Data and Deployment - Device-based Models with TensorFlow Lite Part 1/2",
+    "length": "2:19:29",
+    "views": "257",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "0d-2551pQcM",
+    "thumbnail": "https://i.ytimg.com/vi/0d-2551pQcM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQl6ItQydluvkLH7WLvB2WDA6OaQ",
+    "title": "Training and deploying ML models on edge devices (TF Fall 2020 Updates)",
+    "length": "11:41",
+    "views": "12,722",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "0SpZy7iouFU",
+    "thumbnail": "https://i.ytimg.com/vi/0SpZy7iouFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwi3lQgcW9GLu6qk7VzlE0rBnVWg",
+    "title": "TensorFlow Lite: Solution for running ML on-device (TF World '19)",
+    "length": "33:43",
+    "views": "4,302",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "OJnaBhCixng",
+    "thumbnail": "https://i.ytimg.com/vi/OJnaBhCixng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWPewuklIpu6NjlmSNSA2ltnYq0g",
+    "title": "TensorFlow Lite for Edge Devices - Tutorial",
+    "length": "59:21",
+    "views": "38,363",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "vzBpSlexTVY",
+    "thumbnail": "https://i.ytimg.com/vi/vzBpSlexTVY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWY74JIyZJXOmaTB5Nq5L8H3eY2g",
+    "title": "On-device Machine Learning With TensorFlow",
+    "length": "18:04",
+    "views": "25,331",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ALxWJoh_BHw",
+    "thumbnail": "https://i.ytimg.com/vi/ALxWJoh_BHw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp228Mp_0l1xahf-mpMud4obatBw",
+    "title": "Easy on-device ML from prototype to production (TF Dev Summit '20)",
+    "length": "16:29",
+    "views": "2,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Ka_qRt8_Glw",
+    "thumbnail": "https://i.ytimg.com/vi/Ka_qRt8_Glw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuuFjfu_L8DfDq7ZJXegRAZ2RJmg",
+    "title": "Simplified Machine Learning on mobile, browsers, and edge devices with on-device ML",
+    "length": "14:44",
+    "views": "4,407,688",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  }
+]

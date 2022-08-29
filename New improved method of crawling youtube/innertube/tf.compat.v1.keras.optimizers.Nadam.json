@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "pd3QLhx0Nm0",
+    "thumbnail": "https://i.ytimg.com/vi/pd3QLhx0Nm0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaRE-VcaQKBP4M_Ft6YLmqdNEvQw",
+    "title": "[DL] How to choose an optimizer for a Tensorflow Keras model?",
+    "length": "5:10",
+    "views": "2,332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "R6JG8Ax8eZ8",
+    "thumbnail": "https://i.ytimg.com/vi/R6JG8Ax8eZ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO8xdvgB0-H9_8Q7NXi_yhtG9Uvg",
+    "title": "FIX ERROR AttributeError: module 'keras.optimizers' has no attribute 'Adam'",
+    "length": "0:30",
+    "views": "5,774",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "apmNSYWEEnw",
+    "thumbnail": "https://i.ytimg.com/vi/apmNSYWEEnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEoNkhtF4iXJ3EIRwYuQ_DKcZcTA",
+    "title": "Optimizers Losses And Metrics - Keras",
+    "length": "6:57",
+    "views": "9,150",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,442",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,853",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "NMGsIsR7gR4",
+    "thumbnail": "https://i.ytimg.com/vi/NMGsIsR7gR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-4MnbT-r5MA2ZplMYq61XvM_Kkg",
+    "title": "Multi-Output Model with TensorFlow Keras Functional API",
+    "length": "12:53",
+    "views": "4,001",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ysUCoO7iksA",
+    "thumbnail": "https://i.ytimg.com/vi/ysUCoO7iksA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByXhYu6UQO-9LItn00aGDPr8FRg",
+    "title": "ModelExtras - Keras",
+    "length": "4:55",
+    "views": "1,514",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lV09_8432VA",
+    "thumbnail": "https://i.ytimg.com/vi/lV09_8432VA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqp_HMS4ikZ7L-W7KRLzqo8aOnnQ",
+    "title": "Optimizing with TensorBoard - Deep Learning w/ Python, TensorFlow & Keras p.5",
+    "length": "27:12",
+    "views": "118,316",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "vvC15l4CY1Q",
+    "thumbnail": "https://i.ytimg.com/vi/vvC15l4CY1Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWyyFJJDRykQ5MazYPEGJ8V1u4FA",
+    "title": "Optimizing Neural Network Structures with Keras-Tuner",
+    "length": "28:26",
+    "views": "84,708",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,909",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bRyOi0L6Rs8",
+    "thumbnail": "https://i.ytimg.com/vi/bRyOi0L6Rs8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY-lGiOq1GJtsL-T_XjkGksIi7dA",
+    "title": "Drop Out for Keras to Decrease Overfitting (5.4)",
+    "length": "5:26",
+    "views": "7,694",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Zrt76AIbeh4",
+    "thumbnail": "https://i.ytimg.com/vi/Zrt76AIbeh4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo97CtfcOngz1jxxPb0hQbFYN4MQ",
+    "title": "Fine-Tuning MobileNet on Custom Data Set with TensorFlow's Keras API",
+    "length": "15:11",
+    "views": "14,436",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1bEqRvJrZgE",
+    "thumbnail": "https://i.ytimg.com/vi/1bEqRvJrZgE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA88WHavEsvA3EIZ778dmBdmmomnw",
+    "title": "How to Manage GPU Resource Utilization in Tensorflow and Keras",
+    "length": "14:09",
+    "views": "5,892",
+    "publish_time": "2 years ago"
+  }
+]

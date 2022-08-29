@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "UbWGYcTUPyI",
+    "thumbnail": "https://i.ytimg.com/vi/UbWGYcTUPyI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpEfk9_jMI536KtJpercWcSX5yjw",
+    "title": "Getting involved in the TensorFlow community (TF World '19)",
+    "length": "31:26",
+    "views": "1,501",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "9FWsSGD6V8Q",
+    "thumbnail": "https://i.ytimg.com/vi/9FWsSGD6V8Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQd6eCcWDbAybFoGp5h6OaDW_GOQ",
+    "title": "Swift for TensorFlow (TF World '19)",
+    "length": "39:21",
+    "views": "6,760",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "nDWQHuqNa1I",
+    "thumbnail": "https://i.ytimg.com/vi/nDWQHuqNa1I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf3FXhnRDmhZQ3RTx4qHwjEYgo6A",
+    "title": "TF-Ranking: Learning-to-Rank in Tensorflow - Michael Bendersky",
+    "length": "27:39",
+    "views": "2,916",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kWI1fvC60bY",
+    "thumbnail": "https://i.ytimg.com/vi/kWI1fvC60bY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2eCWo4Cd4IKD3rxXqOYwMDF9ZHA",
+    "title": "Getting involved in the TF community (TF Dev Summit '20)",
+    "length": "9:25",
+    "views": "2,567",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "yH1cF7GnoIo",
+    "thumbnail": "https://i.ytimg.com/vi/yH1cF7GnoIo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JPDoqgzKJxOiclz9AMrf8CuMbw",
+    "title": "Performant, scalable models in TensorFlow 2 with tf.data, tf.function & tf.distribute (TF World '19)",
+    "length": "40:35",
+    "views": "8,537",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BrwKURU-wpk",
+    "thumbnail": "https://i.ytimg.com/vi/BrwKURU-wpk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzJlb-pZsZ9ixLKZfMvfD7gC_gGg",
+    "title": "TensorFlow Probability: Learning with confidence (TF Dev Summit '19)",
+    "length": "13:57",
+    "views": "54,237",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "bljgNwojUUc",
+    "thumbnail": "https://i.ytimg.com/vi/bljgNwojUUc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsNFr4kA9RC8ooCPk300eSnyenag",
+    "title": "Zero to Hero with TensorFlow (TF Fall 2020 Updates)",
+    "length": "15:19",
+    "views": "18,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "pmsNVyrCh4A",
+    "thumbnail": "https://i.ytimg.com/vi/pmsNVyrCh4A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUBSbuYXb7tcXo7RgRm1b8ltxWdw",
+    "title": "High-Level APIs in TensorFlow 2.0 (TensorFlow Meets)",
+    "length": "4:29",
+    "views": "6,067",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,840",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,507",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,443",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "MLEKEplgCas",
+    "thumbnail": "https://i.ytimg.com/vi/MLEKEplgCas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfkfX1LKkl_wwY5yGeZs_KFd1WQ",
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch & cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "length": "26:16",
+    "views": "13,694",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qFJeN9V1ZsI",
+    "thumbnail": "https://i.ytimg.com/vi/qFJeN9V1ZsI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV04UeCAcyWAz2JgMdY6RuYvsnjg",
+    "title": "Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial",
+    "length": "2:47:55",
+    "views": "632,639",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uhzGTijaw8A",
+    "thumbnail": "https://i.ytimg.com/vi/uhzGTijaw8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9KyJbWSewRHeZsYfkVAC4VOtEhQ",
+    "title": "Inside TensorFlow: tf.Keras (part 2)",
+    "length": "51:34",
+    "views": "12,006",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,440",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ysUCoO7iksA",
+    "thumbnail": "https://i.ytimg.com/vi/ysUCoO7iksA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByXhYu6UQO-9LItn00aGDPr8FRg",
+    "title": "ModelExtras - Keras",
+    "length": "4:55",
+    "views": "1,514",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "LsdxvjLWkIY",
+    "thumbnail": "https://i.ytimg.com/vi/LsdxvjLWkIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY6N5Q2kTMChdGZHy5zBu_FrHVow",
+    "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras & Python)",
+    "length": "25:55",
+    "views": "73,702",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "55Nd4T3_FhE",
+    "thumbnail": "https://i.ytimg.com/vi/55Nd4T3_FhE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8cgu0Brkap7IlaDyBHpSSNMgRMA",
+    "title": "Building a Regression model using Keras - Pt-12 | Machine Learning using TF",
+    "length": "3:51",
+    "views": "301",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "-a46JLKJYHQ",
+    "thumbnail": "https://i.ytimg.com/vi/-a46JLKJYHQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeqta4j_mDswafaQdhUuH15-KE2A",
+    "title": "Input Validation with Morpheus (Verify Pattern) for 5.5.1 | Morpheus Data",
+    "length": "4:47",
+    "views": "9",
+    "publish_time": "4 hours ago"
+  },
+  {
+    "videoId": "lajKHFfen9g",
+    "thumbnail": "https://i.ytimg.com/vi/lajKHFfen9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8zXtajiWXXxIF_SYG3fRYSn-Qrg",
+    "title": "Building a Regression model using Keras - Pt-11 | Machine Learning using TF",
+    "length": "9:37",
+    "views": "334",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  }
+]

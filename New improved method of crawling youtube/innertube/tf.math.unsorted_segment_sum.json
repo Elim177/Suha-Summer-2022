@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "F_zfw3az_vc",
+    "thumbnail": "https://i.ytimg.com/vi/F_zfw3az_vc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA2PzACCf6U2SsaYnaJYrGpIab8g",
+    "title": "Deep Learning Series - lstm using tensorflow",
+    "length": "6:21",
+    "views": "1,820",
+    "publish_time": "6 days ago"
+  },
+  {
+    "videoId": "xL1x6t9LI28",
+    "thumbnail": "https://i.ytimg.com/vi/xL1x6t9LI28/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZf7TKIUtg7psRARbBgLpZCQnE6g",
+    "title": "Math module reduce_prod | reduce_std | reduce_sum | reduce_vaiance",
+    "length": "21:06",
+    "views": "297",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "rI0dGrUc-xA",
+    "thumbnail": "https://i.ytimg.com/vi/rI0dGrUc-xA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaexRvuCL_RET4fl5Ba_dz0vkvZg",
+    "title": "Tensorflow: 10 tf.InteractiveSession()",
+    "length": "3:52",
+    "views": "250",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "qUvl52DHv_g",
+    "thumbnail": "https://i.ytimg.com/vi/qUvl52DHv_g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRPFYQLaKGDbbqHLDTr8-702n4hA",
+    "title": "tf reduce sum: Sum Along Axis - TensorFlow Tutorial",
+    "length": "3:34",
+    "views": "9",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "yvIPD2sNJ0s",
+    "thumbnail": "https://i.ytimg.com/vi/yvIPD2sNJ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQWLAr1mAvX2sPtutXHBlY0xrHQ",
+    "title": "07 TensorFlow Crashkurs: Tensoren stapeln: tf.stack",
+    "length": "2:33",
+    "views": "102",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "x-2U1Qr1w9o",
+    "thumbnail": "https://i.ytimg.com/vi/x-2U1Qr1w9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnWVCH_H_eowWXNUEOAcQFLGgMtA",
+    "title": "tf reshape: Use TensorFlow reshape To Convert A Tensor To A Vector - TensorFlow Tutorial",
+    "length": "4:19",
+    "views": "16",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2JtCNIyGNPU",
+    "thumbnail": "https://i.ytimg.com/vi/2JtCNIyGNPU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8khFToRA7o_ozeOj6gltO65olxA",
+    "title": "Silent TensorFlow tutorial | tf.cast (Part 1)",
+    "length": "8:35",
+    "views": "256",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "IfIZnbf8WnE",
+    "thumbnail": "https://i.ytimg.com/vi/IfIZnbf8WnE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnTbTt-8rFZBdG_JTUq6glXi1qIQ",
+    "title": "Transitioning Kagglers to TPU with TF 2.x",
+    "length": "11:51",
+    "views": "248",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k5c-vg4rjBw",
+    "thumbnail": "https://i.ytimg.com/vi/k5c-vg4rjBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLnCfjiHVxfX0mK2VlqtfJxO1_hQ",
+    "title": "Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)",
+    "length": "22:21",
+    "views": "309,279",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "6g4O5UOH304",
+    "thumbnail": "https://i.ytimg.com/vi/6g4O5UOH304/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRZHQP5CVeLQs599OZCM6Q63dkjQ",
+    "title": "TensorFlow 2.0 Crash Course",
+    "length": "2:13:17",
+    "views": "474,967",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "XcHWLsVmHvk",
+    "thumbnail": "https://i.ytimg.com/vi/XcHWLsVmHvk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcCzFXoQyWGUZ0jvBMyMUGz9Qsig",
+    "title": "Debugging TensorFlow with TensorBoard plugins (TensorFlow Dev Summit 2018)",
+    "length": "16:37",
+    "views": "24,128",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "5b2aP9xSAjw",
+    "thumbnail": "https://i.ytimg.com/vi/5b2aP9xSAjw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzsjzvfLk54Kt1c4xWBxVXzMEZLg",
+    "title": "Everything About TensorFlow Math Module | tf.math | TensorFlow 2.0 Python Tutorial | DL | ML",
+    "length": "8:10",
+    "views": "671",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  }
+]

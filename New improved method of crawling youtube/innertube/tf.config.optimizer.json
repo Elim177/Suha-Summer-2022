@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "pd3QLhx0Nm0",
+    "thumbnail": "https://i.ytimg.com/vi/pd3QLhx0Nm0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaRE-VcaQKBP4M_Ft6YLmqdNEvQw",
+    "title": "[DL] How to choose an optimizer for a Tensorflow Keras model?",
+    "length": "5:10",
+    "views": "2,332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "MLEKEplgCas",
+    "thumbnail": "https://i.ytimg.com/vi/MLEKEplgCas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfkfX1LKkl_wwY5yGeZs_KFd1WQ",
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch & cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "length": "26:16",
+    "views": "13,693",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "PJCocBlxkZg",
+    "thumbnail": "https://i.ytimg.com/vi/PJCocBlxkZg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPPGLuwHEJEfSMVOlBWedQN4EGtQ",
+    "title": "Learn TensorFlow DATA Pipeline |  tf.data | Why optimize?",
+    "length": "12:49",
+    "views": "85",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "hXtEQavhrLk",
+    "thumbnail": "https://i.ytimg.com/vi/hXtEQavhrLk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcwEdDQUBYhwybZTd6BOxHvlN71w",
+    "title": "Tensorflow 13 Optimizers (neural network tutorials)",
+    "length": "5:10",
+    "views": "9,754",
+    "publish_time": "6 years ago"
+  },
+  {
+    "videoId": "oaxf3rk0KGM",
+    "thumbnail": "https://i.ytimg.com/vi/oaxf3rk0KGM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRfZ2RpWoiP8OaFJbuVRQr0g_yGA",
+    "title": "TensorFlow Tutorial #19 Hyper-Parameter Optimization",
+    "length": "34:29",
+    "views": "22,343",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "vvC15l4CY1Q",
+    "thumbnail": "https://i.ytimg.com/vi/vvC15l4CY1Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWyyFJJDRykQ5MazYPEGJ8V1u4FA",
+    "title": "Optimizing Neural Network Structures with Keras-Tuner",
+    "length": "28:26",
+    "views": "84,708",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "3JWRVx1OKQQ",
+    "thumbnail": "https://i.ytimg.com/vi/3JWRVx1OKQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHev0REcxufTaYaKchzW_X53ooAw",
+    "title": "TensorFlow model optimization: Quantization and pruning (TF World '19)",
+    "length": "40:50",
+    "views": "11,259",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "8WKMU0WWuwQ",
+    "thumbnail": "https://i.ytimg.com/vi/8WKMU0WWuwQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-93Nlp27Vu0zbw4CoeMqmLDotmA",
+    "title": "Optimize your TensorFlow Lite models | Session",
+    "length": "13:30",
+    "views": "4,092",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "alq1l8Lv9GA",
+    "thumbnail": "https://i.ytimg.com/vi/alq1l8Lv9GA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAYk5pijfDdgc31MuSSHzGUBm6vQ",
+    "title": "Fine-tuning with TensorFlow",
+    "length": "5:49",
+    "views": "3,467",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "0V4z8ILqpDk",
+    "thumbnail": "https://i.ytimg.com/vi/0V4z8ILqpDk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmxDuWhDwDoJaSjUfrq8ytTb4znw",
+    "title": "Optimization with Tensorflow",
+    "length": "7:59",
+    "views": "3,960",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "AIGOSz2tFP8",
+    "thumbnail": "https://i.ytimg.com/vi/AIGOSz2tFP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyZ8fm1GyYnKSyidO8AzHMbbe2hA",
+    "title": "01 Optimizing Tensorflow Model Using TensorRT with 3.7x Faster Inference Time",
+    "length": "18:42",
+    "views": "21,871",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "lV09_8432VA",
+    "thumbnail": "https://i.ytimg.com/vi/lV09_8432VA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqp_HMS4ikZ7L-W7KRLzqo8aOnnQ",
+    "title": "Optimizing with TensorBoard - Deep Learning w/ Python, TensorFlow & Keras p.5",
+    "length": "27:12",
+    "views": "118,316",
+    "publish_time": "3 years ago"
+  }
+]

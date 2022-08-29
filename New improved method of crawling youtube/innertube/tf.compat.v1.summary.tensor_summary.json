@@ -1,0 +1,146 @@
+[
+  {
+    "videoId": "OI4cskHUslQ",
+    "thumbnail": "https://i.ytimg.com/vi/OI4cskHUslQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSc6QETqHHVV6zcEztkROsGP4o5w",
+    "title": "Inside TensorFlow: Summaries and TensorBoard",
+    "length": "43:23",
+    "views": "13,046",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "t48a_KOh0fQ",
+    "thumbnail": "https://i.ytimg.com/vi/t48a_KOh0fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ_WAXnjx1hkxUM79Mlc6f7hznxA",
+    "title": "TensorFlow 1 vs TensorFlow 2: Is the new TF better?",
+    "length": "2:33",
+    "views": "11,719",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "MWfvEp2IzrI",
+    "thumbnail": "https://i.ytimg.com/vi/MWfvEp2IzrI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfqLVjEf3AvX_lmJNRpF4WLn98MQ",
+    "title": "Deep Learning 9: Easy explanation of Tf.summary.scalar command in TensorFlow",
+    "length": "8:24",
+    "views": "5,902",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,215",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ut52sO51VNM",
+    "thumbnail": "https://i.ytimg.com/vi/ut52sO51VNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD92uyT9iwanHNyjD2HOK2DaxX6eA",
+    "title": "9  Tensorboard Summaries and the Filewriter",
+    "length": "18:00",
+    "views": "83",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,783",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k7KfYXXrOj0",
+    "thumbnail": "https://i.ytimg.com/vi/k7KfYXXrOj0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCC6BTn7fTT8sdiQZrjPhPQH-Hw",
+    "title": "TensorFlow Tutorial 17 - Complete TensorBoard Guide",
+    "length": "1:22:55",
+    "views": "28,305",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "1C-hmu107v0",
+    "thumbnail": "https://i.ytimg.com/vi/1C-hmu107v0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR5WILGqxbQeJZ34nMixqqqtMjXQ",
+    "title": "TensorFlow 2.0: An Overview #AskTensorFlow",
+    "length": "8:57",
+    "views": "8,514",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "z4DQYprjPSs",
+    "thumbnail": "https://i.ytimg.com/vi/z4DQYprjPSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaIIYlHo5Dpj3f3bvwviRm6XtKkw",
+    "title": "Summarize News Articles with Machine Learning in Python",
+    "length": "25:47",
+    "views": "15,353",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "Uzkhn5ENJzQ",
+    "thumbnail": "https://i.ytimg.com/vi/Uzkhn5ENJzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_eGEL37cdUefiYZzw2c2GYv8NrA",
+    "title": "Tensorboard with Tensorflow 2.0 under 10 mins",
+    "length": "8:15",
+    "views": "9,563",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "F_zfw3az_vc",
+    "thumbnail": "https://i.ytimg.com/vi/F_zfw3az_vc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA2PzACCf6U2SsaYnaJYrGpIab8g",
+    "title": "Deep Learning Series - lstm using tensorflow",
+    "length": "6:21",
+    "views": "1,819",
+    "publish_time": "6 days ago"
+  },
+  {
+    "videoId": "2vh_Jk2wALU",
+    "thumbnail": "https://i.ytimg.com/vi/2vh_Jk2wALU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqOD_EA-NU9cqeXwbohk9hUvNwkA",
+    "title": "TensorBoard (TF Dev Summit '20)",
+    "length": "3:34",
+    "views": "1,716",
+    "publish_time": "2 years ago"
+  }
+]

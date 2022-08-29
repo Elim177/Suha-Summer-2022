@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "O69rBPifG44",
+    "thumbnail": "https://i.ytimg.com/vi/O69rBPifG44/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmVX3ST8GyuffPBwDn-_adpFwbjg",
+    "title": "Deep Learning in TensorFlow #1 L1 - Tensors for Deep Learning with NumPy and NumPy Structure",
+    "length": "11:43",
+    "views": "272",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "KC7nJtBHBqg",
+    "thumbnail": "https://i.ytimg.com/vi/KC7nJtBHBqg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi869Ev3SCNwgi4y7wjeKDR0jbSg",
+    "title": "Tensorflow Multi-Person Pose Estimation with Python // Machine Learning Tutorial",
+    "length": "55:48",
+    "views": "18,694",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,439",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "9ieVC_ABDNQ",
+    "thumbnail": "https://i.ytimg.com/vi/9ieVC_ABDNQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxpFtKf-vaRIdaOPWNWaoI5ZnR_w",
+    "title": "TensorFlow Tutorial 22: TensorFlow Padding",
+    "length": "10:38",
+    "views": "280",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "LHS30qyfB9M",
+    "thumbnail": "https://i.ytimg.com/vi/LHS30qyfB9M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZBkEln6CaTLyNgLtF_qysKlKL0Q",
+    "title": "Demo PED1 - Abnormal Events Detection",
+    "length": "7:51",
+    "views": "4",
+    "publish_time": "1 hour ago"
+  },
+  {
+    "videoId": "-YsgMdDPu3g",
+    "thumbnail": "https://i.ytimg.com/vi/-YsgMdDPu3g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuVDlEDGuxT5-bw3falYqCQTg48g",
+    "title": "TensorFlow Course - Dataset Generator",
+    "length": "6:18",
+    "views": "1,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "q7ZuZ8ZOErE",
+    "thumbnail": "https://i.ytimg.com/vi/q7ZuZ8ZOErE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZnm8iOadtqApGsn2WN8ag5JzyMQ",
+    "title": "TensorFlow Tutorial 18 - Custom Dataset for Images",
+    "length": "25:16",
+    "views": "53,046",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jQAlvJgv_0U",
+    "thumbnail": "https://i.ytimg.com/vi/jQAlvJgv_0U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzcbxhtn022hlOkxIKd-N-TXqoA",
+    "title": "Deep Learning in TensorFlow #1 L5 - NumPy Shape Manipulation",
+    "length": "9:40",
+    "views": "110",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "ZLIPkmmDJAc",
+    "thumbnail": "https://i.ytimg.com/vi/ZLIPkmmDJAc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyJQLK7Ns6yOzp1yPCwjSj4OJqVg",
+    "title": "Build a Deep Audio Classifier with Python and Tensorflow",
+    "length": "1:17:11",
+    "views": "22,371",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ZUqB-luawZg",
+    "thumbnail": "https://i.ytimg.com/vi/ZUqB-luawZg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrTWAaM5RRr6AdIXkokDrEwFK-Vg",
+    "title": "Build a Comment Toxicity Model with Deep Learning and Python",
+    "length": "1:12:46",
+    "views": "8,575",
+    "publish_time": "2 months ago"
+  }
+]

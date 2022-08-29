@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "jp_S0L1i8Jw",
+    "thumbnail": "https://i.ytimg.com/vi/jp_S0L1i8Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-RXfmvWugbF2sSeZQk24qqIzspQ",
+    "title": "Error in Tensorflow",
+    "length": "13:35",
+    "views": "1,967",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "PwbHvogTwbE",
+    "thumbnail": "https://i.ytimg.com/vi/PwbHvogTwbE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8xjCDS_iGr7Zi61TRnRltOIbEoA",
+    "title": "TensorFlow Initialize Global Variables: Initialize TF Variables That Depend On Other TensorFlow Vars",
+    "length": "5:01",
+    "views": "6",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "GMrTBtzJkCg",
+    "thumbnail": "https://i.ytimg.com/vi/GMrTBtzJkCg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZT5Wn0oFpyyimC1IcSrIj5dltw",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.1 (Coding TensorFlow)",
+    "length": "4:43",
+    "views": "56,372",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,081",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yxUVu0iN26Q",
+    "thumbnail": "https://i.ytimg.com/vi/yxUVu0iN26Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0CNsTRRQnq0RVIZiGUT7WImHQaQ",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+    "length": "4:52",
+    "views": "26,710",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "6luu829WXG8",
+    "thumbnail": "https://i.ytimg.com/vi/6luu829WXG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFxugim9_b97sPbH53wLFxYXALBg",
+    "title": "Working with tf.data in TensorFlow 2 Meetup",
+    "length": "53:52",
+    "views": "997",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "XF4-enzcn40",
+    "thumbnail": "https://i.ytimg.com/vi/XF4-enzcn40/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLpIoBknw8bLxTnEaO7PMV1PTBxw",
+    "title": "Tensorflow ImportError DLL load failed The specified module could not be found",
+    "length": "2:18",
+    "views": "68,019",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "xhGq5zvbY3U",
+    "thumbnail": "https://i.ytimg.com/vi/xhGq5zvbY3U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7F-lVHFu2tzkSdsfujyMCjEaMSA",
+    "title": "Step 5-Final TFOD Set Up With Tensorflow 2.0 In Windows- COCO API installation Object Detection API",
+    "length": "12:09",
+    "views": "12,395",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "OB7HJxMCF8s",
+    "thumbnail": "https://i.ytimg.com/vi/OB7HJxMCF8s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDEuUau8bPevDbii1WA5YhErOpnw",
+    "title": "How to fix AttributeError: module 'tensorflow' has no attribute 'Session'",
+    "length": "1:23",
+    "views": "12,768",
+    "publish_time": "1 year ago"
+  }
+]

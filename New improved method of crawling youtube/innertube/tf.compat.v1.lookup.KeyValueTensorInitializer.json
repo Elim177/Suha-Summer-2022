@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "hHWkvEcDBO0",
+    "thumbnail": "https://i.ytimg.com/vi/hHWkvEcDBO0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx5GyK7WS2omJDkg0O9GQPHVklfw",
+    "title": "Installing Latest TensorFlow version with CUDA, cudNN and GPU support - Step by step tutorial 2021",
+    "length": "8:25",
+    "views": "153,414",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "dxTwaUveedo",
+    "thumbnail": "https://i.ytimg.com/vi/dxTwaUveedo/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBgAaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLDqDj0SHNeL5ae5SRpObPOXiqMp7A",
+    "title": "Word2Vec TensorFlow Tutorial Walkthrough by Ya Xiao",
+    "length": "55:05",
+    "views": "1,607",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Xmga_snTFBs",
+    "thumbnail": "https://i.ytimg.com/vi/Xmga_snTFBs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLEOysqv40z8l7pz1Q5kk2fvpsKg",
+    "title": "Tensorflow 2.0 Tutorial - Saving & Loading Models - Text Classification P4",
+    "length": "14:59",
+    "views": "24,060",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "gVO1dFCbi6o",
+    "thumbnail": "https://i.ytimg.com/vi/gVO1dFCbi6o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4D_zY06GAzFUwjH-GvCcwjUl_HQ",
+    "title": "Model Checkpoint in Tensorflow | Save Best Model using Checkpoint and Callbacks",
+    "length": "10:08",
+    "views": "1,231",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zqavy_5QMk8",
+    "thumbnail": "https://i.ytimg.com/vi/zqavy_5QMk8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNgSYNSAQA-q9NQM0_OkEpJ6hhA",
+    "title": "TensorFlow Tutorial - Create TFRecords",
+    "length": "16:25",
+    "views": "8,002",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "1s9k2GxH2g4",
+    "thumbnail": "https://i.ytimg.com/vi/1s9k2GxH2g4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1UJ2dYpQNVob3DZAz1olLhHAOag",
+    "title": "Convert TensorFlow/Keras models to TensorFlow.js (TFJS)",
+    "length": "12:09",
+    "views": "8,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "CukYlpjCTF4",
+    "thumbnail": "https://i.ytimg.com/vi/CukYlpjCTF4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAonC3Vg2RX_ogkpH9mv-QdK-Od1Q",
+    "title": "ValueError Input 0 is incompatible with layer conv2d",
+    "length": "3:32",
+    "views": "2,794",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oUGARioYrd8",
+    "thumbnail": "https://i.ytimg.com/vi/oUGARioYrd8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgB1gaAAqwDigIMCAAQARhyIGMoOjAP&rs=AOn4CLAcWMvttZ-igu-nFA7Ltk6UxO4KFg",
+    "title": "XNNPACK (used by TFLite and TF.js)",
+    "length": "52:32",
+    "views": "160",
+    "publish_time": "8 months ago"
+  }
+]

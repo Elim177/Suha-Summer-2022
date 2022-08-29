@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,785",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "92gOeXFq2FA",
+    "thumbnail": "https://i.ytimg.com/vi/92gOeXFq2FA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4pwyUtXyvXqDWn4B4McWSkdUoLg",
+    "title": "[DL] Tensors reshape automatically",
+    "length": "6:01",
+    "views": "131",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tfM5QUNYtEA",
+    "thumbnail": "https://i.ytimg.com/vi/tfM5QUNYtEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zcQs_OOZXiYDKJlmw709zPo8KQ",
+    "title": "#7: Broadcasting, ragged tensor, sparse and dense tensor | TensorFlow | Tutorial",
+    "length": "25:08",
+    "views": "137",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "MNOJQINH-qw",
+    "thumbnail": "https://i.ytimg.com/vi/MNOJQINH-qw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA88ZTodCTua7QjU_yPg-vv3Nu78g",
+    "title": "Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (μTransfer)",
+    "length": "51:45",
+    "views": "3,120",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "e1B7l3smXFE",
+    "thumbnail": "https://i.ytimg.com/vi/e1B7l3smXFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChdB-OMbMAufG43cIyPesU8cc6nQ",
+    "title": "TensorFlow: Tensor and Image Basics",
+    "length": "37:37",
+    "views": "1,777",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zqavy_5QMk8",
+    "thumbnail": "https://i.ytimg.com/vi/zqavy_5QMk8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNgSYNSAQA-q9NQM0_OkEpJ6hhA",
+    "title": "TensorFlow Tutorial - Create TFRecords",
+    "length": "16:25",
+    "views": "8,002",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Rd5wRhVg4lU",
+    "thumbnail": "https://i.ytimg.com/vi/Rd5wRhVg4lU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiX-MXn67MxpGsHn7ZjHsgGkPJtA",
+    "title": "TensorFlowTutorial 2- Indexing and Reshaping",
+    "length": "5:36",
+    "views": "516",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k7KfYXXrOj0",
+    "thumbnail": "https://i.ytimg.com/vi/k7KfYXXrOj0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCC6BTn7fTT8sdiQZrjPhPQH-Hw",
+    "title": "TensorFlow Tutorial 17 - Complete TensorBoard Guide",
+    "length": "1:22:55",
+    "views": "28,307",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "idus3KO6Wic",
+    "thumbnail": "https://i.ytimg.com/vi/idus3KO6Wic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFtJVkLVmg7G2gC9z5kvVh8OqwA",
+    "title": "TensorFlow Tutorial 10 - Saving and Loading Models",
+    "length": "7:28",
+    "views": "22,819",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "CLfBKGcHLco",
+    "thumbnail": "https://i.ytimg.com/vi/CLfBKGcHLco/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdtKfQcZCbx_JVPee_wugzRWBRGw",
+    "title": "#4: Tensor in TensorFlow",
+    "length": "33:33",
+    "views": "48",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "PcstG8qiObc",
+    "thumbnail": "https://i.ytimg.com/vi/PcstG8qiObc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPmK19Q-4og4jVVD-VYx5kx94RZA",
+    "title": "TensorFlow Tutorial 02 - Tensor Basics - Beginner Course",
+    "length": "22:44",
+    "views": "12,877",
+    "publish_time": "1 year ago"
+  }
+]

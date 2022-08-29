@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "XU5rTgfnq6E",
+    "thumbnail": "https://i.ytimg.com/vi/XU5rTgfnq6E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJy7LvRS98nMcQpH7Wzfri3oByag",
+    "title": "Building a Dog Breed Identifier App from scratch - DogNet",
+    "length": "1:04:35",
+    "views": "7,544",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "s42RTgKSXis",
+    "thumbnail": "https://i.ytimg.com/vi/s42RTgKSXis/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ5ka4EzCMb5Yz8CqBk76EyW3suA",
+    "title": "Train Model in Tensorflow and test in Unity (Android, IOS)",
+    "length": "13:14",
+    "views": "3,648",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "AIGOSz2tFP8",
+    "thumbnail": "https://i.ytimg.com/vi/AIGOSz2tFP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyZ8fm1GyYnKSyidO8AzHMbbe2hA",
+    "title": "01 Optimizing Tensorflow Model Using TensorRT with 3.7x Faster Inference Time",
+    "length": "18:42",
+    "views": "21,871",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "O69rBPifG44",
+    "thumbnail": "https://i.ytimg.com/vi/O69rBPifG44/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmVX3ST8GyuffPBwDn-_adpFwbjg",
+    "title": "Deep Learning in TensorFlow #1 L1 - Tensors for Deep Learning with NumPy and NumPy Structure",
+    "length": "11:43",
+    "views": "272",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,524",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "BStuayuCaGM",
+    "thumbnail": "https://i.ytimg.com/vi/BStuayuCaGM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKl_wWjnWwveToBgHgZIuejOQ3Qw",
+    "title": "Deep Learning in TensorFlow #1 L2 - NumPy Properties & Attributes",
+    "length": "4:18",
+    "views": "132",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "DHWIKhi8MSA",
+    "thumbnail": "https://i.ytimg.com/vi/DHWIKhi8MSA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYEA8hUKpz6HzVGGIVxYu9l0r9EA",
+    "title": "TensorFlow Tutorial for beginners  -  Deep Learning",
+    "length": "1:54:41",
+    "views": "181",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "QDLyqSuKv40",
+    "thumbnail": "https://i.ytimg.com/vi/QDLyqSuKv40/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuiMLP1HDIBuUyvgo7CCh2qeMu9g",
+    "title": "Deep Learning in TensorFlow #1 L4 - NumPy Indexing and Slicing",
+    "length": "11:59",
+    "views": "113",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kF2AlpykJGY",
+    "thumbnail": "https://i.ytimg.com/vi/kF2AlpykJGY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZD2Sgr0pUsxcRbte-24dDHlRFCw",
+    "title": "Stack vs Concat in PyTorch, TensorFlow & NumPy - Deep Learning Tensor Ops",
+    "length": "16:50",
+    "views": "22,481",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jQAlvJgv_0U",
+    "thumbnail": "https://i.ytimg.com/vi/jQAlvJgv_0U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzcbxhtn022hlOkxIKd-N-TXqoA",
+    "title": "Deep Learning in TensorFlow #1 L5 - NumPy Shape Manipulation",
+    "length": "9:40",
+    "views": "110",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "OKieIB-QD4c",
+    "thumbnail": "https://i.ytimg.com/vi/OKieIB-QD4c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3vNtepK2VZ4SOIzoirKNwfRfkxA",
+    "title": "How to freeze a TensorFlow Model",
+    "length": "6:43",
+    "views": "10,998",
+    "publish_time": "3 years ago"
+  }
+]

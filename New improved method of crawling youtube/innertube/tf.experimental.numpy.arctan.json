@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BStuayuCaGM",
+    "thumbnail": "https://i.ytimg.com/vi/BStuayuCaGM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKl_wWjnWwveToBgHgZIuejOQ3Qw",
+    "title": "Deep Learning in TensorFlow #1 L2 - NumPy Properties & Attributes",
+    "length": "4:18",
+    "views": "132",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k0Bm7t6VJ5U",
+    "thumbnail": "https://i.ytimg.com/vi/k0Bm7t6VJ5U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFcsu0-ErzDB4qbdgj_RwICq9O9Q",
+    "title": "Imbalanced X_ray Classification with Transfer Learning and Gradients CAM in Tensorflow",
+    "length": "18:30",
+    "views": "1,852",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cOHbuaoWWXw",
+    "thumbnail": "https://i.ytimg.com/vi/cOHbuaoWWXw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0ZhNWsdJmQKzRWQWkht-4_4Vp6Q",
+    "title": "Deep Learning in TensorFlow #1 L3 - NumPy Array Creation",
+    "length": "8:41",
+    "views": "117",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "AIGOSz2tFP8",
+    "thumbnail": "https://i.ytimg.com/vi/AIGOSz2tFP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyZ8fm1GyYnKSyidO8AzHMbbe2hA",
+    "title": "01 Optimizing Tensorflow Model Using TensorRT with 3.7x Faster Inference Time",
+    "length": "18:42",
+    "views": "21,871",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "_AKDqw6li58",
+    "thumbnail": "https://i.ytimg.com/vi/_AKDqw6li58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7XskPUQVZsRoEhIydW0XiniqTOw",
+    "title": "CuPy  A NumPy compatible Library for the GPU - Sean Farley",
+    "length": "27:38",
+    "views": "8,705",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "lRBsmnBE9ZA",
+    "thumbnail": "https://i.ytimg.com/vi/lRBsmnBE9ZA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpLcttDcBJZwvREB5SWRFYpUGrOg",
+    "title": "Converting Models to #ONNX Format",
+    "length": "6:05",
+    "views": "3,176",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "tCYSce6l8gA",
+    "thumbnail": "https://i.ytimg.com/vi/tCYSce6l8gA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8hiCZu0RBTe6UIRMRk0jj8JbrGQ",
+    "title": "How to take advantage of GPUs and TPUs for your ML project (Coding TensorFlow)",
+    "length": "4:24",
+    "views": "93,907",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,524",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zWXTpZX4PPo",
+    "thumbnail": "https://i.ytimg.com/vi/zWXTpZX4PPo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCggXKAPwrirc-_5vDS2cQoWk1MZA",
+    "title": "Junpeng Lao: Writing effective bayesian programs using TensorFlow and TFP | PyData Córdoba",
+    "length": "1:21:40",
+    "views": "7,585",
+    "publish_time": "2 years ago"
+  }
+]

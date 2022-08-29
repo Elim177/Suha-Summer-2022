@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "OI4cskHUslQ",
+    "thumbnail": "https://i.ytimg.com/vi/OI4cskHUslQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSc6QETqHHVV6zcEztkROsGP4o5w",
+    "title": "Inside TensorFlow: Summaries and TensorBoard",
+    "length": "43:23",
+    "views": "13,047",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "MWfvEp2IzrI",
+    "thumbnail": "https://i.ytimg.com/vi/MWfvEp2IzrI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfqLVjEf3AvX_lmJNRpF4WLn98MQ",
+    "title": "Deep Learning 9: Easy explanation of Tf.summary.scalar command in TensorFlow",
+    "length": "8:24",
+    "views": "5,902",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ZsUf9Zu2n20",
+    "thumbnail": "https://i.ytimg.com/vi/ZsUf9Zu2n20/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6vrXO0N-1GjVX-cgXVm83gKiKA",
+    "title": "Deep Learning 10: Easy explanation of Tf.summary.histogram command in TensorFlow",
+    "length": "5:37",
+    "views": "6,239",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "s-lHP8v9qzY",
+    "thumbnail": "https://i.ytimg.com/vi/s-lHP8v9qzY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoCiQMeuriZiLGrFe1nF9z2W62MA",
+    "title": "Object detection Part 5 - Evaluation and Tensorboard [Tensorflow]",
+    "length": "16:28",
+    "views": "9,098",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "9SdLOcGnebU",
+    "thumbnail": "https://i.ytimg.com/vi/9SdLOcGnebU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFA7F2bHV9VGu10Ky0TPA6ZyAbDQ",
+    "title": "Tensorboard Introduction | Deep Learning Tutorial 16 (Tensorflow2.0, Keras & Python)",
+    "length": "14:56",
+    "views": "38,680",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k7KfYXXrOj0",
+    "thumbnail": "https://i.ytimg.com/vi/k7KfYXXrOj0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCC6BTn7fTT8sdiQZrjPhPQH-Hw",
+    "title": "TensorFlow Tutorial 17 - Complete TensorBoard Guide",
+    "length": "1:22:55",
+    "views": "28,307",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "n7byMbl2VUQ",
+    "thumbnail": "https://i.ytimg.com/vi/n7byMbl2VUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj4UEGeyBr8vgyu3LCwoZBpJcFZA",
+    "title": "Scaling Tensorflow data processing with tf.data (TF Dev Summit '20)",
+    "length": "12:44",
+    "views": "10,279",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "X_KbNV2PKOI",
+    "thumbnail": "https://i.ytimg.com/vi/X_KbNV2PKOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPytZ4NefesdHLdRG98S5Or6YBA",
+    "title": "TFRecords - How to Read and Write Machine Learning Training Data",
+    "length": "8:59",
+    "views": "4,524",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Ssj5BlqCJyE",
+    "thumbnail": "https://i.ytimg.com/vi/Ssj5BlqCJyE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhvnamhe9FH4qgLQChTGMDA-57Cw",
+    "title": "Visualising word embeddings using TensorFlow (TF-2.0)and Tensorboard",
+    "length": "7:39",
+    "views": "2,562",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ut52sO51VNM",
+    "thumbnail": "https://i.ytimg.com/vi/ut52sO51VNM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD92uyT9iwanHNyjD2HOK2DaxX6eA",
+    "title": "9  Tensorboard Summaries and the Filewriter",
+    "length": "18:00",
+    "views": "83",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2UHCjhyNLKw",
+    "thumbnail": "https://i.ytimg.com/vi/2UHCjhyNLKw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZvi7i8JTzUNZFUaxk7_3vnU5Ig",
+    "title": "[TensorFlow 2 Deep Learning] Dropout, Early Stopping",
+    "length": "6:01",
+    "views": "3,636",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3bownM3L5zM",
+    "thumbnail": "https://i.ytimg.com/vi/3bownM3L5zM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2X3GFQkr5t33_3VHWAwdFMA-bCQ",
+    "title": "Tensorboard Explained in 5 Min",
+    "length": "5:49",
+    "views": "73,481",
+    "publish_time": "5 years ago"
+  }
+]

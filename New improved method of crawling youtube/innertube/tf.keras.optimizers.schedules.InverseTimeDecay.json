@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "drcagR2zNpw",
+    "thumbnail": "https://i.ytimg.com/vi/drcagR2zNpw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBlawn4BcByG-tkkBPEYAvcuMoAg",
+    "title": "184 - Scheduling learning rate in keras",
+    "length": "16:10",
+    "views": "4,336",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "eKv4rRcCNX0",
+    "thumbnail": "https://i.ytimg.com/vi/eKv4rRcCNX0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI5zfsWs3PQYJTSzV4YImmW5IomA",
+    "title": "Learning rate scheduling with TensorFlow",
+    "length": "3:56",
+    "views": "1,136",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kaQCdv46OBA",
+    "thumbnail": "https://i.ytimg.com/vi/kaQCdv46OBA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjXy6kuOwmjnh6AfSw1PyhpryJyw",
+    "title": "Resuming Training and Checkpoints in Python TensorFlow Keras (13.2)",
+    "length": "13:26",
+    "views": "4,254",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,443",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "idus3KO6Wic",
+    "thumbnail": "https://i.ytimg.com/vi/idus3KO6Wic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFtJVkLVmg7G2gC9z5kvVh8OqwA",
+    "title": "TensorFlow Tutorial 10 - Saving and Loading Models",
+    "length": "7:28",
+    "views": "22,818",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "S6tLSI8bjGs",
+    "thumbnail": "https://i.ytimg.com/vi/S6tLSI8bjGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAS3HVeixz9xei1zQDm5mO-EUT7w",
+    "title": "TensorFlow Tutorial 15 - Customizing Model.Fit",
+    "length": "13:13",
+    "views": "13,439",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6f67zrH-_IE",
+    "thumbnail": "https://i.ytimg.com/vi/6f67zrH-_IE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsFXGl2K64L3ETYSXA9jRGNuaTeQ",
+    "title": "TensorFlow Tutorial #23 Time-Series Prediction",
+    "length": "28:06",
+    "views": "180,632",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "CEFcwpBneFo",
+    "thumbnail": "https://i.ytimg.com/vi/CEFcwpBneFo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeoMgZtZUBblb86Kuso_UScW5YBA",
+    "title": "9.2: Using L1 and L2 Regularization in Keras and TensorFlow (Module 9, Part 2)",
+    "length": "8:29",
+    "views": "8,469",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "JEWzWv1fBFQ",
+    "thumbnail": "https://i.ytimg.com/vi/JEWzWv1fBFQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB89muhUxH5bONp-CjwqMUJMYaZlw",
+    "title": "Using L1 and L2 Regularization with Keras to Decrease Overfitting (5.3)",
+    "length": "6:19",
+    "views": "9,875",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "apmNSYWEEnw",
+    "thumbnail": "https://i.ytimg.com/vi/apmNSYWEEnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEoNkhtF4iXJ3EIRwYuQ_DKcZcTA",
+    "title": "Optimizers Losses And Metrics - Keras",
+    "length": "6:57",
+    "views": "9,150",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "uhzGTijaw8A",
+    "thumbnail": "https://i.ytimg.com/vi/uhzGTijaw8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9KyJbWSewRHeZsYfkVAC4VOtEhQ",
+    "title": "Inside TensorFlow: tf.Keras (part 2)",
+    "length": "51:34",
+    "views": "12,006",
+    "publish_time": "2 years ago"
+  }
+]

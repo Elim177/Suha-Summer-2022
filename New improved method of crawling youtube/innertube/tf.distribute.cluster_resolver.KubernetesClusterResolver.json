@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "Zz3E9mvOwDM",
+    "thumbnail": "https://i.ytimg.com/vi/Zz3E9mvOwDM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFKWthCkuNrAIidGVQj9d28teoEg",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes #googlecloudready",
+    "length": "8:55",
+    "views": "805",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "TDVgAAZkc-I",
+    "thumbnail": "https://i.ytimg.com/vi/TDVgAAZkc-I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCLG5OA7l7ypMNftRYDtHO3xL-Pw",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes GSP777",
+    "length": "22:32",
+    "views": "3",
+    "publish_time": "2 weeks ago"
+  },
+  {
+    "videoId": "eVUbJnQ2_vg",
+    "thumbnail": "https://i.ytimg.com/vi/eVUbJnQ2_vg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUOpUKVmNW7jt6_b5uOicSo4yEAQ",
+    "title": "Qwiklabs - Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes [GSP777]",
+    "length": "45:11",
+    "views": "1,401",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "X_KbNV2PKOI",
+    "thumbnail": "https://i.ytimg.com/vi/X_KbNV2PKOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArPytZ4NefesdHLdRG98S5Or6YBA",
+    "title": "TFRecords - How to Read and Write Machine Learning Training Data",
+    "length": "8:59",
+    "views": "4,523",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zqavy_5QMk8",
+    "thumbnail": "https://i.ytimg.com/vi/zqavy_5QMk8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNgSYNSAQA-q9NQM0_OkEpJ6hhA",
+    "title": "TensorFlow Tutorial - Create TFRecords",
+    "length": "16:25",
+    "views": "8,002",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "uWpuSEjTgbg",
+    "thumbnail": "https://i.ytimg.com/vi/uWpuSEjTgbg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPhWJIeAKkLMNKhhXZzf5tnQLYqg",
+    "title": "TensorFlow on Spark - Andy Feng",
+    "length": "50:20",
+    "views": "257",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "b3lTvTKBatE",
+    "thumbnail": "https://i.ytimg.com/vi/b3lTvTKBatE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGAiFnp-SV2MaG7-Zx0smeQXIznA",
+    "title": "TensorFlowOnSpark  Scalable TensorFlow Learning on Spark Clusters",
+    "length": "38:21",
+    "views": "1,667",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "5M3WebWbc0E",
+    "thumbnail": "https://i.ytimg.com/vi/5M3WebWbc0E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAdTVHm9K9ZprEOrSmjHE3OnGSKw",
+    "title": "AI Tensorflow on kubernetes",
+    "length": "2:51",
+    "views": "24",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "I29_VZ82KW4",
+    "thumbnail": "https://i.ytimg.com/vi/I29_VZ82KW4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKsxXxtEWgjGPo5pLKOvGy5Ud9eg",
+    "title": "Distributed TensorFlow model training on Cloud AI Platform (TF Dev Summit '20)",
+    "length": "14:21",
+    "views": "3,018",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "x9StQ8RZ0ag",
+    "thumbnail": "https://i.ytimg.com/vi/x9StQ8RZ0ag/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsKjAoo8Sq364y7sap_ZsXpW5aSQ",
+    "title": "Approximating the KL-Divergence | Two Ways in TensorFlow Probability",
+    "length": "8:58",
+    "views": "472",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "Akc_bsKp2p8",
+    "thumbnail": "https://i.ytimg.com/vi/Akc_bsKp2p8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLSpKRJwBj6Rs8_AmmPqy_4hICQg",
+    "title": "TensorFlow Ecosystem and Tooling",
+    "length": "1:00:21",
+    "views": "213",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  }
+]

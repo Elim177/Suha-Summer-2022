@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "Hx3A0A2lM84",
+    "thumbnail": "https://i.ytimg.com/vi/Hx3A0A2lM84/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOC4nzug18zH49YFiEDYgVqh1Fw",
+    "title": "MLIR: Accelerating TF with compilers (TF Dev Summit '20)",
+    "length": "10:19",
+    "views": "7,487",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "R5LLIj8EMxw",
+    "thumbnail": "https://i.ytimg.com/vi/R5LLIj8EMxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI7VVWTJmmVs454MSTXtL-G8qTVA",
+    "title": "Inside TensorFlow: MLIR for TF developers",
+    "length": "43:41",
+    "views": "7,702",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "emdcI0DR1yM",
+    "thumbnail": "https://i.ytimg.com/vi/emdcI0DR1yM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97sglic3h-3ApJWLqnN_oIYQTGA",
+    "title": "TensorFlow 2.x - TensorFlow Lite Converter",
+    "length": "5:48",
+    "views": "2,209",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "bKLL0tAj3GE",
+    "thumbnail": "https://i.ytimg.com/vi/bKLL0tAj3GE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTaFrcbH3auz-CrBhs6xm_6jb-0g",
+    "title": "Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)",
+    "length": "14:10",
+    "views": "19,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "cWrb3qIFlCQ",
+    "thumbnail": "https://i.ytimg.com/vi/cWrb3qIFlCQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk_f8OpeZCPKhCFA8uR_Pi9IEF1w",
+    "title": "TFLite model conversion in Under 3 minutes",
+    "length": "2:25",
+    "views": "24,467",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "4xuxOKveu9U",
+    "thumbnail": "https://i.ytimg.com/vi/4xuxOKveu9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpP6gY3AWp164MJGa4kCqRvbi0aA",
+    "title": "Inside TensorFlow: New TF Lite Converter",
+    "length": "37:32",
+    "views": "7,731",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1s9k2GxH2g4",
+    "thumbnail": "https://i.ytimg.com/vi/1s9k2GxH2g4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1UJ2dYpQNVob3DZAz1olLhHAOag",
+    "title": "Convert TensorFlow/Keras models to TensorFlow.js (TFJS)",
+    "length": "12:09",
+    "views": "8,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "v9a240kjAx4",
+    "thumbnail": "https://i.ytimg.com/vi/v9a240kjAx4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL6aDgXdn7RzRf2mwPZ9kNuSrBpA",
+    "title": "Collaborative ML with TensorBoard.dev (TF Dev Summit '20)",
+    "length": "5:47",
+    "views": "7,980",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JHLhLa5LRZ4",
+    "thumbnail": "https://i.ytimg.com/vi/JHLhLa5LRZ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABpMfhz5-fhlp6KO8dvWwEvG6sbA",
+    "title": "TFX: An end-to-end ML platform for everyone - Konstantinos Katsiapis and Anusha Ramesh",
+    "length": "12:34",
+    "views": "610",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HXzz87WVm6c",
+    "thumbnail": "https://i.ytimg.com/vi/HXzz87WVm6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHko67TvfksHVKlAL6wsigUslIA",
+    "title": "237 - What is Tensorflow Lite and how to convert keras model to tflite?",
+    "length": "30:41",
+    "views": "4,717",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "bljgNwojUUc",
+    "thumbnail": "https://i.ytimg.com/vi/bljgNwojUUc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsNFr4kA9RC8ooCPk300eSnyenag",
+    "title": "Zero to Hero with TensorFlow (TF Fall 2020 Updates)",
+    "length": "15:19",
+    "views": "18,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ICY4Lvhyobk",
+    "thumbnail": "https://i.ytimg.com/vi/ICY4Lvhyobk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjr2Ox1SDhyL6-cxvS3_-mndJ8Ug",
+    "title": "Convert your model to tensorflow lite",
+    "length": "10:46",
+    "views": "23,962",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "cpH7wPXox6Y",
+    "thumbnail": "https://i.ytimg.com/vi/cpH7wPXox6Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNPC8TH7_D6KWcWUdQ9xvWsZpnuw",
+    "title": "Hands-On Transfer Learning with TensorFlow 2.0: TensorFlow Lite Model Maker | packtpub.com",
+    "length": "8:45",
+    "views": "1,495",
+    "publish_time": "2 years ago"
+  }
+]

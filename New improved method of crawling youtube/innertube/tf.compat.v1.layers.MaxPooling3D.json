@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "0jhdNS59SdU",
+    "thumbnail": "https://i.ytimg.com/vi/0jhdNS59SdU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSQdFcTme8fl9Cw2-V3n4Ytehscg",
+    "title": "Custom Layer in TensorFlow using Keras API | Custom Dense Layer in TensorFlow Keras | Deep Learning",
+    "length": "14:44",
+    "views": "2,187",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,853",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "KrS94hG4VU0",
+    "thumbnail": "https://i.ytimg.com/vi/KrS94hG4VU0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ1df1c3l39M4u-QXlBmbU1GFpWw",
+    "title": "Custom Training Loops for Multi Headed Tensorflow 2 Models",
+    "length": "4:19",
+    "views": "2,943",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "nrNuwZK-XuQ",
+    "thumbnail": "https://i.ytimg.com/vi/nrNuwZK-XuQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ6Tg--uZ4bVeIzcsyLJLUniHstw",
+    "title": "Tutorial 116 - The difference between upsampling2D and conv2Dtranspose layers in deep learning",
+    "length": "17:42",
+    "views": "1,011",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Mxk4qmO_1B4",
+    "thumbnail": "https://i.ytimg.com/vi/Mxk4qmO_1B4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb9deLnq6vnN0iSdw6vkNxETjPbw",
+    "title": "What exactly is this TFX thing? (TensorFlow Extended)",
+    "length": "5:46",
+    "views": "43,884",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "NrcaNnEXkT8",
+    "thumbnail": "https://i.ytimg.com/vi/NrcaNnEXkT8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZam5Y5s8uvvqjC85F80FHt9UlaQ",
+    "title": "Differentiable convex optimization layers (TF Dev Summit '20)",
+    "length": "9:20",
+    "views": "4,826",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iYQNU2O8k3g",
+    "thumbnail": "https://i.ytimg.com/vi/iYQNU2O8k3g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtq553fQKHSgCYW1awsGrF3IcpNA",
+    "title": "TensorFlow Tutorial #03-B Layers API",
+    "length": "21:27",
+    "views": "12,481",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "fnjZG4mQ9B8",
+    "thumbnail": "https://i.ytimg.com/vi/fnjZG4mQ9B8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgB1gaAAuADigIMCAAQARhlIEQoRDAP&rs=AOn4CLCmR1Yl4xVlWI5uSYa3t6HBi4KizA",
+    "title": "Lec-2: Convolution, Max pool , Flattening , Dense layer in CNN",
+    "length": "18:26",
+    "views": "1,594",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "DNjqRL4NYTU",
+    "thumbnail": "https://i.ytimg.com/vi/DNjqRL4NYTU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPU379I9mHoRaE5BpKZkTtkoLn9w",
+    "title": "27-Tensorflow Custom Layers and Fundamental Building Blocks For Training Model | Deep Learning",
+    "length": "54:14",
+    "views": "875",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "x9i-IAk5MVw",
+    "thumbnail": "https://i.ytimg.com/vi/x9i-IAk5MVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwrfAUH_I5rZaSh4aiUjSuCxYqDQ",
+    "title": "[TensorFlow 2 Deep Learning] MLP - multi layer perceptron",
+    "length": "5:22",
+    "views": "3,489",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Mv7qCM3eprs",
+    "thumbnail": "https://i.ytimg.com/vi/Mv7qCM3eprs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz1pz3QZoEr_9MQpp5NChEnWmPoA",
+    "title": "Using Multiple GPUs in Tensorflow",
+    "length": "48:26",
+    "views": "3,709",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "rrOgPiqYu6s",
+    "thumbnail": "https://i.ytimg.com/vi/rrOgPiqYu6s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwijIy1e2LNpqDChuJl_olEazmzg",
+    "title": "Convolutional Weights as Image Features ( Deep Learning with TensorFlow)",
+    "length": "4:56",
+    "views": "2,644",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "YFgY-n6WeqI",
+    "thumbnail": "https://i.ytimg.com/vi/YFgY-n6WeqI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDybpuJ2KTMQHQcqWwyiiuRgfvc2w",
+    "title": "Deep Learning in TensorFlow #4 L4 - CNN: Pooling Layer (Maximum Pooling & Average Pooling)",
+    "length": "13:57",
+    "views": "146",
+    "publish_time": "7 months ago"
+  }
+]

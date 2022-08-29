@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,438",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "hR3qMhTY9U0",
+    "thumbnail": "https://i.ytimg.com/vi/hR3qMhTY9U0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNy-b-GZkhuLXfDz-RUm1Vnu4iEw",
+    "title": "Hands-on Reinforcement Learning with TensorFlow: Logging, Saving, and Visualizing|packtpub.com",
+    "length": "10:15",
+    "views": "118",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,214",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "CoePrz751lg",
+    "thumbnail": "https://i.ytimg.com/vi/CoePrz751lg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn-_RfRKdP1NM6sM8pXR2yORHk1Q",
+    "title": "Dueling Deep Q Learning with Tensorflow 2 & Keras | Full Tutorial for Beginners",
+    "length": "42:20",
+    "views": "11,224",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "9vHdEtit3TI",
+    "thumbnail": "https://i.ytimg.com/vi/9vHdEtit3TI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgB1gaAAuADigIMCAAQARgZIC0ofzAP&rs=AOn4CLCkBPq5a16P3Mn02ajLIoaY0CfzcQ",
+    "title": "Terraform — TF LOG",
+    "length": "3:08",
+    "views": "341",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "Mxk4qmO_1B4",
+    "thumbnail": "https://i.ytimg.com/vi/Mxk4qmO_1B4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb9deLnq6vnN0iSdw6vkNxETjPbw",
+    "title": "What exactly is this TFX thing? (TensorFlow Extended)",
+    "length": "5:46",
+    "views": "43,884",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "rxgvKa0MdK4",
+    "thumbnail": "https://i.ytimg.com/vi/rxgvKa0MdK4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbdq7OYm2vO7y5Af9wuU57t61wVw",
+    "title": "Tensorflow 6강. File load in Tensorflow and Queue Thread (Full)",
+    "length": "2:18:06",
+    "views": "3,494",
+    "publish_time": "Streamed 5 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "0A0mZ7fa2Lc",
+    "thumbnail": "https://i.ytimg.com/vi/0A0mZ7fa2Lc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGmpwFfR2L91e0Pkvx5P85F5Ju0w",
+    "title": "Automatic logging from Keras and TensorFlow",
+    "length": "0:17",
+    "views": "919",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "hPkmxczEj6k",
+    "thumbnail": "https://i.ytimg.com/vi/hPkmxczEj6k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs787PItFthA8ZdTuJC0YEQyWqbQ",
+    "title": "Tensorflow 6강. File load in Tensorflow and Queue Thread",
+    "length": "1:54:50",
+    "views": "2,621",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "5q8BzYN4rqA",
+    "thumbnail": "https://i.ytimg.com/vi/5q8BzYN4rqA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzJBTvd_2AVmY6pPCVRzDcMJa5g",
+    "title": "Easily deploy TF Lite models to the web | Demo",
+    "length": "2:25",
+    "views": "6,314",
+    "publish_time": "1 year ago"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,439",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tjsHSIG8I08",
+    "thumbnail": "https://i.ytimg.com/vi/tjsHSIG8I08/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMBtt8XJ_yo3oma85JHqT4LkUZ-Q",
+    "title": "Get started with TensorFlow's High-Level APIs (Google I/O '18)",
+    "length": "39:30",
+    "views": "219,059",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "dZh_ps8gKgs",
+    "thumbnail": "https://i.ytimg.com/vi/dZh_ps8gKgs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-qsiNybkj9dXuT6KOfWzmX_sm_w",
+    "title": "Install Tensorflow Object Detection From Scratch in 5 Steps | Python Deep Learning",
+    "length": "28:03",
+    "views": "86,841",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "8bQ7OOZLY_E",
+    "thumbnail": "https://i.ytimg.com/vi/8bQ7OOZLY_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyKfqO8clXsBDqb35tqZMGHrcIOg",
+    "title": "TensorFlow 2.0 is Coming! What's New? How do I Migrate? by Aurélien Géron",
+    "length": "32:51",
+    "views": "376",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Y_XM3Bu-4yc",
+    "thumbnail": "https://i.ytimg.com/vi/Y_XM3Bu-4yc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX1FE2R-trMRjVeNk3kkBmGAPCXw",
+    "title": "TensorFlow.js Quick Start",
+    "length": "11:17",
+    "views": "233,759",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "FiNglI1wRNk",
+    "thumbnail": "https://i.ytimg.com/vi/FiNglI1wRNk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1jU03yby8ZjVr_jN6tOyE9UMfLg",
+    "title": "Use TensorFlow to classify clothing images (Coding TensorFlow)",
+    "length": "7:42",
+    "views": "45,760",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "1xV_w8RNdsA",
+    "thumbnail": "https://i.ytimg.com/vi/1xV_w8RNdsA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsqS09BPZjz0qJjVajnobj9LIrpA",
+    "title": "Deep Learning DDSP Timbre Transfer in Python: 06 Loading a Pre-Trained Model",
+    "length": "10:37",
+    "views": "237",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "AIGOSz2tFP8",
+    "thumbnail": "https://i.ytimg.com/vi/AIGOSz2tFP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyZ8fm1GyYnKSyidO8AzHMbbe2hA",
+    "title": "01 Optimizing Tensorflow Model Using TensorRT with 3.7x Faster Inference Time",
+    "length": "18:42",
+    "views": "21,871",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tXVNS-V39A0",
+    "thumbnail": "https://i.ytimg.com/vi/tXVNS-V39A0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSfFv6tJ5wJUsiyTNfUSpg07OZcQ",
+    "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | Deep Learning & TensorFlow | Edureka",
+    "length": "9:01",
+    "views": "379,873",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "0d-2551pQcM",
+    "thumbnail": "https://i.ytimg.com/vi/0d-2551pQcM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQl6ItQydluvkLH7WLvB2WDA6OaQ",
+    "title": "Training and deploying ML models on edge devices (TF Fall 2020 Updates)",
+    "length": "11:41",
+    "views": "12,722",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  }
+]

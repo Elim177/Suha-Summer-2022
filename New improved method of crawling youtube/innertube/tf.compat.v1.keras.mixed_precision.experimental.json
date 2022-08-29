@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "NMGsIsR7gR4",
+    "thumbnail": "https://i.ytimg.com/vi/NMGsIsR7gR4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-4MnbT-r5MA2ZplMYq61XvM_Kkg",
+    "title": "Multi-Output Model with TensorFlow Keras Functional API",
+    "length": "12:53",
+    "views": "4,001",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4-O14gOdRso",
+    "thumbnail": "https://i.ytimg.com/vi/4-O14gOdRso/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoMeEF8hNy_gYahqygq9K1WLF7Zw",
+    "title": "TensorFlow Keras Model with Mixed Inputs Tutorial",
+    "length": "52:32",
+    "views": "1,788",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,909",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BecEHOVmx9o",
+    "thumbnail": "https://i.ytimg.com/vi/BecEHOVmx9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjUatmGJQvbOWvp1UCdUNoQhV2Qg",
+    "title": "A demo of One Hot Encoding (TensorFlow Tip of the Week)",
+    "length": "4:33",
+    "views": "29,971",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "wGI_VtE9CJM",
+    "thumbnail": "https://i.ytimg.com/vi/wGI_VtE9CJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9XvBKxI1PuteyH6SJjZPLC9x7Q",
+    "title": "TensorFlow 2.0 and Keras #AskTensorFlow",
+    "length": "5:22",
+    "views": "55,442",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,438",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "wQ8BIBpya2k",
+    "thumbnail": "https://i.ytimg.com/vi/wQ8BIBpya2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1tITRmFx0cs8Kz91aIyEuIBhNpA",
+    "title": "Deep Learning with Python, TensorFlow, and Keras tutorial",
+    "length": "20:34",
+    "views": "1,111,638",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "lV09_8432VA",
+    "thumbnail": "https://i.ytimg.com/vi/lV09_8432VA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqp_HMS4ikZ7L-W7KRLzqo8aOnnQ",
+    "title": "Optimizing with TensorBoard - Deep Learning w/ Python, TensorFlow & Keras p.5",
+    "length": "27:12",
+    "views": "118,316",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ysUCoO7iksA",
+    "thumbnail": "https://i.ytimg.com/vi/ysUCoO7iksA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAByXhYu6UQO-9LItn00aGDPr8FRg",
+    "title": "ModelExtras - Keras",
+    "length": "4:55",
+    "views": "1,514",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,839",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "dFnNeR8Bv6I",
+    "thumbnail": "https://i.ytimg.com/vi/dFnNeR8Bv6I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmJGoOlzgteFcONAhJBlkbwEcueQ",
+    "title": "Keras Lecture 5: multi input multi output model",
+    "length": "6:30",
+    "views": "4,817",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "MsjbF9su8y0",
+    "thumbnail": "https://i.ytimg.com/vi/MsjbF9su8y0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ29r_Xc0UsRzmL5LOEIDbHzZU3Q",
+    "title": "Introduction to Kimola Cognitive",
+    "length": "7:22",
+    "views": "5",
+    "publish_time": "5 hours ago"
+  },
+  {
+    "videoId": "atiYXm7JZv0",
+    "thumbnail": "https://i.ytimg.com/vi/atiYXm7JZv0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLo10enQOWVObuRrvZN1Zy5Mm8Gw",
+    "title": "Machine Learning with R and TensorFlow",
+    "length": "59:44",
+    "views": "90,526",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "JN08CqZKKkA",
+    "thumbnail": "https://i.ytimg.com/vi/JN08CqZKKkA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3pzf8m92rXZNAYjfkZSwcTPccVA",
+    "title": "TensorFlow Tutorial 07 - Functional API + Multi-output Project",
+    "length": "21:48",
+    "views": "11,330",
+    "publish_time": "1 year ago"
+  }
+]

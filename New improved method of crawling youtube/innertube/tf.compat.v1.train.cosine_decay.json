@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,501",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mcSZQdY7psA",
+    "thumbnail": "https://i.ytimg.com/vi/mcSZQdY7psA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTyPz5GWYohOJF0a4JCP0wVfv6Ow",
+    "title": "Train Custom Image Classifier from Scratch - End-to-End Tutorial  - 🤗 Transformers with HuggingPics",
+    "length": "15:10",
+    "views": "1,388",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oT_zNwN_ld4",
+    "thumbnail": "https://i.ytimg.com/vi/oT_zNwN_ld4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxEXDAUSMDXHNu8Kykw47vFAqq8w",
+    "title": "Train models to recognize hand-written digits using Tensorflow",
+    "length": "47:29",
+    "views": "737",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3V9YFPfgyAY",
+    "thumbnail": "https://i.ytimg.com/vi/3V9YFPfgyAY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3VIhD5A44HkH_Wk5uhbFYvxc9sg",
+    "title": "Build and Train a Convolutional Neural Network with TensorFlow's Keras API",
+    "length": "9:55",
+    "views": "25,138",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "uqomO_BZ44g",
+    "thumbnail": "https://i.ytimg.com/vi/uqomO_BZ44g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4iq4Z_JVzAAQRHEh7ZkB_X_VoTg",
+    "title": "Train Neural Network by loading your images |TensorFlow, CNN, Keras tutorial",
+    "length": "18:29",
+    "views": "174,759",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,697",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "XoMiveY_1Z4",
+    "thumbnail": "https://i.ytimg.com/vi/XoMiveY_1Z4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWXxn7Ysb_s-PUWkk153hMlkFmFQ",
+    "title": "TFOD 2.0 Custom Object Detection Step By Step Tutorial",
+    "length": "47:08",
+    "views": "94,414",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6luu829WXG8",
+    "thumbnail": "https://i.ytimg.com/vi/6luu829WXG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFxugim9_b97sPbH53wLFxYXALBg",
+    "title": "Working with tf.data in TensorFlow 2 Meetup",
+    "length": "53:52",
+    "views": "997",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WvoLTXIjBYU",
+    "thumbnail": "https://i.ytimg.com/vi/WvoLTXIjBYU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM-D0ZA9l3xyNYFbXD1tV8lh-5xg",
+    "title": "Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3",
+    "length": "18:39",
+    "views": "477,994",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "9IEcI5JZWg8",
+    "thumbnail": "https://i.ytimg.com/vi/9IEcI5JZWg8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0K5_QlwFmFe21H5pDIgv6ujfI4w",
+    "title": "04 Train Keras Model Using Your Own Dataset",
+    "length": "10:13",
+    "views": "6,436",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "qbFF1r4NGmA",
+    "thumbnail": "https://i.ytimg.com/vi/qbFF1r4NGmA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDltjEB5933IzZOcfkRR0uhY_l7RQ",
+    "title": "Train an Image Classifier in 3 Minutes",
+    "length": "4:38",
+    "views": "9,050",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "lwZUXa7Wgbs",
+    "thumbnail": "https://i.ytimg.com/vi/lwZUXa7Wgbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw0kHU6MnDyefn2rbMKp2nR0hGdA",
+    "title": "FTC SIM Using Tensorflow",
+    "length": "15:48",
+    "views": "1,707",
+    "publish_time": "6 months ago"
+  }
+]

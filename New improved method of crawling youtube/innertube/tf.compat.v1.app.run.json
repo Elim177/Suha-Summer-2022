@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,444",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "k5c-vg4rjBw",
+    "thumbnail": "https://i.ytimg.com/vi/k5c-vg4rjBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLnCfjiHVxfX0mK2VlqtfJxO1_hQ",
+    "title": "Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)",
+    "length": "22:21",
+    "views": "309,279",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,435",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "WQu_iikwr-g",
+    "thumbnail": "https://i.ytimg.com/vi/WQu_iikwr-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdJiTezu8Ni122aBr1LB4w62x0g",
+    "title": "Whats the purpose of tf.app.flags in TensorFlow - PYTHON",
+    "length": "1:12",
+    "views": "12",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "WTTgbH85WFw",
+    "thumbnail": "https://i.ytimg.com/vi/WTTgbH85WFw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJhwANkpSvhx3qY-XBsELugXCzQQ",
+    "title": "Tensorflow: 13 Linear Regression using Tensorflow",
+    "length": "18:15",
+    "views": "73",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4NLlNx6wVaw",
+    "thumbnail": "https://i.ytimg.com/vi/4NLlNx6wVaw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLi-iRJJZNtVSm1v1Vvitn0CVSVg",
+    "title": "Differences Between Tensorflow 1.x and Tensorflow 2.0 (Episode 3)",
+    "length": "10:03",
+    "views": "11,697",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,881",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,379",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "dMq4nAMuqO8",
+    "thumbnail": "https://i.ytimg.com/vi/dMq4nAMuqO8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmwaKv6JZTX2xJ_9bWhN_wzVVu5Q",
+    "title": "How to run any Tensorflow model on a browser with Tensorflow.js Easy!",
+    "length": "33:44",
+    "views": "1,303",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "ChTGbmR2NeM",
+    "thumbnail": "https://i.ytimg.com/vi/ChTGbmR2NeM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyT2BZAScd8XQxQhZ_6dA7PaztbQ",
+    "title": "How to Build a Successful MVP for Your App – Full Course",
+    "length": "1:14:21",
+    "views": "38,030",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "0SBtAjUauOc",
+    "thumbnail": "https://i.ytimg.com/vi/0SBtAjUauOc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQQ2rszrIqc2adt1Ei6gOa-Z-e3w",
+    "title": "TensorFlow Lite for iOS (Coding TensorFlow)",
+    "length": "6:31",
+    "views": "22,830",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "5q8BzYN4rqA",
+    "thumbnail": "https://i.ytimg.com/vi/5q8BzYN4rqA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzJBTvd_2AVmY6pPCVRzDcMJa5g",
+    "title": "Easily deploy TF Lite models to the web | Demo",
+    "length": "2:25",
+    "views": "6,314",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "yvIPD2sNJ0s",
+    "thumbnail": "https://i.ytimg.com/vi/yvIPD2sNJ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQWLAr1mAvX2sPtutXHBlY0xrHQ",
+    "title": "07 TensorFlow Crashkurs: Tensoren stapeln: tf.stack",
+    "length": "2:33",
+    "views": "102",
+    "publish_time": "2 years ago"
+  }
+]

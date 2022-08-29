@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ltIW58NKBdQ",
+    "thumbnail": "https://i.ytimg.com/vi/ltIW58NKBdQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJH1Vhz19A75-r7OmosbrYvbDrtQ",
+    "title": "TypeError: 'numpy.float64' object cannot be interpreted as an integer / tensorflow object detection",
+    "length": "1:31",
+    "views": "852",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "_AKDqw6li58",
+    "thumbnail": "https://i.ytimg.com/vi/_AKDqw6li58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7XskPUQVZsRoEhIydW0XiniqTOw",
+    "title": "CuPy  A NumPy compatible Library for the GPU - Sean Farley",
+    "length": "27:38",
+    "views": "8,705",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kF2AlpykJGY",
+    "thumbnail": "https://i.ytimg.com/vi/kF2AlpykJGY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZD2Sgr0pUsxcRbte-24dDHlRFCw",
+    "title": "Stack vs Concat in PyTorch, TensorFlow & NumPy - Deep Learning Tensor Ops",
+    "length": "16:50",
+    "views": "22,481",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jp_S0L1i8Jw",
+    "thumbnail": "https://i.ytimg.com/vi/jp_S0L1i8Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-RXfmvWugbF2sSeZQk24qqIzspQ",
+    "title": "Error in Tensorflow",
+    "length": "13:35",
+    "views": "1,967",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "0qu976IG0hQ",
+    "thumbnail": "https://i.ytimg.com/vi/0qu976IG0hQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUCLL3lcnNHxNPG2IPlj6kVozTFA",
+    "title": "TensorFlow Vs NumPy",
+    "length": "9:42",
+    "views": "23",
+    "publish_time": "12 days ago"
+  },
+  {
+    "videoId": "aBV3VfPlXDE",
+    "thumbnail": "https://i.ytimg.com/vi/aBV3VfPlXDE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDabazT-NNl7nQKr1TXQwsJLgPNmw",
+    "title": "2022 從Python到TensorFlow線上讀書會 tf.keras.backend",
+    "length": "15:34",
+    "views": "3",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,524",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HcuDe4XT1P0",
+    "thumbnail": "https://i.ytimg.com/vi/HcuDe4XT1P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a9OIX42gLeo_6FKNRK27EG_tKA",
+    "title": "Variables and Constants in TensorFlow 🔥 Pt-10 | Machine Learning using TF",
+    "length": "6:10",
+    "views": "447",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "jW9T5gY-jJM",
+    "thumbnail": "https://i.ytimg.com/vi/jW9T5gY-jJM/hq720_2.jpg?sqp=-oaymwEdCMAEENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDH-SNKRb-DsDSuipclvYZ8d-QcEQ",
+    "title": "How to upgrade TensorFlow to version 2.9",
+    "length": "0:36",
+    "views": "21",
+    "publish_time": "2 weeks ago"
+  },
+  {
+    "videoId": "3uOKDaK3aRM",
+    "thumbnail": "https://i.ytimg.com/vi/3uOKDaK3aRM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbaBcLCZBZhW_MCP7YCU0BFq0I6g",
+    "title": "Three Nails in the Coffin of TensorFlow/Keras?",
+    "length": "13:50",
+    "views": "6,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,784",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "OB7HJxMCF8s",
+    "thumbnail": "https://i.ytimg.com/vi/OB7HJxMCF8s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDEuUau8bPevDbii1WA5YhErOpnw",
+    "title": "How to fix AttributeError: module 'tensorflow' has no attribute 'Session'",
+    "length": "1:23",
+    "views": "12,768",
+    "publish_time": "1 year ago"
+  }
+]

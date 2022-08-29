@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "w0Ebsbz7HYA",
+    "thumbnail": "https://i.ytimg.com/vi/w0Ebsbz7HYA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9gaoAvUlUPlUpX5krAZXnENpqkQ",
+    "title": "How to Export a Tensorflow saved model for object detection classifier",
+    "length": "8:59",
+    "views": "5,438",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "Yp5kglvEIZ4",
+    "thumbnail": "https://i.ytimg.com/vi/Yp5kglvEIZ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaPkWanXgM2MP5zPfWJ417DDFZJA",
+    "title": "Object Detection on Custom Dataset using Tensorflow | Tflite Model Maker | Python | Code included",
+    "length": "13:34",
+    "views": "132",
+    "publish_time": "2 weeks ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,826",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "SKV7jyeO2yo",
+    "thumbnail": "https://i.ytimg.com/vi/SKV7jyeO2yo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8snKWXTc0PZIcfSt_9aiw-gf0jg",
+    "title": "A Subset-Based Strategy for Faster AutoML | Teddy Lazebnik, CTO@DataClue (PyData TLV June 22)",
+    "length": "22:52",
+    "views": "529",
+    "publish_time": "2 days ago"
+  },
+  {
+    "videoId": "Li5c49YV9wA",
+    "thumbnail": "https://i.ytimg.com/vi/Li5c49YV9wA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWWrGU617KlL1zxNPNzAp90xbpIg",
+    "title": "TensorFlow Tutorial 08 - Classify Lego Star Wars Minifigures | Full Project Walkthrough",
+    "length": "20:34",
+    "views": "4,375",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "pmsNVyrCh4A",
+    "thumbnail": "https://i.ytimg.com/vi/pmsNVyrCh4A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUBSbuYXb7tcXo7RgRm1b8ltxWdw",
+    "title": "High-Level APIs in TensorFlow 2.0 (TensorFlow Meets)",
+    "length": "4:29",
+    "views": "6,067",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "APmF6qE3Vjc",
+    "thumbnail": "https://i.ytimg.com/vi/APmF6qE3Vjc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkAQOCRh4xNAjkkk2QrGN9eYM1Eg",
+    "title": "How to Make a Tensorflow Image Classifier (LIVE)",
+    "length": "52:15",
+    "views": "50,672",
+    "publish_time": "Streamed 5 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "P7r0hIP2GQ4",
+    "thumbnail": "https://i.ytimg.com/vi/P7r0hIP2GQ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI4OqRXhExm2q12v0M_F20u8kCSQ",
+    "title": "Crop and Save YOLOv4 Object Detections | Custom YOLOv4 Functions with TensorFlow",
+    "length": "10:55",
+    "views": "16,682",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "5MQ63pDxULw",
+    "thumbnail": "https://i.ytimg.com/vi/5MQ63pDxULw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JPLOLmjWfnsVAZW-ZxTTFUXC1g",
+    "title": "How to Build & Use TensorFlow Data Pipeline for Image Processing",
+    "length": "54:51",
+    "views": "2,846",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "kq2Gjv_pPe8",
+    "thumbnail": "https://i.ytimg.com/vi/kq2Gjv_pPe8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0L_y2txVCITqJ_7gp7_ZBgFZ7Bg",
+    "title": "Creating TFRecords - TensorFlow Object Detection API Tutorial p.4",
+    "length": "16:25",
+    "views": "174,104",
+    "publish_time": "4 years ago"
+  }
+]

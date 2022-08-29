@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "oBqQWuhMTsY",
+    "thumbnail": "https://i.ytimg.com/vi/oBqQWuhMTsY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCawUY-K6BNByMemj07iEiWfKzzkw",
+    "title": "How To Use The Pre-trained Neural Network MobileNet From Keras and TensorFlow",
+    "length": "21:04",
+    "views": "4,324",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5JAZiue-fzY",
+    "thumbnail": "https://i.ytimg.com/vi/5JAZiue-fzY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-HDTF-iocvigUnzXXyu0Nj8J01g",
+    "title": "MobileNet Image Classification with TensorFlow's Keras API",
+    "length": "14:03",
+    "views": "26,313",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "8Nl-of5C3uA",
+    "thumbnail": "https://i.ytimg.com/vi/8Nl-of5C3uA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAciZCqATcMgpWKZjJz7M3QwK29cg",
+    "title": "Save and Load a Model with TensorFlow's Keras API",
+    "length": "9:31",
+    "views": "26,870",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Zrt76AIbeh4",
+    "thumbnail": "https://i.ytimg.com/vi/Zrt76AIbeh4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo97CtfcOngz1jxxPb0hQbFYN4MQ",
+    "title": "Fine-Tuning MobileNet on Custom Data Set with TensorFlow's Keras API",
+    "length": "15:11",
+    "views": "14,435",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "1s9k2GxH2g4",
+    "thumbnail": "https://i.ytimg.com/vi/1s9k2GxH2g4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1UJ2dYpQNVob3DZAz1olLhHAOag",
+    "title": "Convert TensorFlow/Keras models to TensorFlow.js (TFJS)",
+    "length": "12:09",
+    "views": "8,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Mu4BO4eCsPU",
+    "thumbnail": "https://i.ytimg.com/vi/Mu4BO4eCsPU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1BMXUXNMAA02LZHpACjs-hucAFQ",
+    "title": "Transfer Learning MobilenetV3 & ImageDataGenerator Augmentations - Large Fish Project",
+    "length": "9:05",
+    "views": "835",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "rkpaEPQtOwk",
+    "thumbnail": "https://i.ytimg.com/vi/rkpaEPQtOwk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2PKsC1X7BaZzJRrHWTorQKMTgbQ",
+    "title": "TensorFlow Mobile vs. TF Lite and More! #AskTensorFlow",
+    "length": "8:04",
+    "views": "12,015",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "bKLL0tAj3GE",
+    "thumbnail": "https://i.ytimg.com/vi/bKLL0tAj3GE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTaFrcbH3auz-CrBhs6xm_6jb-0g",
+    "title": "Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)",
+    "length": "14:10",
+    "views": "19,081",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "HXzz87WVm6c",
+    "thumbnail": "https://i.ytimg.com/vi/HXzz87WVm6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHko67TvfksHVKlAL6wsigUslIA",
+    "title": "237 - What is Tensorflow Lite and how to convert keras model to tflite?",
+    "length": "30:41",
+    "views": "4,717",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3svIm5UC94I",
+    "thumbnail": "https://i.ytimg.com/vi/3svIm5UC94I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPouKJNKTeUJzqzXQgHY94MOrBPw",
+    "title": "EfficientNet Explained!",
+    "length": "7:15",
+    "views": "34,828",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "IOI0o3Cxv9Q",
+    "thumbnail": "https://i.ytimg.com/vi/IOI0o3Cxv9Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB2fT2qlqOJaMqp1mY41BrY_pwyw",
+    "title": "Real Time Face Mask Detection with Tensorflow and Python | Custom Object Detection w/ MobileNet SSD",
+    "length": "58:42",
+    "views": "160,797",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3V9YFPfgyAY",
+    "thumbnail": "https://i.ytimg.com/vi/3V9YFPfgyAY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3VIhD5A44HkH_Wk5uhbFYvxc9sg",
+    "title": "Build and Train a Convolutional Neural Network with TensorFlow's Keras API",
+    "length": "9:55",
+    "views": "25,138",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WvoLTXIjBYU",
+    "thumbnail": "https://i.ytimg.com/vi/WvoLTXIjBYU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM-D0ZA9l3xyNYFbXD1tV8lh-5xg",
+    "title": "Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3",
+    "length": "18:39",
+    "views": "477,990",
+    "publish_time": "3 years ago"
+  }
+]

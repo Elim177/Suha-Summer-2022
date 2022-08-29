@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "5CdJ9tMx1NA",
+    "thumbnail": "https://i.ytimg.com/vi/5CdJ9tMx1NA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhJd2gDo3zqdbtwD9imso4yrZdNg",
+    "title": "Initializers Activations Regularizers And Constraints - Keras",
+    "length": "13:05",
+    "views": "2,896",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "Hyng_U0lbe4",
+    "thumbnail": "https://i.ytimg.com/vi/Hyng_U0lbe4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRxHFzEl51FDkdAuJBr1ahQBzWTw",
+    "title": "tf constant initializer: TensorFlow Constant Initializer - TensorFlow Tutorial",
+    "length": "2:59",
+    "views": "5",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "8krd5qKVw-Q",
+    "thumbnail": "https://i.ytimg.com/vi/8krd5qKVw-Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWz8kB7XB9T3IEwHx3F6DN-HFp-w",
+    "title": "Weight Initialization explained | A way to reduce the vanishing gradient problem",
+    "length": "10:12",
+    "views": "55,454",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "s2coXdufOzE",
+    "thumbnail": "https://i.ytimg.com/vi/s2coXdufOzE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEAja11RVy4ok7ik6c05yxT_Ds7g",
+    "title": "Weight Initialization in a Deep Network (C2W1L11)",
+    "length": "6:12",
+    "views": "66,184",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "dXB-KQYkzNU",
+    "thumbnail": "https://i.ytimg.com/vi/dXB-KQYkzNU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_aWfP5ZaArJ3rj6HIocJmxR7CTA",
+    "title": "Batch Normalization (“batch norm”) explained",
+    "length": "7:32",
+    "views": "159,116",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "tMjdQLylyGI",
+    "thumbnail": "https://i.ytimg.com/vi/tMjdQLylyGI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnrHNGccTqfvGEc9vTSVZA6GQusQ",
+    "title": "Tutorial 11- Various Weight Initialization Techniques in Neural Network",
+    "length": "13:02",
+    "views": "77,103",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "5ODK39dnk6A",
+    "thumbnail": "https://i.ytimg.com/vi/5ODK39dnk6A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADl7A0lk05j6s6R1xV6B0gXYhyvg",
+    "title": "Keras initializers",
+    "length": "8:05",
+    "views": "480",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RDWhtyhNUeo",
+    "thumbnail": "https://i.ytimg.com/vi/RDWhtyhNUeo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnivX6pXJ_Vr-xuVDZiLbQPKP7EQ",
+    "title": "TensorFlow Init | Webinar",
+    "length": "1:21:03",
+    "views": "245",
+    "publish_time": "Streamed 2 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "idus3KO6Wic",
+    "thumbnail": "https://i.ytimg.com/vi/idus3KO6Wic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFtJVkLVmg7G2gC9z5kvVh8OqwA",
+    "title": "TensorFlow Tutorial 10 - Saving and Loading Models",
+    "length": "7:28",
+    "views": "22,818",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GhUjAod4cr4",
+    "thumbnail": "https://i.ytimg.com/vi/GhUjAod4cr4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgY_60AVWVEQr68guQ67BH7SUyXQ",
+    "title": "Episode 69. Tensorflow 2: Variational Autoencoder",
+    "length": "5:47",
+    "views": "26",
+    "publish_time": "4 weeks ago"
+  },
+  {
+    "videoId": "lor2LnEVn8M",
+    "thumbnail": "https://i.ytimg.com/vi/lor2LnEVn8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN0oRB73gHoBov6L5p2ft2_3hgqA",
+    "title": "[TensorFlow 2 Deep Learning] Dense Layer",
+    "length": "5:52",
+    "views": "19,941",
+    "publish_time": "2 years ago"
+  }
+]

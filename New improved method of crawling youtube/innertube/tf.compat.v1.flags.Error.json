@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jp_S0L1i8Jw",
+    "thumbnail": "https://i.ytimg.com/vi/jp_S0L1i8Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-RXfmvWugbF2sSeZQk24qqIzspQ",
+    "title": "Error in Tensorflow",
+    "length": "13:35",
+    "views": "1,965",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WQu_iikwr-g",
+    "thumbnail": "https://i.ytimg.com/vi/WQu_iikwr-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdJiTezu8Ni122aBr1LB4w62x0g",
+    "title": "Whats the purpose of tf.app.flags in TensorFlow - PYTHON",
+    "length": "1:12",
+    "views": "12",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,456",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_kU50QtlI14",
+    "thumbnail": "https://i.ytimg.com/vi/_kU50QtlI14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOfFPMsrrW6hn_uwAXwx9P3oiDtw",
+    "title": "Fix ERROR No matching distribution found for tensorflow",
+    "length": "6:45",
+    "views": "67,663",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "xDizVoYTmic",
+    "thumbnail": "https://i.ytimg.com/vi/xDizVoYTmic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqkT2NdZA4PoK7ntq5goa0dWvoWA",
+    "title": "Fix AttributeError: module 'tensorflow' has no attribute 'contrib' | Tensorflow object detection api",
+    "length": "1:18",
+    "views": "7,925",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "-vfatuCVmgg",
+    "thumbnail": "https://i.ytimg.com/vi/-vfatuCVmgg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASzDOhd7P4HLUXu_8_jx24DfuCog",
+    "title": "[Python, Tensorflow] How to fix DLL load failed, No module named \"_pywrap_tensorflow\" on Windows?",
+    "length": "3:18",
+    "views": "56,168",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "XF4-enzcn40",
+    "thumbnail": "https://i.ytimg.com/vi/XF4-enzcn40/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLpIoBknw8bLxTnEaO7PMV1PTBxw",
+    "title": "Tensorflow ImportError DLL load failed The specified module could not be found",
+    "length": "2:18",
+    "views": "68,018",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "8Nj2yr68nkE",
+    "thumbnail": "https://i.ytimg.com/vi/8Nj2yr68nkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfz29ULvJEUGe3CaV5p5LRyqZ-jA",
+    "title": "AttributeError: module 'tensorflow' has no attribute 'app'",
+    "length": "1:29",
+    "views": "4,091",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "hHWkvEcDBO0",
+    "thumbnail": "https://i.ytimg.com/vi/hHWkvEcDBO0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx5GyK7WS2omJDkg0O9GQPHVklfw",
+    "title": "Installing Latest TensorFlow version with CUDA, cudNN and GPU support - Step by step tutorial 2021",
+    "length": "8:25",
+    "views": "153,407",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "I9st-DgQoWc",
+    "thumbnail": "https://i.ytimg.com/vi/I9st-DgQoWc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJXvmJJRNmVwCM_oeVqQLI16GQWQ",
+    "title": "2021 How to Fix \"No Module Named...\" Error in Python | Python Tutorial",
+    "length": "7:07",
+    "views": "213,318",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "nQ6i352FkEE",
+    "thumbnail": "https://i.ytimg.com/vi/nQ6i352FkEE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtkYdBCXzU2YidB8WUFrwMv5yW1Q",
+    "title": "No module named 'tensorflow.contrib'",
+    "length": "1:46",
+    "views": "6,432",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,436",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HeTnH5z0vrg",
+    "thumbnail": "https://i.ytimg.com/vi/HeTnH5z0vrg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbt19_dfoynrFRRsN6lfpVyl_Y9w",
+    "title": "How to Resolve Module Has No Attribute - Python Error Messages",
+    "length": "3:41",
+    "views": "21,903",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "0EO08QEL0Q8",
+    "thumbnail": "https://i.ytimg.com/vi/0EO08QEL0Q8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZM9WzE2C-5Gs3TqGwnAW7QHFodA",
+    "title": "[Solved] AttributeError: 'module' object has no attribute",
+    "length": "5:08",
+    "views": "126,746",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "-6qM407nS0w",
+    "thumbnail": "https://i.ytimg.com/vi/-6qM407nS0w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7vgv2uP9wD19OmI-T5gi0c60tUA",
+    "title": "ITS 520 - Tensorflow 2.0 - Tensor operations and the dataset module",
+    "length": "1:20:20",
+    "views": "47",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GMrTBtzJkCg",
+    "thumbnail": "https://i.ytimg.com/vi/GMrTBtzJkCg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZT5Wn0oFpyyimC1IcSrIj5dltw",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.1 (Coding TensorFlow)",
+    "length": "4:43",
+    "views": "56,371",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  }
+]

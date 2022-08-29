@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "q7ZuZ8ZOErE",
+    "thumbnail": "https://i.ytimg.com/vi/q7ZuZ8ZOErE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZnm8iOadtqApGsn2WN8ag5JzyMQ",
+    "title": "TensorFlow Tutorial 18 - Custom Dataset for Images",
+    "length": "25:16",
+    "views": "53,039",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k0Bm7t6VJ5U",
+    "thumbnail": "https://i.ytimg.com/vi/k0Bm7t6VJ5U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFcsu0-ErzDB4qbdgj_RwICq9O9Q",
+    "title": "Imbalanced X_ray Classification with Transfer Learning and Gradients CAM in Tensorflow",
+    "length": "18:30",
+    "views": "1,852",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "e1B7l3smXFE",
+    "thumbnail": "https://i.ytimg.com/vi/e1B7l3smXFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChdB-OMbMAufG43cIyPesU8cc6nQ",
+    "title": "TensorFlow: Tensor and Image Basics",
+    "length": "37:37",
+    "views": "1,777",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "i2_zJ0ANrw0",
+    "thumbnail": "https://i.ytimg.com/vi/i2_zJ0ANrw0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLTrjXCUCWBmdRBJaXy9gBHEB21Q",
+    "title": "Vision Transformer - Keras Code Examples!!",
+    "length": "21:54",
+    "views": "20,147",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "QfNvhPx5Px8",
+    "thumbnail": "https://i.ytimg.com/vi/QfNvhPx5Px8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCqioRSSEdpYs2icUBM03t-iFqZw",
+    "title": "Build a TensorFlow Image Classifier in 5 Min",
+    "length": "5:47",
+    "views": "861,244",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "NtFzp48AgBo",
+    "thumbnail": "https://i.ytimg.com/vi/NtFzp48AgBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC-slNNxEghpDEWrAhT7VyoEb7ng",
+    "title": "Going further with Image Classification",
+    "length": "3:45",
+    "views": "1,741",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "C9ifEVa_6cg",
+    "thumbnail": "https://i.ytimg.com/vi/C9ifEVa_6cg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFIcso1mr_98mhcOp7yB9ImUbe2A",
+    "title": "Transfer Learning based Image Classification with Gradients CAM using InceptionV3 in Tensorflow",
+    "length": "12:53",
+    "views": "1,925",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "AACPaoDsd50",
+    "thumbnail": "https://i.ytimg.com/vi/AACPaoDsd50/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUQ7RbkerTOdjp7NcMUSfnhjMPAw",
+    "title": "Tensorflow Image Classification | Build Your Own Image Classifier In Tensorflow | Edureka",
+    "length": "34:31",
+    "views": "156,621",
+    "publish_time": "Streamed 3 years ago"
+  },
+  {
+    "videoId": "A4K6D_gx2Iw",
+    "thumbnail": "https://i.ytimg.com/vi/A4K6D_gx2Iw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAty79maS4YZaGcTs6-bJ-UL1mEhA",
+    "title": "How to use your trained model - Deep Learning basics with Python, TensorFlow and Keras p.6",
+    "length": "11:55",
+    "views": "195,548",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "j-3vuBynnOE",
+    "thumbnail": "https://i.ytimg.com/vi/j-3vuBynnOE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBGo8k6cETlTVR85WR0ruLydPqWA",
+    "title": "Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2",
+    "length": "18:51",
+    "views": "737,436",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tufyAAc-7cU",
+    "thumbnail": "https://i.ytimg.com/vi/tufyAAc-7cU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMvBETPXT1qxvoXqHCu8DskoJQgA",
+    "title": "#2 Working on Tensorflow Image Classification with Transfer Learning  - Dataset Gathering",
+    "length": "1:14:05",
+    "views": "47",
+    "publish_time": "Streamed 4 days ago"
+  },
+  {
+    "videoId": "WFUL_oRT3nk",
+    "thumbnail": "https://i.ytimg.com/vi/WFUL_oRT3nk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2UKrJWxQb8L2ZUoHKndbY-vS5XA",
+    "title": "TensorFlow.js Image Classification Made Easy",
+    "length": "10:35",
+    "views": "15,136",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8wwfVV7ixyY",
+    "thumbnail": "https://i.ytimg.com/vi/8wwfVV7ixyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6p2vmrVeOpRsR0vqi2TRZ_iXAQ",
+    "title": "TensorFlow Tutorial 13 - Data Augmentation",
+    "length": "15:40",
+    "views": "13,492",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "84J1fMklQWE",
+    "thumbnail": "https://i.ytimg.com/vi/84J1fMklQWE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI391yyyQoTh7tmA40j4UJGezXBQ",
+    "title": "Transfer Learning - Image Classification using Tensorflow",
+    "length": "16:47",
+    "views": "12,985",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "rrOgPiqYu6s",
+    "thumbnail": "https://i.ytimg.com/vi/rrOgPiqYu6s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwijIy1e2LNpqDChuJl_olEazmzg",
+    "title": "Convolutional Weights as Image Features ( Deep Learning with TensorFlow)",
+    "length": "4:56",
+    "views": "2,644",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "oHAkK_9UCQ8",
+    "thumbnail": "https://i.ytimg.com/vi/oHAkK_9UCQ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbHpw-UdU-_IB2NSW4RQWAYfwpeQ",
+    "title": "Use Tensorflow to Classify Clothing Images(Fashion MNIST Dataset) under 8 minutes | Tec4Tric",
+    "length": "9:10",
+    "views": "5,259",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yqkISICHH-U",
+    "thumbnail": "https://i.ytimg.com/vi/yqkISICHH-U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7_ytcHBMpacrZ5SmhhJN5P-0rKg",
+    "title": "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+    "length": "5:25:42",
+    "views": "668,903",
+    "publish_time": "1 year ago"
+  }
+]

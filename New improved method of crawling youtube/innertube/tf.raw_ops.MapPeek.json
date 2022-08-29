@@ -1,0 +1,122 @@
+[
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "aBV3VfPlXDE",
+    "thumbnail": "https://i.ytimg.com/vi/aBV3VfPlXDE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDabazT-NNl7nQKr1TXQwsJLgPNmw",
+    "title": "2022 從Python到TensorFlow線上讀書會 tf.keras.backend",
+    "length": "15:34",
+    "views": "3",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "VrBoQCchJQU",
+    "thumbnail": "https://i.ytimg.com/vi/VrBoQCchJQU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9aMRQxmCW7pBPtXe1m4YpodYvLg",
+    "title": "MLOps with TFX pipelines - Tensorflow Extended",
+    "length": "1:32:10",
+    "views": "8,054",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ER-EKA_ZMLo",
+    "thumbnail": "https://i.ytimg.com/vi/ER-EKA_ZMLo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1lOUh9L-AkLfKM4BR2fEX5ICDng",
+    "title": "An introduction to MLOps with TensorFlow Extended (TFX)",
+    "length": "13:21",
+    "views": "4,494",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "kgkyu7LpBaM",
+    "thumbnail": "https://i.ytimg.com/vi/kgkyu7LpBaM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJWHhg251g-9obuE3sYlKV9640Qg",
+    "title": "TF2 DeepLabV3+ Tensorflow 2.0",
+    "length": "30:37",
+    "views": "2,579",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "5MQ63pDxULw",
+    "thumbnail": "https://i.ytimg.com/vi/5MQ63pDxULw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JPLOLmjWfnsVAZW-ZxTTFUXC1g",
+    "title": "How to Build & Use TensorFlow Data Pipeline for Image Processing",
+    "length": "54:51",
+    "views": "2,847",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "nkNbR1YUgp0",
+    "thumbnail": "https://i.ytimg.com/vi/nkNbR1YUgp0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjnXqnZKzhJIFVf7eazi7yjffvwA",
+    "title": "#4 Working on Tensorflow Image Classification with Transfer Learning  - Improving Model",
+    "length": "2:00:36",
+    "views": "51",
+    "publish_time": "Streamed 2 days ago"
+  },
+  {
+    "videoId": "1_RDOanC5I8",
+    "thumbnail": "https://i.ytimg.com/vi/1_RDOanC5I8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIWwop75spZCFl31AbcraKBBDzbw",
+    "title": "Tensorflow Solutions for Text: Assembling Email with Embeddings | packtpub.com",
+    "length": "8:41",
+    "views": "158",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "uIcqeP7MFH0",
+    "thumbnail": "https://i.ytimg.com/vi/uIcqeP7MFH0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMhSiShU6DUPrMQiBHoVdI3h-KfA",
+    "title": "tf.data: Fast, flexible, and easy-to-use input pipelines (TensorFlow Dev Summit 2018)",
+    "length": "15:10",
+    "views": "64,491",
+    "publish_time": "4 years ago"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "pkVwUVEHmfI",
+    "thumbnail": "https://i.ytimg.com/vi/pkVwUVEHmfI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABWSW7Ivn3CQtxsDujUJ7xW0A34w",
+    "title": "Einsum Is All You Need: NumPy, PyTorch and TensorFlow",
+    "length": "16:22",
+    "views": "21,337",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "SOaYrnQtd9g",
+    "thumbnail": "https://i.ytimg.com/vi/SOaYrnQtd9g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_TMV1EqX67wK4SGvowCiPylYoDA",
+    "title": "Mat Kelcey : An illustrative einsum example",
+    "length": "14:06",
+    "views": "1,183",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lAdz9-RUjo0",
+    "thumbnail": "https://i.ytimg.com/vi/lAdz9-RUjo0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIWhra14FS-yJVhAdZQ9E8gSKF_w",
+    "title": "Einsum - The Most UNDERRATED Op.",
+    "length": "22:17",
+    "views": "149",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "t48a_KOh0fQ",
+    "thumbnail": "https://i.ytimg.com/vi/t48a_KOh0fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ_WAXnjx1hkxUM79Mlc6f7hznxA",
+    "title": "TensorFlow 1 vs TensorFlow 2: Is the new TF better?",
+    "length": "2:33",
+    "views": "11,719",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,853",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ll1BlfYd4mU",
+    "thumbnail": "https://i.ytimg.com/vi/ll1BlfYd4mU/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBgAqAAtAFigIMCAAQARhlIF8oUjAP&rs=AOn4CLA-VtUz_OW6zUWZ1yEmKlyi0Dj7fQ",
+    "title": "Introducing Einops for Tensor Operations in Deep Learning",
+    "length": "16:56",
+    "views": "475",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cLLsc4Hlo-8",
+    "thumbnail": "https://i.ytimg.com/vi/cLLsc4Hlo-8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-CSMNMtOjeWmfr7fOvP1ECYoRTw",
+    "title": "PyTorch vs TensorFlow | Ishan Misra and Lex Fridman",
+    "length": "3:47",
+    "views": "25,542",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "_AKDqw6li58",
+    "thumbnail": "https://i.ytimg.com/vi/_AKDqw6li58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7XskPUQVZsRoEhIydW0XiniqTOw",
+    "title": "CuPy  A NumPy compatible Library for the GPU - Sean Farley",
+    "length": "27:38",
+    "views": "8,704",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "NMd7WjZiCzc",
+    "thumbnail": "https://i.ytimg.com/vi/NMd7WjZiCzc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf-cn9GcvYMg_WPE5mIDZpfkIO7Q",
+    "title": "TFLearn - Deep Learning with Neural Networks and TensorFlow p. 14",
+    "length": "27:42",
+    "views": "70,005",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "poD8ud4MxOY",
+    "thumbnail": "https://i.ytimg.com/vi/poD8ud4MxOY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0LVktOJ0Vh5zF2pW194T7DjIvpA",
+    "title": "Making Computation Easier with Cool Numpy Tricks - Kirit Thadaka",
+    "length": "1:31:21",
+    "views": "14,868",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Ur2U96Xjgzo",
+    "thumbnail": "https://i.ytimg.com/vi/Ur2U96Xjgzo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0xPWpybdF90sTDhXa3g9PaqWlyg",
+    "title": "JAX numpy killer",
+    "length": "55:57",
+    "views": "2,194",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BzuEGdGHKjc",
+    "thumbnail": "https://i.ytimg.com/vi/BzuEGdGHKjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBibSQlHryrmAsJ5XgLDHJT2jLDIA",
+    "title": "JAX: accelerated machine learning research via composable function transformations in Python",
+    "length": "1:09:58",
+    "views": "7,975",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "baC1iCNFgeI",
+    "thumbnail": "https://i.ytimg.com/vi/baC1iCNFgeI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb3ScBptWBeSaJrHZ8zLKB9f4IkA",
+    "title": "Continuous retraining with TFX and Beam",
+    "length": "40:45",
+    "views": "649",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "CLrTj7D2fLM",
+    "thumbnail": "https://i.ytimg.com/vi/CLrTj7D2fLM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEuuOacDl-f7SvRih6cy56-eTWUw",
+    "title": "Einstein Summation Convention: an Introduction",
+    "length": "9:00",
+    "views": "132,586",
+    "publish_time": "4 years ago"
+  }
+]

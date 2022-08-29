@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "tCYSce6l8gA",
+    "thumbnail": "https://i.ytimg.com/vi/tCYSce6l8gA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8hiCZu0RBTe6UIRMRk0jj8JbrGQ",
+    "title": "How to take advantage of GPUs and TPUs for your ML project (Coding TensorFlow)",
+    "length": "4:24",
+    "views": "93,907",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "OJ6IXygqgME",
+    "thumbnail": "https://i.ytimg.com/vi/OJ6IXygqgME/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt1pdM0RnT90dS0rgBJJav7fWZIQ",
+    "title": "DIY Custom Object Detection Model via Transfer Learning (Tensorflow Lite Edge TPU)",
+    "length": "17:46",
+    "views": "598",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yH1cF7GnoIo",
+    "thumbnail": "https://i.ytimg.com/vi/yH1cF7GnoIo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JPDoqgzKJxOiclz9AMrf8CuMbw",
+    "title": "Performant, scalable models in TensorFlow 2 with tf.data, tf.function & tf.distribute (TF World '19)",
+    "length": "40:35",
+    "views": "8,537",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3JWRVx1OKQQ",
+    "thumbnail": "https://i.ytimg.com/vi/3JWRVx1OKQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHev0REcxufTaYaKchzW_X53ooAw",
+    "title": "TensorFlow model optimization: Quantization and pruning (TF World '19)",
+    "length": "40:50",
+    "views": "11,259",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IfIZnbf8WnE",
+    "thumbnail": "https://i.ytimg.com/vi/IfIZnbf8WnE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnTbTt-8rFZBdG_JTUq6glXi1qIQ",
+    "title": "Transitioning Kagglers to TPU with TF 2.x",
+    "length": "11:51",
+    "views": "248",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jgNwywYcH4w",
+    "thumbnail": "https://i.ytimg.com/vi/jgNwywYcH4w/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKjXZWke1vHuc-xJSJHhoTCZRcew",
+    "title": "TPU Machine Learning (LIVE)",
+    "length": "1:00:15",
+    "views": "31,024",
+    "publish_time": "Streamed 3 years ago"
+  },
+  {
+    "videoId": "2kSo7Az4ZOs",
+    "thumbnail": "https://i.ytimg.com/vi/2kSo7Az4ZOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo7fA8tuFwIsZ73Im279hLu6T9wQ",
+    "title": "Speeding up TensorFlow with TPUs",
+    "length": "2:58",
+    "views": "6,018",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RZ3naItWLdc",
+    "thumbnail": "https://i.ytimg.com/vi/RZ3naItWLdc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMMpp7VkSH9HX0VV70QsKf7UPEgQ",
+    "title": "Tensor Flow 2.0 - Part 2: Edge Computing with TensorFlow Lite, TPU edition",
+    "length": "1:10:48",
+    "views": "74",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "U7g7-Jzj9qo",
+    "thumbnail": "https://i.ytimg.com/vi/U7g7-Jzj9qo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKZCWuVc-M623GTTW2YUi2s_MKg",
+    "title": "Inside TensorFlow: TF-Agents",
+    "length": "49:59",
+    "views": "17,471",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "LHS30qyfB9M",
+    "thumbnail": "https://i.ytimg.com/vi/LHS30qyfB9M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZBkEln6CaTLyNgLtF_qysKlKL0Q",
+    "title": "Demo PED1 - Abnormal Events Detection",
+    "length": "7:51",
+    "views": "4",
+    "publish_time": "1 hour ago"
+  },
+  {
+    "videoId": "0SpZy7iouFU",
+    "thumbnail": "https://i.ytimg.com/vi/0SpZy7iouFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwi3lQgcW9GLu6qk7VzlE0rBnVWg",
+    "title": "TensorFlow Lite: Solution for running ML on-device (TF World '19)",
+    "length": "33:43",
+    "views": "4,302",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "KgjaC9VeOi8",
+    "thumbnail": "https://i.ytimg.com/vi/KgjaC9VeOi8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiI2UU0l2L06gf_8FgS3AhihOX8w",
+    "title": "TPU Notebook Walkthrough: Introduction to TFRecords | Kaggle",
+    "length": "9:05",
+    "views": "12,784",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "rkqukapSmwQ",
+    "thumbnail": "https://i.ytimg.com/vi/rkqukapSmwQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnDCRwRTPBbWZoAuRkV_gHMad2mg",
+    "title": "Great TensorFlow Research Cloud projects from around the world (TF World '19)",
+    "length": "33:35",
+    "views": "2,539",
+    "publish_time": "2 years ago"
+  }
+]

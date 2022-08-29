@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RDWhtyhNUeo",
+    "thumbnail": "https://i.ytimg.com/vi/RDWhtyhNUeo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnivX6pXJ_Vr-xuVDZiLbQPKP7EQ",
+    "title": "TensorFlow Init | Webinar",
+    "length": "1:21:03",
+    "views": "245",
+    "publish_time": "Streamed 2 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "g-KVHf0A2kI",
+    "thumbnail": "https://i.ytimg.com/vi/g-KVHf0A2kI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxADDSRF5anjbvfWsCSnUZe0yyDw",
+    "title": "[TensorFlow 2 Deep Learning] Auto Encoder",
+    "length": "7:48",
+    "views": "6,175",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,784",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DmzKDku-0iA",
+    "thumbnail": "https://i.ytimg.com/vi/DmzKDku-0iA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgD3yjncjeAIaRkJAbWdtcILuE0A",
+    "title": "Orthogonal tensors",
+    "length": "5:26",
+    "views": "9",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "NL8feCR2Qts",
+    "thumbnail": "https://i.ytimg.com/vi/NL8feCR2Qts/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHwahG1GkaBdzWdsoEWwPbzhBvwQ",
+    "title": "Automatic Differentiation with TensorFlow — Topic 64 of Machine Learning Foundations",
+    "length": "3:58",
+    "views": "564",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "CEFcwpBneFo",
+    "thumbnail": "https://i.ytimg.com/vi/CEFcwpBneFo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeoMgZtZUBblb86Kuso_UScW5YBA",
+    "title": "9.2: Using L1 and L2 Regularization in Keras and TensorFlow (Module 9, Part 2)",
+    "length": "8:29",
+    "views": "8,468",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "pf3nVaquCCo",
+    "thumbnail": "https://i.ytimg.com/vi/pf3nVaquCCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYLK3cosD1f9Z4hsYuIPf3PyCB4A",
+    "title": "Tensor Flow 2.0  - Part 1: Deep Learning and Tabular Data + tf.function",
+    "length": "1:25:51",
+    "views": "241",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "OfswPuN7p5o",
+    "thumbnail": "https://i.ytimg.com/vi/OfswPuN7p5o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7DgxZ3ArVsvahLImmdAs0q0tI6w",
+    "title": "Neural Machine Translation (NMT): How Nikon Utilizes Domain-Adapted MT for Technical Translation",
+    "length": "30:46",
+    "views": "2",
+    "publish_time": "6 hours ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "MEt6rrxH8W4",
+    "thumbnail": "https://i.ytimg.com/vi/MEt6rrxH8W4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeKQ0e3IhpET-VS6XbIlORf5VxNw",
+    "title": "Part 1 of 3 — Proximal Policy Optimization Implementation: 11 Core Implementation Details",
+    "length": "25:51",
+    "views": "5,384",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "5dRXjmEa8ws",
+    "thumbnail": "https://i.ytimg.com/vi/5dRXjmEa8ws/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAobhE1gtW_7WxJ69X3n7G2CvNzgQ",
+    "title": "Lecture 34: Customizing tf.keras - Part 2",
+    "length": "24:01",
+    "views": "2,838",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8wwfVV7ixyY",
+    "thumbnail": "https://i.ytimg.com/vi/8wwfVV7ixyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6p2vmrVeOpRsR0vqi2TRZ_iXAQ",
+    "title": "TensorFlow Tutorial 13 - Data Augmentation",
+    "length": "15:40",
+    "views": "13,493",
+    "publish_time": "1 year ago"
+  }
+]

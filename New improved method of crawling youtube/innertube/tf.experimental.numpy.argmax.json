@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zyQVmq2rq_I",
+    "thumbnail": "https://i.ytimg.com/vi/zyQVmq2rq_I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_fiOH_mb0Fy4-Pl_yiIJDdsDtOQ",
+    "title": "38. argmax and argmin in Numpy",
+    "length": "8:54",
+    "views": "6,698",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "vCzJrM7vaiA",
+    "thumbnail": "https://i.ytimg.com/vi/vCzJrM7vaiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3UcAZR7VI758noPapgHGOBa-aRw",
+    "title": "NumPy Tutorial 9: Functions in NumPy (Min, Max, Sin, Cos, Argmin, Argmax)",
+    "length": "6:40",
+    "views": "768",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BzuEGdGHKjc",
+    "thumbnail": "https://i.ytimg.com/vi/BzuEGdGHKjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBibSQlHryrmAsJ5XgLDHJT2jLDIA",
+    "title": "JAX: accelerated machine learning research via composable function transformations in Python",
+    "length": "1:09:58",
+    "views": "7,976",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_AKDqw6li58",
+    "thumbnail": "https://i.ytimg.com/vi/_AKDqw6li58/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7XskPUQVZsRoEhIydW0XiniqTOw",
+    "title": "CuPy  A NumPy compatible Library for the GPU - Sean Farley",
+    "length": "27:38",
+    "views": "8,705",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ChidCgtd1Lw",
+    "thumbnail": "https://i.ytimg.com/vi/ChidCgtd1Lw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiR7YRCejF8q2XeSUIZq7SojJ48A",
+    "title": "TensorFlow high-level APIs: Part 3 - Building and refining your models",
+    "length": "7:26",
+    "views": "25,824",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "AIGOSz2tFP8",
+    "thumbnail": "https://i.ytimg.com/vi/AIGOSz2tFP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyZ8fm1GyYnKSyidO8AzHMbbe2hA",
+    "title": "01 Optimizing Tensorflow Model Using TensorRT with 3.7x Faster Inference Time",
+    "length": "18:42",
+    "views": "21,871",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iu_OSAg5slY",
+    "thumbnail": "https://i.ytimg.com/vi/iu_OSAg5slY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXhrqUTwlIM7p4iTH-tD3IM8bSvQ",
+    "title": "Building models with tf.text (TF World '19)",
+    "length": "39:33",
+    "views": "5,189",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BStuayuCaGM",
+    "thumbnail": "https://i.ytimg.com/vi/BStuayuCaGM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKl_wWjnWwveToBgHgZIuejOQ3Qw",
+    "title": "Deep Learning in TensorFlow #1 L2 - NumPy Properties & Attributes",
+    "length": "4:18",
+    "views": "132",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Tf-ZZnBi6dU",
+    "thumbnail": "https://i.ytimg.com/vi/Tf-ZZnBi6dU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlJ7EbXG-BSk704O0oMk16JNqcTg",
+    "title": "Hands-On Predictive Analytics with TensorFlow 2.0 :Intro to Unsupervised Learning|packtpub.com",
+    "length": "4:14",
+    "views": "74",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "lajKHFfen9g",
+    "thumbnail": "https://i.ytimg.com/vi/lajKHFfen9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8zXtajiWXXxIF_SYG3fRYSn-Qrg",
+    "title": "Building a Regression model using Keras - Pt-11 | Machine Learning using TF",
+    "length": "9:37",
+    "views": "334",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "bns5ELvbzVk",
+    "thumbnail": "https://i.ytimg.com/vi/bns5ELvbzVk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtizhpUFPUTpjuEonoq5VyfxrsYQ",
+    "title": "Deep learning project end to end | Potato Disease Classification - 2 :Data collection, preprocessing",
+    "length": "32:03",
+    "views": "56,157",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "K3lX3Cltt4c",
+    "thumbnail": "https://i.ytimg.com/vi/K3lX3Cltt4c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVsph8FbQFRverBhmxXr8HmKdxXQ",
+    "title": "Code for Deep Learning - ArgMax and Reduction Tensor Ops",
+    "length": "13:41",
+    "views": "24,602",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "QDLyqSuKv40",
+    "thumbnail": "https://i.ytimg.com/vi/QDLyqSuKv40/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuiMLP1HDIBuUyvgo7CCh2qeMu9g",
+    "title": "Deep Learning in TensorFlow #1 L4 - NumPy Indexing and Slicing",
+    "length": "11:59",
+    "views": "113",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "idus3KO6Wic",
+    "thumbnail": "https://i.ytimg.com/vi/idus3KO6Wic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFtJVkLVmg7G2gC9z5kvVh8OqwA",
+    "title": "TensorFlow Tutorial 10 - Saving and Loading Models",
+    "length": "7:28",
+    "views": "22,818",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2LQakLAMKJc",
+    "thumbnail": "https://i.ytimg.com/vi/2LQakLAMKJc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGzklc_vIpOfpJyq222Nsix5eHow",
+    "title": "Multi GPU Training with TensorFlow on Piz Daint - Day 2 - Morning",
+    "length": "1:10:15",
+    "views": "156",
+    "publish_time": "1 year ago"
+  }
+]

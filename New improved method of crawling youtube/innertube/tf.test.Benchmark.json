@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "t48a_KOh0fQ",
+    "thumbnail": "https://i.ytimg.com/vi/t48a_KOh0fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ_WAXnjx1hkxUM79Mlc6f7hznxA",
+    "title": "TensorFlow 1 vs TensorFlow 2: Is the new TF better?",
+    "length": "2:33",
+    "views": "11,719",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Pljh1GHUlgQ",
+    "thumbnail": "https://i.ytimg.com/vi/Pljh1GHUlgQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQrUZAWSX3P88PXXd0l8n5KTE1Yg",
+    "title": "AI Benchmark with TensorFlow-DirectML and Intel UHD Graphics | SB#28",
+    "length": "4:09",
+    "views": "2,199",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "-n5XAZliAJ4",
+    "thumbnail": "https://i.ytimg.com/vi/-n5XAZliAJ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6rF9FcnZfZ5yVTRxK4r_yASotyQ",
+    "title": "Tensorflow GPU vs CPU performance comparison | Test your GPU performance for Deep Learning - English",
+    "length": "12:43",
+    "views": "2,577",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "e2VfNscJJUM",
+    "thumbnail": "https://i.ytimg.com/vi/e2VfNscJJUM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYKRTc1TPN5Ex1suk2FN4A3Pey1A",
+    "title": "TensorFlow Speed on GPU vs CPU",
+    "length": "9:37",
+    "views": "55,535",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "SXLz8HyFbWA",
+    "thumbnail": "https://i.ytimg.com/vi/SXLz8HyFbWA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXq9DnC8yKlTTP_ewE_eFUPVQzKw",
+    "title": "PlaidML - How to Use Your GPU and CPU for Machine Learning | Benchmarking Test",
+    "length": "9:53",
+    "views": "7,739",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "B7CNMHeZ4Ys",
+    "thumbnail": "https://i.ytimg.com/vi/B7CNMHeZ4Ys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlAkWAQzQSN3vSsjZJhr0JTJFlpg",
+    "title": "M1 Max VS RTX3070 (Tensorflow Performance Tests)",
+    "length": "7:38",
+    "views": "44,769",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "iPftvzviHwE",
+    "thumbnail": "https://i.ytimg.com/vi/iPftvzviHwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEa-k9sEN_eZBuCVBAnoTzp7hfDg",
+    "title": "Unexpected results 😕 ML @TensorFlow tests on M1 Pro/Max MacBooks",
+    "length": "8:11",
+    "views": "41,931",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "6TOojA72uo4",
+    "thumbnail": "https://i.ytimg.com/vi/6TOojA72uo4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY3oG1Q_ZdGIdW9liOEOkFkJZGgw",
+    "title": "Training Neural Networks on TPU vs GPU vs CPU - Speed and Performance Tests",
+    "length": "14:49",
+    "views": "7,043",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ay1E1f8VqP8",
+    "thumbnail": "https://i.ytimg.com/vi/ay1E1f8VqP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6PapHc-BkVCQ8LIU6sfATajkX1A",
+    "title": "I built the same model with TensorFlow and PyTorch | Which Framework is better?",
+    "length": "13:33",
+    "views": "41,578",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "1bEqRvJrZgE",
+    "thumbnail": "https://i.ytimg.com/vi/1bEqRvJrZgE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA88WHavEsvA3EIZ778dmBdmmomnw",
+    "title": "How to Manage GPU Resource Utilization in Tensorflow and Keras",
+    "length": "14:09",
+    "views": "5,892",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8FSdP-FXNFA",
+    "thumbnail": "https://i.ytimg.com/vi/8FSdP-FXNFA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTvlRryxmlVsDJ_rBQRBifZaiLWw",
+    "title": "Deep learning benchmark | DLBT - Test your GPU to the limit",
+    "length": "15:16",
+    "views": "5,664",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HCLmM1PyDIs",
+    "thumbnail": "https://i.ytimg.com/vi/HCLmM1PyDIs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtyP0FoJcLZqTKyheR6iPAHZDseA",
+    "title": "How to Use 2 (or more) NVIDIA GPUs to Speed Keras/TensorFlow Deep Learning Training",
+    "length": "13:44",
+    "views": "9,563",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "PFsM7hktabU",
+    "thumbnail": "https://i.ytimg.com/vi/PFsM7hktabU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-fZWnaX4D-iG_5BegIYzVfsiH5w",
+    "title": "TF TEST -  object_detection_tutorial.ipynb",
+    "length": "1:38",
+    "views": "259",
+    "publish_time": "3 years ago"
+  }
+]

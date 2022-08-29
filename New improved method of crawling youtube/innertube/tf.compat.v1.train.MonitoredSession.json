@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mcSZQdY7psA",
+    "thumbnail": "https://i.ytimg.com/vi/mcSZQdY7psA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTyPz5GWYohOJF0a4JCP0wVfv6Ow",
+    "title": "Train Custom Image Classifier from Scratch - End-to-End Tutorial  - 🤗 Transformers with HuggingPics",
+    "length": "15:10",
+    "views": "1,388",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "OfswPuN7p5o",
+    "thumbnail": "https://i.ytimg.com/vi/OfswPuN7p5o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7DgxZ3ArVsvahLImmdAs0q0tI6w",
+    "title": "Neural Machine Translation (NMT): How Nikon Utilizes Domain-Adapted MT for Technical Translation",
+    "length": "30:46",
+    "views": "2",
+    "publish_time": "6 hours ago"
+  },
+  {
+    "videoId": "A4K6D_gx2Iw",
+    "thumbnail": "https://i.ytimg.com/vi/A4K6D_gx2Iw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAty79maS4YZaGcTs6-bJ-UL1mEhA",
+    "title": "How to use your trained model - Deep Learning basics with Python, TensorFlow and Keras p.6",
+    "length": "11:55",
+    "views": "195,554",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "51CdRjozd5U",
+    "thumbnail": "https://i.ytimg.com/vi/51CdRjozd5U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOz11x99tP6_Lt3OpgP6M_XBaBiA",
+    "title": "Graph and Session Tensorflow | Tensorflow Tutorials using Python | Part - 3 |",
+    "length": "8:04",
+    "views": "6,263",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "oT_zNwN_ld4",
+    "thumbnail": "https://i.ytimg.com/vi/oT_zNwN_ld4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxEXDAUSMDXHNu8Kykw47vFAqq8w",
+    "title": "Train models to recognize hand-written digits using Tensorflow",
+    "length": "47:29",
+    "views": "737",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "yqkISICHH-U",
+    "thumbnail": "https://i.ytimg.com/vi/yqkISICHH-U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7_ytcHBMpacrZ5SmhhJN5P-0rKg",
+    "title": "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+    "length": "5:25:42",
+    "views": "668,948",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ROxrFOEbsQE",
+    "thumbnail": "https://i.ytimg.com/vi/ROxrFOEbsQE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbkSg1QyEccK2wQszhHjqoWQbEKA",
+    "title": "Batching inputs together (TensorFlow)",
+    "length": "2:51",
+    "views": "1,226",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "uqomO_BZ44g",
+    "thumbnail": "https://i.ytimg.com/vi/uqomO_BZ44g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4iq4Z_JVzAAQRHEh7ZkB_X_VoTg",
+    "title": "Train Neural Network by loading your images |TensorFlow, CNN, Keras tutorial",
+    "length": "18:29",
+    "views": "174,759",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "nuViDYGLOGs",
+    "thumbnail": "https://i.ytimg.com/vi/nuViDYGLOGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm7fDqpx-qqHhDhmqvIBkWUD9zAA",
+    "title": "Training a TensorFlow Object Detection Network",
+    "length": "34:56",
+    "views": "5,589",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  }
+]

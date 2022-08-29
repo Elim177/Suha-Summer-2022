@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qQeKEawn_HI",
+    "thumbnail": "https://i.ytimg.com/vi/qQeKEawn_HI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt1tFLXtt7QMk8Jqtg1lxAWbLzlQ",
+    "title": "Numpy Tutorials : 005 : Meshgrid in detail for gridded data",
+    "length": "10:46",
+    "views": "36,041",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "DpOq0PJ0H38",
+    "thumbnail": "https://i.ytimg.com/vi/DpOq0PJ0H38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCol7AbjGfzr7xa6VKD34T9Szvq5w",
+    "title": "Inside TensorFlow: TF NumPy",
+    "length": "32:33",
+    "views": "10,296",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Ume6KdkBcEk",
+    "thumbnail": "https://i.ytimg.com/vi/Ume6KdkBcEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRt7s649GNcB6bF9SdYtRwTLJu6Q",
+    "title": "Classification: Meshgrid",
+    "length": "10:14",
+    "views": "1,818",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sHwdoSQpMFQ",
+    "thumbnail": "https://i.ytimg.com/vi/sHwdoSQpMFQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfYJPDuEAagH2fILytJG_eyvl54w",
+    "title": "The Python Function You NEED For 2D Data",
+    "length": "10:49",
+    "views": "5,570",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "pkVwUVEHmfI",
+    "thumbnail": "https://i.ytimg.com/vi/pkVwUVEHmfI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABWSW7Ivn3CQtxsDujUJ7xW0A34w",
+    "title": "Einsum Is All You Need: NumPy, PyTorch and TensorFlow",
+    "length": "16:22",
+    "views": "21,339",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "fCpQd_knWQg",
+    "thumbnail": "https://i.ytimg.com/vi/fCpQd_knWQg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApShvyO22rYfZyx7lx4SRnPI3uYg",
+    "title": "Building & Replicating Models of Visual Search Behavior w/ Tensorflow, Nengo, & Scientific Python",
+    "length": "22:57",
+    "views": "543",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HVLPJnvInzM",
+    "thumbnail": "https://i.ytimg.com/vi/HVLPJnvInzM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfOmUtccFzWfFV2rrcFeNB6ma6yg",
+    "title": "Ralf Gommers: The evolution of array computing in Python | PyData Amsterdam 2019",
+    "length": "29:58",
+    "views": "1,462",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "hEatxTgVOes",
+    "thumbnail": "https://i.ytimg.com/vi/hEatxTgVOes/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtGu9ZsWW0xTqcfVpu0P4A629OtA",
+    "title": "TensorFlow 2.0: How to convert Numpy array to Tensors",
+    "length": "3:23",
+    "views": "2,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "XoMiveY_1Z4",
+    "thumbnail": "https://i.ytimg.com/vi/XoMiveY_1Z4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWXxn7Ysb_s-PUWkk153hMlkFmFQ",
+    "title": "TFOD 2.0 Custom Object Detection Step By Step Tutorial",
+    "length": "47:08",
+    "views": "94,414",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c3aZeMZ0cvs",
+    "thumbnail": "https://i.ytimg.com/vi/c3aZeMZ0cvs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCArddSKpSIjED3TdoZYSjCs0ZhkA",
+    "title": "Superpowers with TensorFlow.js (TF Fall 2020 Updates)",
+    "length": "25:39",
+    "views": "15,304",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Aua3eLpnGao",
+    "thumbnail": "https://i.ytimg.com/vi/Aua3eLpnGao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0IefwS4Vs8T7RnCalrwY8KTmUfQ",
+    "title": "Creating my own mesh format with Python - FEA fun learning project",
+    "length": "40:17",
+    "views": "10,313",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5MQ63pDxULw",
+    "thumbnail": "https://i.ytimg.com/vi/5MQ63pDxULw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JPLOLmjWfnsVAZW-ZxTTFUXC1g",
+    "title": "How to Build & Use TensorFlow Data Pipeline for Image Processing",
+    "length": "54:51",
+    "views": "2,846",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "HgGyWS40g-g",
+    "thumbnail": "https://i.ytimg.com/vi/HgGyWS40g-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXRPt_b49RV7Zxqj2dWPibC5QaDA",
+    "title": "Mesh-TensorFlow: Model Parallelism for Supercomputers (TF Dev Summit ‘19)",
+    "length": "15:14",
+    "views": "13,516",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  }
+]

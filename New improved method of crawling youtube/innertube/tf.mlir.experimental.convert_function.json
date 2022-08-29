@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "R5LLIj8EMxw",
+    "thumbnail": "https://i.ytimg.com/vi/R5LLIj8EMxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI7VVWTJmmVs454MSTXtL-G8qTVA",
+    "title": "Inside TensorFlow: MLIR for TF developers",
+    "length": "43:41",
+    "views": "7,702",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Hx3A0A2lM84",
+    "thumbnail": "https://i.ytimg.com/vi/Hx3A0A2lM84/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOC4nzug18zH49YFiEDYgVqh1Fw",
+    "title": "MLIR: Accelerating TF with compilers (TF Dev Summit '20)",
+    "length": "10:19",
+    "views": "7,487",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4xuxOKveu9U",
+    "thumbnail": "https://i.ytimg.com/vi/4xuxOKveu9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpP6gY3AWp164MJGa4kCqRvbi0aA",
+    "title": "Inside TensorFlow: New TF Lite Converter",
+    "length": "37:32",
+    "views": "7,731",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "MZx1fhbL2q4",
+    "thumbnail": "https://i.ytimg.com/vi/MZx1fhbL2q4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrE9bFAW7ItYgpiItKXgybLVKneg",
+    "title": "How to convert your ML model to TensorFlow Lite (TensorFlow Tip of the Week)",
+    "length": "2:37",
+    "views": "45,880",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ICY4Lvhyobk",
+    "thumbnail": "https://i.ytimg.com/vi/ICY4Lvhyobk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjr2Ox1SDhyL6-cxvS3_-mndJ8Ug",
+    "title": "Convert your model to tensorflow lite",
+    "length": "10:46",
+    "views": "23,962",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "pf3nVaquCCo",
+    "thumbnail": "https://i.ytimg.com/vi/pf3nVaquCCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYLK3cosD1f9Z4hsYuIPf3PyCB4A",
+    "title": "Tensor Flow 2.0  - Part 1: Deep Learning and Tabular Data + tf.function",
+    "length": "1:25:51",
+    "views": "241",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "8TBMiz325M8",
+    "thumbnail": "https://i.ytimg.com/vi/8TBMiz325M8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbzk2yBgaCQX7RBKNgyMW7CLcWLA",
+    "title": "How to convert PyTorch model to Tensorflow",
+    "length": "10:30",
+    "views": "7,971",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "4NLlNx6wVaw",
+    "thumbnail": "https://i.ytimg.com/vi/4NLlNx6wVaw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLi-iRJJZNtVSm1v1Vvitn0CVSVg",
+    "title": "Differences Between Tensorflow 1.x and Tensorflow 2.0 (Episode 3)",
+    "length": "10:03",
+    "views": "11,697",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "GbNsF0bRxLg",
+    "thumbnail": "https://i.ytimg.com/vi/GbNsF0bRxLg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEhtO5MB1OsyHsnrIur7KMwlvmUQ",
+    "title": "TF Conversion",
+    "length": "1:52",
+    "views": "88",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BecEHOVmx9o",
+    "thumbnail": "https://i.ytimg.com/vi/BecEHOVmx9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjUatmGJQvbOWvp1UCdUNoQhV2Qg",
+    "title": "A demo of One Hot Encoding (TensorFlow Tip of the Week)",
+    "length": "4:33",
+    "views": "29,971",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "x-2U1Qr1w9o",
+    "thumbnail": "https://i.ytimg.com/vi/x-2U1Qr1w9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnWVCH_H_eowWXNUEOAcQFLGgMtA",
+    "title": "tf reshape: Use TensorFlow reshape To Convert A Tensor To A Vector - TensorFlow Tutorial",
+    "length": "4:19",
+    "views": "16",
+    "publish_time": "3 months ago"
+  }
+]

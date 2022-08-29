@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "v1oHf1KV6kM",
+    "thumbnail": "https://i.ytimg.com/vi/v1oHf1KV6kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAatxn8MuousDEgsYHfaKlIpW-RMg",
+    "title": "Quantization in deep learning | Deep Learning Tutorial 49 (Tensorflow, Keras & Python)",
+    "length": "15:34",
+    "views": "15,270",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "Q1oBXdizXwI",
+    "thumbnail": "https://i.ytimg.com/vi/Q1oBXdizXwI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-DCLEX5gej7kEoy0XLBe6Yu-_9Q",
+    "title": "Inside TensorFlow: Quantization aware training",
+    "length": "30:35",
+    "views": "11,932",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "IuyTC-_otGw",
+    "thumbnail": "https://i.ytimg.com/vi/IuyTC-_otGw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSNJnZHOdV5rhNh8Oj6ewM-nN2Vg",
+    "title": "Post-training Quantization in TensorFlow Lite (TFLite)",
+    "length": "13:27",
+    "views": "6,332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3JWRVx1OKQQ",
+    "thumbnail": "https://i.ytimg.com/vi/3JWRVx1OKQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHev0REcxufTaYaKchzW_X53ooAw",
+    "title": "TensorFlow model optimization: Quantization and pruning (TF World '19)",
+    "length": "40:50",
+    "views": "11,259",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4J_FW5xQDUk",
+    "thumbnail": "https://i.ytimg.com/vi/4J_FW5xQDUk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYRCpJfbYzzSZH1_nD22kYlIhOvQ",
+    "title": "Deep Learning  with Tensorflow - Quantization Aware Training",
+    "length": "20:15",
+    "views": "2,612",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "DDelqfkYCuo",
+    "thumbnail": "https://i.ytimg.com/vi/DDelqfkYCuo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ7PCdLVPG6iY0q87nbYi8EE9cZg",
+    "title": "Introduction to Deep Learning : Downsizing Neural Networks by Quantization",
+    "length": "10:05",
+    "views": "7,969",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IPQmGzYuxmc",
+    "thumbnail": "https://i.ytimg.com/vi/IPQmGzYuxmc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdFxYbbcBZuYQ40T9WeKTcsL-4BQ",
+    "title": "Quantization - Dmytro Dzhulgakov",
+    "length": "9:54",
+    "views": "6,915",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "KASuxB3XoYQ",
+    "thumbnail": "https://i.ytimg.com/vi/KASuxB3XoYQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6A-KJ8hwkVolaieHuQJpeiEK4eA",
+    "title": "tinyML Talks: A Practical Guide to Neural Network Quantization",
+    "length": "1:01:20",
+    "views": "5,960",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "iHrOggxA3Xw",
+    "thumbnail": "https://i.ytimg.com/vi/iHrOggxA3Xw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFfON2WDDpLmxCo6hVpGv4aRlTLA",
+    "title": "Model Quantization in Deep Neural Network (Post Training)",
+    "length": "2:01",
+    "views": "5,850",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "S9ElPZupUsE",
+    "thumbnail": "https://i.ytimg.com/vi/S9ElPZupUsE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfqR_fGCPNb6IptZG6MumVMcYDnQ",
+    "title": "TensorFlow (C2W3L11)",
+    "length": "16:08",
+    "views": "33,507",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "9SuMw5xKiVs",
+    "thumbnail": "https://i.ytimg.com/vi/9SuMw5xKiVs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnZZLROebbzfVBmHQaaDZoYeZW8g",
+    "title": "Verifying Low-dimensional Input Neural Networks via Input Quantization",
+    "length": "7:38",
+    "views": "23",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "SToqP9V9y7Q",
+    "thumbnail": "https://i.ytimg.com/vi/SToqP9V9y7Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz7-19WkV92tyDWenNNhPAp24sDw",
+    "title": "TensorFlow 2.0 Tutorial for Beginners 3 - Plotting Learning Curve and Confusion Matrix in TensorFlow",
+    "length": "21:43",
+    "views": "14,561",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "dXB-KQYkzNU",
+    "thumbnail": "https://i.ytimg.com/vi/dXB-KQYkzNU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_aWfP5ZaArJ3rj6HIocJmxR7CTA",
+    "title": "Batch Normalization (“batch norm”) explained",
+    "length": "7:32",
+    "views": "159,117",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  }
+]

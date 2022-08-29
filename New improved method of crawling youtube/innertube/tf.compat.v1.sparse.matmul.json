@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "t48a_KOh0fQ",
+    "thumbnail": "https://i.ytimg.com/vi/t48a_KOh0fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ_WAXnjx1hkxUM79Mlc6f7hznxA",
+    "title": "TensorFlow 1 vs TensorFlow 2: Is the new TF better?",
+    "length": "2:33",
+    "views": "11,719",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "t3z0bOsaDQ0",
+    "thumbnail": "https://i.ytimg.com/vi/t3z0bOsaDQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0V8wE6AJRqxtPi8afPjrcztjI_w",
+    "title": "Intro to Sparse Tensors and Spatially Sparse Neural Networks",
+    "length": "11:28",
+    "views": "1,457",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "pXjcavzGqDk",
+    "thumbnail": "https://i.ytimg.com/vi/pXjcavzGqDk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPZ_cH4I4o4GNq4Iu9cAFGktq_sw",
+    "title": "MatRaptor: A Sparse-Sparse Matrix Multiplication Accelerator Based on Row-Wise Product",
+    "length": "13:34",
+    "views": "654",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4NLlNx6wVaw",
+    "thumbnail": "https://i.ytimg.com/vi/4NLlNx6wVaw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLi-iRJJZNtVSm1v1Vvitn0CVSVg",
+    "title": "Differences Between Tensorflow 1.x and Tensorflow 2.0 (Episode 3)",
+    "length": "10:03",
+    "views": "11,697",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "0wJsGWA5pTU",
+    "thumbnail": "https://i.ytimg.com/vi/0wJsGWA5pTU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAVJ2xNoH_dbPdBnSC4b4kGxjhbw",
+    "title": "A Sparse Iteration Space Transformation Framework for Sparse Tensor Algebra",
+    "length": "16:50",
+    "views": "643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "pjtnkCGElcE",
+    "thumbnail": "https://i.ytimg.com/vi/pjtnkCGElcE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlfjAgFyTGvSLV9vlH8lrekYbLMw",
+    "title": "Multi-Class Language Classification With BERT in TensorFlow",
+    "length": "43:24",
+    "views": "10,394",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "s7DqRZVvRiQ",
+    "thumbnail": "https://i.ytimg.com/vi/s7DqRZVvRiQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfeH9vSWJTsIq78FdZKdHXTyyfKQ",
+    "title": "J. Frankle & M. Carbin: The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+    "length": "15:05",
+    "views": "15,051",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tfM5QUNYtEA",
+    "thumbnail": "https://i.ytimg.com/vi/tfM5QUNYtEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zcQs_OOZXiYDKJlmw709zPo8KQ",
+    "title": "#7: Broadcasting, ragged tensor, sparse and dense tensor | TensorFlow | Tutorial",
+    "length": "25:08",
+    "views": "137",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "smZfsYhDFkY",
+    "thumbnail": "https://i.ytimg.com/vi/smZfsYhDFkY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNw2IRzvKKe3xZEZVMbXweH-l36w",
+    "title": "Sparse Tensors with MXNet",
+    "length": "10:12",
+    "views": "393",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,783",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "OgmvVmWfA38",
+    "thumbnail": "https://i.ytimg.com/vi/OgmvVmWfA38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCT0btjyfgeV5Zpi3ftPwPo97-8SA",
+    "title": "Metric Learning for Images - Keras Code Examples",
+    "length": "22:39",
+    "views": "3,161",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "EHHdyM3NNiA",
+    "thumbnail": "https://i.ytimg.com/vi/EHHdyM3NNiA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwARfXWhsiHjwgF4nmHIiZAQ_TvA",
+    "title": "Using the tf.data API to build input pipelines (TensorFlow Meets)",
+    "length": "6:35",
+    "views": "7,660",
+    "publish_time": "4 years ago"
+  }
+]

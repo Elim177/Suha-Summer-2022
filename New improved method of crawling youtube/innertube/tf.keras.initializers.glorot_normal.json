@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,839",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8krd5qKVw-Q",
+    "thumbnail": "https://i.ytimg.com/vi/8krd5qKVw-Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWz8kB7XB9T3IEwHx3F6DN-HFp-w",
+    "title": "Weight Initialization explained | A way to reduce the vanishing gradient problem",
+    "length": "10:12",
+    "views": "55,454",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "s2coXdufOzE",
+    "thumbnail": "https://i.ytimg.com/vi/s2coXdufOzE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEAja11RVy4ok7ik6c05yxT_Ds7g",
+    "title": "Weight Initialization in a Deep Network (C2W1L11)",
+    "length": "6:12",
+    "views": "66,184",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "IrPhMM_RUmg",
+    "thumbnail": "https://i.ytimg.com/vi/IrPhMM_RUmg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2cuPo-5BWueTpPe1LaWdyN1Q4Q",
+    "title": "TensorFlow Tutorial 10 - Recurrent Neural Nets (RNN & LSTM & GRU)",
+    "length": "10:30",
+    "views": "16,295",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BFBZyT-kEVg",
+    "thumbnail": "https://i.ytimg.com/vi/BFBZyT-kEVg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoKGsLrDzwE26kQrRnZ6QKkXP7hw",
+    "title": "Tokenizer using Keras Tensorflow",
+    "length": "17:13",
+    "views": "488",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uhzGTijaw8A",
+    "thumbnail": "https://i.ytimg.com/vi/uhzGTijaw8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9KyJbWSewRHeZsYfkVAC4VOtEhQ",
+    "title": "Inside TensorFlow: tf.Keras (part 2)",
+    "length": "51:34",
+    "views": "12,006",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "-vHQub0NXI4",
+    "thumbnail": "https://i.ytimg.com/vi/-vHQub0NXI4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkhJ7YMTPNrtng8y6oDfdvRfh0Pg",
+    "title": "Get started with using TensorFlow to solve for regression problems (Coding TensorFlow)",
+    "length": "11:39",
+    "views": "200,038",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "SX67Mni0Or4",
+    "thumbnail": "https://i.ytimg.com/vi/SX67Mni0Or4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA24gFayOxpz3dKUY4YKuUK5CEbLg",
+    "title": "Neural Transformer Encoders for Timeseries Data in Keras (10.5)",
+    "length": "8:24",
+    "views": "2,650",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zQS6h-XneMs",
+    "thumbnail": "https://i.ytimg.com/vi/zQS6h-XneMs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN3pgLHvvv3VrxpL2ZuI7Ym82Bxw",
+    "title": "tf.keras - 3. XOR With Neural Network (English)",
+    "length": "18:41",
+    "views": "3,981",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "aner3u79IGw",
+    "thumbnail": "https://i.ytimg.com/vi/aner3u79IGw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbE-jo53rJM0yhXeHUX43BY0vqTw",
+    "title": "Regularization in Neural Networks and Deep Learning with Keras and TensorFlow",
+    "length": "13:18",
+    "views": "764",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gPTGszyTYSw",
+    "thumbnail": "https://i.ytimg.com/vi/gPTGszyTYSw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnY3tIB3Mmuhzsen3-MsLftgYTLQ",
+    "title": "Keras API in TensorFlow 2 🔥 Pt-11 | Machine Learning using TF",
+    "length": "4:06",
+    "views": "203",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "lajKHFfen9g",
+    "thumbnail": "https://i.ytimg.com/vi/lajKHFfen9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8zXtajiWXXxIF_SYG3fRYSn-Qrg",
+    "title": "Building a Regression model using Keras - Pt-11 | Machine Learning using TF",
+    "length": "9:37",
+    "views": "334",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "1bEqRvJrZgE",
+    "thumbnail": "https://i.ytimg.com/vi/1bEqRvJrZgE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA88WHavEsvA3EIZ778dmBdmmomnw",
+    "title": "How to Manage GPU Resource Utilization in Tensorflow and Keras",
+    "length": "14:09",
+    "views": "5,892",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tMjdQLylyGI",
+    "thumbnail": "https://i.ytimg.com/vi/tMjdQLylyGI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnrHNGccTqfvGEc9vTSVZA6GQusQ",
+    "title": "Tutorial 11- Various Weight Initialization Techniques in Neural Network",
+    "length": "13:02",
+    "views": "77,103",
+    "publish_time": "2 years ago"
+  }
+]

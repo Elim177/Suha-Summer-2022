@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "q7ZuZ8ZOErE",
+    "thumbnail": "https://i.ytimg.com/vi/q7ZuZ8ZOErE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZnm8iOadtqApGsn2WN8ag5JzyMQ",
+    "title": "TensorFlow Tutorial 18 - Custom Dataset for Images",
+    "length": "25:16",
+    "views": "53,046",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "EzE4oE2OA6c",
+    "thumbnail": "https://i.ytimg.com/vi/EzE4oE2OA6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Ol_rATsW-96cl3JHaxUVk91MlA",
+    "title": "Tensorflow in Docker tutorial | Image classification tutorial | MobilenetV2",
+    "length": "12:39",
+    "views": "5,472",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FiNglI1wRNk",
+    "thumbnail": "https://i.ytimg.com/vi/FiNglI1wRNk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1jU03yby8ZjVr_jN6tOyE9UMfLg",
+    "title": "Use TensorFlow to classify clothing images (Coding TensorFlow)",
+    "length": "7:42",
+    "views": "45,760",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,506",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "a7djihFElOs",
+    "thumbnail": "https://i.ytimg.com/vi/a7djihFElOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9q9mSu72bPEgdF70hkwhyJUZJZw",
+    "title": "Data augmentation with TensorFlow using tf.image and Keras Layers - Full Stack Deep Learning",
+    "length": "53:27",
+    "views": "499",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "e1B7l3smXFE",
+    "thumbnail": "https://i.ytimg.com/vi/e1B7l3smXFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChdB-OMbMAufG43cIyPesU8cc6nQ",
+    "title": "TensorFlow: Tensor and Image Basics",
+    "length": "37:37",
+    "views": "1,777",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4RYaAyVxET0",
+    "thumbnail": "https://i.ytimg.com/vi/4RYaAyVxET0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiuK6vJnYXqT2M64oSbOrMn9TB6w",
+    "title": "Visualize TensorFlow Tensors as Images",
+    "length": "5:03",
+    "views": "557",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "7ZOIbkA9eqI",
+    "thumbnail": "https://i.ytimg.com/vi/7ZOIbkA9eqI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf5XALibtrwWopVCykupETC-kXGg",
+    "title": "How to upload images from directory in TensorFlow and convert  BatchDataset to Numpy array.",
+    "length": "6:57",
+    "views": "1,168",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "84J1fMklQWE",
+    "thumbnail": "https://i.ytimg.com/vi/84J1fMklQWE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI391yyyQoTh7tmA40j4UJGezXBQ",
+    "title": "Transfer Learning - Image Classification using Tensorflow",
+    "length": "16:47",
+    "views": "12,985",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "OiwujkFIPIU",
+    "thumbnail": "https://i.ytimg.com/vi/OiwujkFIPIU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJEtrMLsweRxbFpGiFtWRCyjL9fQ",
+    "title": "📷 tf.image in TF 2.0 - friction logs, loud noises, probably coffee",
+    "length": "53:52",
+    "views": "194",
+    "publish_time": "Streamed 3 years ago"
+  },
+  {
+    "videoId": "QfNvhPx5Px8",
+    "thumbnail": "https://i.ytimg.com/vi/QfNvhPx5Px8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCqioRSSEdpYs2icUBM03t-iFqZw",
+    "title": "Build a TensorFlow Image Classifier in 5 Min",
+    "length": "5:47",
+    "views": "861,244",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "hd3XEjfwuLI",
+    "thumbnail": "https://i.ytimg.com/vi/hd3XEjfwuLI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDqosJ2ozZEvqmTFPo6FsLnXuzSw",
+    "title": "MixUp augmentation for image classification - Keras Code Examples",
+    "length": "16:38",
+    "views": "2,992",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5MQ63pDxULw",
+    "thumbnail": "https://i.ytimg.com/vi/5MQ63pDxULw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JPLOLmjWfnsVAZW-ZxTTFUXC1g",
+    "title": "How to Build & Use TensorFlow Data Pipeline for Image Processing",
+    "length": "54:51",
+    "views": "2,846",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "QWdYWwW6OAE",
+    "thumbnail": "https://i.ytimg.com/vi/QWdYWwW6OAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNc0rDQrpz6unhD_OB2ztlOBRVmg",
+    "title": "Machine Learning Foundations: Ep #7 - Image augmentation and overfitting",
+    "length": "12:25",
+    "views": "24,383",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8wwfVV7ixyY",
+    "thumbnail": "https://i.ytimg.com/vi/8wwfVV7ixyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6p2vmrVeOpRsR0vqi2TRZ_iXAQ",
+    "title": "TensorFlow Tutorial 13 - Data Augmentation",
+    "length": "15:40",
+    "views": "13,493",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iz-TZOEKXzA",
+    "thumbnail": "https://i.ytimg.com/vi/iz-TZOEKXzA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJYb1PJB48BCwYCx9IGp9cGKqZyA",
+    "title": "How to Generate Images with Tensorflow (LIVE)",
+    "length": "1:02:51",
+    "views": "34,085",
+    "publish_time": "Streamed 5 years ago"
+  }
+]

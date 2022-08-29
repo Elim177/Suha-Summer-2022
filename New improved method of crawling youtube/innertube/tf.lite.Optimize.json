@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "8WKMU0WWuwQ",
+    "thumbnail": "https://i.ytimg.com/vi/8WKMU0WWuwQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-93Nlp27Vu0zbw4CoeMqmLDotmA",
+    "title": "Optimize your TensorFlow Lite models | Session",
+    "length": "13:30",
+    "views": "4,092",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2tnWHCxP8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/2tnWHCxP8Bk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKgALDTRzjoRe4VzW-lT0nyhhQA",
+    "title": "Optimize your models with TF Model Optimization Toolkit (TF Dev Summit '20)",
+    "length": "17:09",
+    "views": "7,453",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "xeKLAeIUgcY",
+    "thumbnail": "https://i.ytimg.com/vi/xeKLAeIUgcY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK8Q_Ml3MSy2-c1rTpRJfpXQj_CA",
+    "title": "Understanding TensorFlow Model Optimization",
+    "length": "24:05",
+    "views": "42",
+    "publish_time": "Streamed 8 months ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,882",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "HXzz87WVm6c",
+    "thumbnail": "https://i.ytimg.com/vi/HXzz87WVm6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHko67TvfksHVKlAL6wsigUslIA",
+    "title": "237 - What is Tensorflow Lite and how to convert keras model to tflite?",
+    "length": "30:41",
+    "views": "4,719",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "MLEKEplgCas",
+    "thumbnail": "https://i.ytimg.com/vi/MLEKEplgCas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfkfX1LKkl_wwY5yGeZs_KFd1WQ",
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch & cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "length": "26:16",
+    "views": "13,694",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bKLL0tAj3GE",
+    "thumbnail": "https://i.ytimg.com/vi/bKLL0tAj3GE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTaFrcbH3auz-CrBhs6xm_6jb-0g",
+    "title": "Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)",
+    "length": "14:10",
+    "views": "19,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "OJnaBhCixng",
+    "thumbnail": "https://i.ytimg.com/vi/OJnaBhCixng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWPewuklIpu6NjlmSNSA2ltnYq0g",
+    "title": "TensorFlow Lite for Edge Devices - Tutorial",
+    "length": "59:21",
+    "views": "38,363",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "oT3pzOtZKv0",
+    "thumbnail": "https://i.ytimg.com/vi/oT3pzOtZKv0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZIvDepuTEF7UNXIQTAJz6MJ3vGQ",
+    "title": "Answering your TF Lite questions and more! #AskTensorFlow",
+    "length": "15:40",
+    "views": "4,680",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "3JWRVx1OKQQ",
+    "thumbnail": "https://i.ytimg.com/vi/3JWRVx1OKQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHev0REcxufTaYaKchzW_X53ooAw",
+    "title": "TensorFlow model optimization: Quantization and pruning (TF World '19)",
+    "length": "40:50",
+    "views": "11,259",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4xuxOKveu9U",
+    "thumbnail": "https://i.ytimg.com/vi/4xuxOKveu9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpP6gY3AWp164MJGa4kCqRvbi0aA",
+    "title": "Inside TensorFlow: New TF Lite Converter",
+    "length": "37:32",
+    "views": "7,731",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IbHWbT2Q1dc",
+    "thumbnail": "https://i.ytimg.com/vi/IbHWbT2Q1dc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEbc6dO6ZJnN5K6XYTZVeVsUcgRA",
+    "title": "TF Lite Lens (TF Dev Summit '20)",
+    "length": "7:44",
+    "views": "2,589",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Gx_kdTkW_PU",
+    "thumbnail": "https://i.ytimg.com/vi/Gx_kdTkW_PU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyo8cSEUXotnLII2502HVLA5AoZg",
+    "title": "Object detection using Tensorflow Lite C API on iOS",
+    "length": "25:56",
+    "views": "1,993",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "emdcI0DR1yM",
+    "thumbnail": "https://i.ytimg.com/vi/emdcI0DR1yM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97sglic3h-3ApJWLqnN_oIYQTGA",
+    "title": "TensorFlow 2.x - TensorFlow Lite Converter",
+    "length": "5:48",
+    "views": "2,209",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "llEkDLnLocE",
+    "thumbnail": "https://i.ytimg.com/vi/llEkDLnLocE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAaWNANvTppgvffkiovtrixc1dYw",
+    "title": "Converting Tensorflow Object Detection model to TFLite model",
+    "length": "17:29",
+    "views": "5,234",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "MZx1fhbL2q4",
+    "thumbnail": "https://i.ytimg.com/vi/MZx1fhbL2q4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrE9bFAW7ItYgpiItKXgybLVKneg",
+    "title": "How to convert your ML model to TensorFlow Lite (TensorFlow Tip of the Week)",
+    "length": "2:37",
+    "views": "45,880",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "5q8BzYN4rqA",
+    "thumbnail": "https://i.ytimg.com/vi/5q8BzYN4rqA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzJBTvd_2AVmY6pPCVRzDcMJa5g",
+    "title": "Easily deploy TF Lite models to the web | Demo",
+    "length": "2:25",
+    "views": "6,314",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cWrb3qIFlCQ",
+    "thumbnail": "https://i.ytimg.com/vi/cWrb3qIFlCQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk_f8OpeZCPKhCFA8uR_Pi9IEF1w",
+    "title": "TFLite model conversion in Under 3 minutes",
+    "length": "2:25",
+    "views": "24,467",
+    "publish_time": "3 years ago"
+  }
+]

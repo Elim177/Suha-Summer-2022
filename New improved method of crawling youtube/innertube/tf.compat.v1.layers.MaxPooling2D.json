@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZjM_XQa5s6s",
+    "thumbnail": "https://i.ytimg.com/vi/ZjM_XQa5s6s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLh4lV3yU7UR2GwHdIb4X33l1MDg",
+    "title": "Max Pooling in Convolutional Neural Networks explained",
+    "length": "10:50",
+    "views": "121,583",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "t48a_KOh0fQ",
+    "thumbnail": "https://i.ytimg.com/vi/t48a_KOh0fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ_WAXnjx1hkxUM79Mlc6f7hznxA",
+    "title": "TensorFlow 1 vs TensorFlow 2: Is the new TF better?",
+    "length": "2:33",
+    "views": "11,719",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,446",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,214",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YFgY-n6WeqI",
+    "thumbnail": "https://i.ytimg.com/vi/YFgY-n6WeqI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDybpuJ2KTMQHQcqWwyiiuRgfvc2w",
+    "title": "Deep Learning in TensorFlow #4 L4 - CNN: Pooling Layer (Maximum Pooling & Average Pooling)",
+    "length": "13:57",
+    "views": "146",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "j-3vuBynnOE",
+    "thumbnail": "https://i.ytimg.com/vi/j-3vuBynnOE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBGo8k6cETlTVR85WR0ruLydPqWA",
+    "title": "Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2",
+    "length": "18:51",
+    "views": "737,440",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "x9i-IAk5MVw",
+    "thumbnail": "https://i.ytimg.com/vi/x9i-IAk5MVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwrfAUH_I5rZaSh4aiUjSuCxYqDQ",
+    "title": "[TensorFlow 2 Deep Learning] MLP - multi layer perceptron",
+    "length": "5:22",
+    "views": "3,489",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "nrNuwZK-XuQ",
+    "thumbnail": "https://i.ytimg.com/vi/nrNuwZK-XuQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ6Tg--uZ4bVeIzcsyLJLUniHstw",
+    "title": "Tutorial 116 - The difference between upsampling2D and conv2Dtranspose layers in deep learning",
+    "length": "17:42",
+    "views": "1,011",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "wQ8BIBpya2k",
+    "thumbnail": "https://i.ytimg.com/vi/wQ8BIBpya2k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1tITRmFx0cs8Kz91aIyEuIBhNpA",
+    "title": "Deep Learning with Python, TensorFlow, and Keras tutorial",
+    "length": "20:34",
+    "views": "1,111,638",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Xmga_snTFBs",
+    "thumbnail": "https://i.ytimg.com/vi/Xmga_snTFBs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLEOysqv40z8l7pz1Q5kk2fvpsKg",
+    "title": "Tensorflow 2.0 Tutorial - Saving & Loading Models - Text Classification P4",
+    "length": "14:59",
+    "views": "24,060",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "rrOgPiqYu6s",
+    "thumbnail": "https://i.ytimg.com/vi/rrOgPiqYu6s/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwijIy1e2LNpqDChuJl_olEazmzg",
+    "title": "Convolutional Weights as Image Features ( Deep Learning with TensorFlow)",
+    "length": "4:56",
+    "views": "2,644",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "0ixAwVAfejY",
+    "thumbnail": "https://i.ytimg.com/vi/0ixAwVAfejY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmGF_H8bLMqq3oNvAOVEXwjmh4IA",
+    "title": "Max Pooling vs No Max Pooling - Deep Learning Course",
+    "length": "7:57",
+    "views": "2,131",
+    "publish_time": "2 months ago"
+  }
+]

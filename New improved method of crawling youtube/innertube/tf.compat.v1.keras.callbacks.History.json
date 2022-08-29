@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "WUzLJZCKNu4",
+    "thumbnail": "https://i.ytimg.com/vi/WUzLJZCKNu4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeLeU-Wto_zpwEKZXcZYhmK41yFw",
+    "title": "TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks",
+    "length": "10:32",
+    "views": "10,673",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "wkwtIeq9Ljo",
+    "thumbnail": "https://i.ytimg.com/vi/wkwtIeq9Ljo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRpO4BYlmlEgcFwJe9G_kqW0TgMg",
+    "title": "129 - What are Callbacks, Checkpoints and Early Stopping in deep learning (Keras and TensorFlow)",
+    "length": "10:06",
+    "views": "15,896",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yj8ZdRnnQiY",
+    "thumbnail": "https://i.ytimg.com/vi/yj8ZdRnnQiY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChH34R5rlXUNQclyG0Ic9HRXL7ng",
+    "title": "BharatOnlineDS: keras.callbacks.Callback",
+    "length": "1:55",
+    "views": "54",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "SiXBO5qGCR0",
+    "thumbnail": "https://i.ytimg.com/vi/SiXBO5qGCR0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-VRbq7CF5d0zTQrpcHeqztlkduQ",
+    "title": "Tesorflow Callbacks - Model Checkpoint Deep Learning Tricks tf.keras.callbacks.ModelCheckpoint",
+    "length": "15:26",
+    "views": "703",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,446",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "gVO1dFCbi6o",
+    "thumbnail": "https://i.ytimg.com/vi/gVO1dFCbi6o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4D_zY06GAzFUwjH-GvCcwjUl_HQ",
+    "title": "Model Checkpoint in Tensorflow | Save Best Model using Checkpoint and Callbacks",
+    "length": "10:08",
+    "views": "1,231",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,491",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "vXL64p-Nk6U",
+    "thumbnail": "https://i.ytimg.com/vi/vXL64p-Nk6U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZnESDkKOdR_dXrLPL08Zv_b3RYA",
+    "title": "Tutorial 104 - Deep Learning terminology explained - Callbacks, Checkpoints and Early stopping",
+    "length": "13:02",
+    "views": "737",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "UYRBHFAvLSs",
+    "thumbnail": "https://i.ytimg.com/vi/UYRBHFAvLSs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZeQ4xL5xyknlgoCeAjjhMVoTwg",
+    "title": "Inside TensorFlow: tf.Keras (Part 1)",
+    "length": "53:37",
+    "views": "43,839",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Gl-N3xr5zLI",
+    "thumbnail": "https://i.ytimg.com/vi/Gl-N3xr5zLI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3TI0PPpW6IG4JbIDmgRg2c-ju_Q",
+    "title": "Callbacks - Keras",
+    "length": "7:24",
+    "views": "9,098",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "jYZwMOeV-WA",
+    "thumbnail": "https://i.ytimg.com/vi/jYZwMOeV-WA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjGiCSb7_XSpGEIslER_5YPK_xxA",
+    "title": "Farewell - Keras",
+    "length": "1:12",
+    "views": "787",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "oXj6ew5ymhM",
+    "thumbnail": "https://i.ytimg.com/vi/oXj6ew5ymhM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmHleFP6HEn9QejRYg0AJDqJpMhA",
+    "title": "Using callbacks in training, getting started in TF 2.0, & more! #AskTensorFlow",
+    "length": "13:43",
+    "views": "9,104",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "j4_BSGiG8dY",
+    "thumbnail": "https://i.ytimg.com/vi/j4_BSGiG8dY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqGDQc9yV6yvAiFTf5FdJlzUFLSA",
+    "title": "TensorFlow Tutorial 23: TensorFlow Callbacks | TensorFlow  Callbacks, Checkpoints and Early Stopping",
+    "length": "17:29",
+    "views": "373",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sHKclVdJk8M",
+    "thumbnail": "https://i.ytimg.com/vi/sHKclVdJk8M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH0lJURqun4rUjptDTgMBj5_RmdA",
+    "title": "Python in Arabic #72 KerasCallbacks كيراس كول باكس",
+    "length": "43:42",
+    "views": "2,741",
+    "publish_time": "2 years ago"
+  }
+]

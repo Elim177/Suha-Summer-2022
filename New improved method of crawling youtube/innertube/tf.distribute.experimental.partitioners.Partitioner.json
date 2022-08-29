@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "NbID_AqdZXM",
+    "thumbnail": "https://i.ytimg.com/vi/NbID_AqdZXM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy_X0DY43O06KJr_Dha_N9y48p5Q",
+    "title": "Simplified distributed training with tf.distribute parameter servers",
+    "length": "5:05",
+    "views": "2,840,164",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1gfUYEvF640",
+    "thumbnail": "https://i.ytimg.com/vi/1gfUYEvF640/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbkLqCkn7PPM4U49Z2iNi64UQgPg",
+    "title": "Lecture 36: TensorFlow Distributed Training",
+    "length": "46:25",
+    "views": "5,662",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "S1tN9a4Proc",
+    "thumbnail": "https://i.ytimg.com/vi/S1tN9a4Proc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJyTOPBigr1_bLeUHX0yCKiVJfvw",
+    "title": "A friendly introduction to distributed training (ML Tech Talks)",
+    "length": "24:19",
+    "views": "19,752",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "e2nz6XcOgrY",
+    "thumbnail": "https://i.ytimg.com/vi/e2nz6XcOgrY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD46jlylestcEf8hHHhnzOoS5-FIw",
+    "title": "Weekly Session #24 [tf.data pipeline, Pruning & Quantization, tf.function, tf.distribute]",
+    "length": "49:40",
+    "views": "26",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "BrwKURU-wpk",
+    "thumbnail": "https://i.ytimg.com/vi/BrwKURU-wpk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzJlb-pZsZ9ixLKZfMvfD7gC_gGg",
+    "title": "TensorFlow Probability: Learning with confidence (TF Dev Summit '19)",
+    "length": "13:57",
+    "views": "54,237",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Bd-sSJC6UMM",
+    "thumbnail": "https://i.ytimg.com/vi/Bd-sSJC6UMM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5Kymlg_Bt7h2-dh9AU4zVXyzzLw",
+    "title": "Chris Fregly - High-Performance Distributed Tensorflow",
+    "length": "35:54",
+    "views": "1,697",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "bRMGoPqsn20",
+    "thumbnail": "https://i.ytimg.com/vi/bRMGoPqsn20/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9EDfBpvLmTGi9c3zF2FB6HyGwew",
+    "title": "Distributed TensorFlow training (Google I/O '18)",
+    "length": "35:29",
+    "views": "35,719",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "_lJJC7BiwVU",
+    "thumbnail": "https://i.ytimg.com/vi/_lJJC7BiwVU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeeDj0pPiBCNQ8w2ZLWjE5eKUIAA",
+    "title": "Chris Fregly - High Performance Distributed Tensorflow",
+    "length": "41:39",
+    "views": "957",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "MLEKEplgCas",
+    "thumbnail": "https://i.ytimg.com/vi/MLEKEplgCas/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZfkfX1LKkl_wwY5yGeZs_KFd1WQ",
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch & cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "length": "26:16",
+    "views": "13,694",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yvIPD2sNJ0s",
+    "thumbnail": "https://i.ytimg.com/vi/yvIPD2sNJ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQWLAr1mAvX2sPtutXHBlY0xrHQ",
+    "title": "07 TensorFlow Crashkurs: Tensoren stapeln: tf.stack",
+    "length": "2:33",
+    "views": "102",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "B2Tpv_N7wkg",
+    "thumbnail": "https://i.ytimg.com/vi/B2Tpv_N7wkg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfB7uKuyWwzVuKgf28awPSiEDfEw",
+    "title": "Inside TensorFlow: Parameter server training",
+    "length": "39:03",
+    "views": "6,955",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5ECD8J3dvDQ",
+    "thumbnail": "https://i.ytimg.com/vi/5ECD8J3dvDQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB61djnOJn7tteFOTLRgdMVoXXZog",
+    "title": "Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)",
+    "length": "40:56",
+    "views": "107,193",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "T_afaArR0E8",
+    "thumbnail": "https://i.ytimg.com/vi/T_afaArR0E8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCQqYSM-y6U8cAOSPRhlkswau28w",
+    "title": "How to Deploy a Tensorflow Model to Production",
+    "length": "38:10",
+    "views": "114,834",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "H_jf-_BV79Q",
+    "thumbnail": "https://i.ytimg.com/vi/H_jf-_BV79Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChmeR4wQKk7Zpbr5ycDnmkIIxpUw",
+    "title": "Feature engineering in BigQuery and TensorFlow 2.0/Keras - Kirkland ML Summit ‘19",
+    "length": "51:27",
+    "views": "1,250",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IfIZnbf8WnE",
+    "thumbnail": "https://i.ytimg.com/vi/IfIZnbf8WnE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnTbTt-8rFZBdG_JTUq6glXi1qIQ",
+    "title": "Transitioning Kagglers to TPU with TF 2.x",
+    "length": "11:51",
+    "views": "248",
+    "publish_time": "1 year ago"
+  }
+]

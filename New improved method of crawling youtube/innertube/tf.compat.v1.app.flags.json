@@ -1,0 +1,146 @@
+[
+  {
+    "videoId": "WQu_iikwr-g",
+    "thumbnail": "https://i.ytimg.com/vi/WQu_iikwr-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdJiTezu8Ni122aBr1LB4w62x0g",
+    "title": "Whats the purpose of tf.app.flags in TensorFlow - PYTHON",
+    "length": "1:12",
+    "views": "12",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "V0J9m0a5hwM",
+    "thumbnail": "https://i.ytimg.com/vi/V0J9m0a5hwM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCsv6357z2-lSgmUxpYSmmtO_sbQ",
+    "title": "PYTHON : What's the purpose of tf.app.flags in TensorFlow?",
+    "length": "1:16",
+    "views": "71",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "8Nj2yr68nkE",
+    "thumbnail": "https://i.ytimg.com/vi/8Nj2yr68nkE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfz29ULvJEUGe3CaV5p5LRyqZ-jA",
+    "title": "AttributeError: module 'tensorflow' has no attribute 'app'",
+    "length": "1:29",
+    "views": "4,091",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,212",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "hHWkvEcDBO0",
+    "thumbnail": "https://i.ytimg.com/vi/hHWkvEcDBO0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx5GyK7WS2omJDkg0O9GQPHVklfw",
+    "title": "Installing Latest TensorFlow version with CUDA, cudNN and GPU support - Step by step tutorial 2021",
+    "length": "8:25",
+    "views": "153,404",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,775",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "kFWKdLOxykE",
+    "thumbnail": "https://i.ytimg.com/vi/kFWKdLOxykE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2qXUSe9lfW-FpZ1u48nJt_a1kcQ",
+    "title": "A Guide to Running Tensorflow Models on Android",
+    "length": "47:46",
+    "views": "168,124",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "yqkISICHH-U",
+    "thumbnail": "https://i.ytimg.com/vi/yqkISICHH-U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7_ytcHBMpacrZ5SmhhJN5P-0rKg",
+    "title": "Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects",
+    "length": "5:25:42",
+    "views": "668,882",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "AACPaoDsd50",
+    "thumbnail": "https://i.ytimg.com/vi/AACPaoDsd50/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUQ7RbkerTOdjp7NcMUSfnhjMPAw",
+    "title": "Tensorflow Image Classification | Build Your Own Image Classifier In Tensorflow | Edureka",
+    "length": "34:31",
+    "views": "156,621",
+    "publish_time": "Streamed 3 years ago"
+  },
+  {
+    "videoId": "dMq4nAMuqO8",
+    "thumbnail": "https://i.ytimg.com/vi/dMq4nAMuqO8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmwaKv6JZTX2xJ_9bWhN_wzVVu5Q",
+    "title": "How to run any Tensorflow model on a browser with Tensorflow.js Easy!",
+    "length": "33:44",
+    "views": "1,303",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,370",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IOI0o3Cxv9Q",
+    "thumbnail": "https://i.ytimg.com/vi/IOI0o3Cxv9Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB2fT2qlqOJaMqp1mY41BrY_pwyw",
+    "title": "Real Time Face Mask Detection with Tensorflow and Python | Custom Object Detection w/ MobileNet SSD",
+    "length": "58:42",
+    "views": "160,795",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lZ51aXq-VIg",
+    "thumbnail": "https://i.ytimg.com/vi/lZ51aXq-VIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlijiLTDBN33RMrRoCHIkpn2M1LA",
+    "title": "Beginner Python Tutorial 68 - Flag Variable Example",
+    "length": "3:01",
+    "views": "16,463",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,419",
+    "publish_time": "1 year ago"
+  }
+]

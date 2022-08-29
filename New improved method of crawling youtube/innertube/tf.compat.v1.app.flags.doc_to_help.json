@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "WQu_iikwr-g",
+    "thumbnail": "https://i.ytimg.com/vi/WQu_iikwr-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdJiTezu8Ni122aBr1LB4w62x0g",
+    "title": "Whats the purpose of tf.app.flags in TensorFlow - PYTHON",
+    "length": "1:12",
+    "views": "12",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "LWlbFVtPiwo",
+    "thumbnail": "https://i.ytimg.com/vi/LWlbFVtPiwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUrcO8Ns5EBDycRlm5TE-NIZfvCg",
+    "title": "Tensorflow Object Detection Tutorial: Fast Style Transfer in Real-time",
+    "length": "29:02",
+    "views": "1,510",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,826",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "dxTwaUveedo",
+    "thumbnail": "https://i.ytimg.com/vi/dxTwaUveedo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQDFWL00Mz1ejknSZazB5d61pZUg",
+    "title": "Word2Vec TensorFlow Tutorial Walkthrough by Ya Xiao",
+    "length": "55:05",
+    "views": "1,607",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "23R2eI95S30",
+    "thumbnail": "https://i.ytimg.com/vi/23R2eI95S30/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaIk9DoZjV6-N6EzOCVqHcNPZzig",
+    "title": "Building Image Recognition API with Python TensorFlow and  FastAPI",
+    "length": "9:10",
+    "views": "14,513",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "SizWDCJWEzU",
+    "thumbnail": "https://i.ytimg.com/vi/SizWDCJWEzU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBffhzk08r4VEtFIz2QDKcEJZZ77Q",
+    "title": "Experiment with Abseil Flags - Aaron Schumacher",
+    "length": "34:27",
+    "views": "3,875",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mQnmzWdPdH8",
+    "thumbnail": "https://i.ytimg.com/vi/mQnmzWdPdH8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLC-ShIwbmISdOVK7G2YQtvHUQQg",
+    "title": "#BuildInPublic 3 Building a  language learning app - Expanding on Stories, Text to speech, Remotion",
+    "length": "9:23",
+    "views": "29",
+    "publish_time": "1 day ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "oT_zNwN_ld4",
+    "thumbnail": "https://i.ytimg.com/vi/oT_zNwN_ld4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxEXDAUSMDXHNu8Kykw47vFAqq8w",
+    "title": "Train models to recognize hand-written digits using Tensorflow",
+    "length": "47:29",
+    "views": "737",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "ZCGnU-eCVv4",
+    "thumbnail": "https://i.ytimg.com/vi/ZCGnU-eCVv4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbv4fmdzz1WcgE2SWecj0GcPJJoQ",
+    "title": "TensorFlow 2.0 New Features: Understanding Model Building in TensorFlow | packtpub.com",
+    "length": "6:20",
+    "views": "178",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "lZ51aXq-VIg",
+    "thumbnail": "https://i.ytimg.com/vi/lZ51aXq-VIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlijiLTDBN33RMrRoCHIkpn2M1LA",
+    "title": "Beginner Python Tutorial 68 - Flag Variable Example",
+    "length": "3:01",
+    "views": "16,463",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "P96CByrJNxk",
+    "thumbnail": "https://i.ytimg.com/vi/P96CByrJNxk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYaKiy962cjzul58tO7XATPUyybg",
+    "title": "Annie Talvasto - Top new CNCF projects to look out for - NDC Porto 2022",
+    "length": "45:48",
+    "views": "548",
+    "publish_time": "2 days ago"
+  },
+  {
+    "videoId": "tDG52BjkGUY",
+    "thumbnail": "https://i.ytimg.com/vi/tDG52BjkGUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeTuDVXRvkzligKGjPO7U5VeqwEQ",
+    "title": "Tensorflow GradientTape - Simple Example",
+    "length": "2:49",
+    "views": "2,153",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kq2Gjv_pPe8",
+    "thumbnail": "https://i.ytimg.com/vi/kq2Gjv_pPe8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0L_y2txVCITqJ_7gp7_ZBgFZ7Bg",
+    "title": "Creating TFRecords - TensorFlow Object Detection API Tutorial p.4",
+    "length": "16:25",
+    "views": "174,104",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2TiXSB9JYhU",
+    "thumbnail": "https://i.ytimg.com/vi/2TiXSB9JYhU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGqZcJ-wOPQsSI-4y8_8VMTddIcw",
+    "title": "TensorFlow 2.0 New Features: Creating Custom Estimators | packtpub.com",
+    "length": "2:20",
+    "views": "149",
+    "publish_time": "3 years ago"
+  }
+]

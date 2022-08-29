@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "K4U1oZYmfJw",
+    "thumbnail": "https://i.ytimg.com/vi/K4U1oZYmfJw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkGNCSjDLFNvMjKyIhNB8EpOL80g",
+    "title": "Coding tutorial Padding and masking sequence data - Customising your models with TensorFlow 2",
+    "length": "7:28",
+    "views": "227",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "vkJemTuXsfE",
+    "thumbnail": "https://i.ytimg.com/vi/vkJemTuXsfE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYcRUrH-KTGzvjRZTHv3r9qv_ITg",
+    "title": "How to Concatenate Keras Layers",
+    "length": "6:08",
+    "views": "2,524",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oXMEeGrAuk0",
+    "thumbnail": "https://i.ytimg.com/vi/oXMEeGrAuk0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-i1Qn63MTOeafoXzRwJ16kvLk_Q",
+    "title": "Layers - Keras",
+    "length": "10:57",
+    "views": "27,085",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,909",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "i5Et50umrUA",
+    "thumbnail": "https://i.ytimg.com/vi/i5Et50umrUA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZW2xrI50VNFRqw2NYj2CNO5E1NA",
+    "title": "Keras Text Vectorization Layer: Configure, Adapt, Use, Save, and Upload: Part A Background",
+    "length": "20:01",
+    "views": "621",
+    "publish_time": "Streamed 8 months ago"
+  },
+  {
+    "videoId": "JaJ1t3rkbes",
+    "thumbnail": "https://i.ytimg.com/vi/JaJ1t3rkbes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6wfhcW2MFxgMAMbEnymGjlbwPg",
+    "title": "Tensorflow: Convolutional Neural Networks in Tensorflow(without Keras)",
+    "length": "21:55",
+    "views": "673",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "KrS94hG4VU0",
+    "thumbnail": "https://i.ytimg.com/vi/KrS94hG4VU0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ1df1c3l39M4u-QXlBmbU1GFpWw",
+    "title": "Custom Training Loops for Multi Headed Tensorflow 2 Models",
+    "length": "4:19",
+    "views": "2,943",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "0jhdNS59SdU",
+    "thumbnail": "https://i.ytimg.com/vi/0jhdNS59SdU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSQdFcTme8fl9Cw2-V3n4Ytehscg",
+    "title": "Custom Layer in TensorFlow using Keras API | Custom Dense Layer in TensorFlow Keras | Deep Learning",
+    "length": "14:44",
+    "views": "2,187",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,853",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "i2_zJ0ANrw0",
+    "thumbnail": "https://i.ytimg.com/vi/i2_zJ0ANrw0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLTrjXCUCWBmdRBJaXy9gBHEB21Q",
+    "title": "Vision Transformer - Keras Code Examples!!",
+    "length": "21:54",
+    "views": "20,148",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lajKHFfen9g",
+    "thumbnail": "https://i.ytimg.com/vi/lajKHFfen9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8zXtajiWXXxIF_SYG3fRYSn-Qrg",
+    "title": "Building a Regression model using Keras - Pt-11 | Machine Learning using TF",
+    "length": "9:37",
+    "views": "334",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "krTHVKkUEYw",
+    "thumbnail": "https://i.ytimg.com/vi/krTHVKkUEYw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY5QFEiV5rTHVjDVmgI3Z0x_Hzcw",
+    "title": "Face Mask Detection using OpenCV, Keras/TF and Deep Learning | Detect Masks in Real-Time videos",
+    "length": "40:36",
+    "views": "18,888",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "IOI0o3Cxv9Q",
+    "thumbnail": "https://i.ytimg.com/vi/IOI0o3Cxv9Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB2fT2qlqOJaMqp1mY41BrY_pwyw",
+    "title": "Real Time Face Mask Detection with Tensorflow and Python | Custom Object Detection w/ MobileNet SSD",
+    "length": "58:42",
+    "views": "160,802",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2TikTv6PWDw",
+    "thumbnail": "https://i.ytimg.com/vi/2TikTv6PWDw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiW6cBS10rXohDGaUPiaJFOeiqqg",
+    "title": "Mask RCNN with Keras and Tensorflow (pt.1) Setup and Installation",
+    "length": "13:49",
+    "views": "133,804",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "iYQNU2O8k3g",
+    "thumbnail": "https://i.ytimg.com/vi/iYQNU2O8k3g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtq553fQKHSgCYW1awsGrF3IcpNA",
+    "title": "TensorFlow Tutorial #03-B Layers API",
+    "length": "21:27",
+    "views": "12,481",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "3yfRJKA1BiQ",
+    "thumbnail": "https://i.ytimg.com/vi/3yfRJKA1BiQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTt7hGEhNSsKwOuzqfTiGJgmYBVQ",
+    "title": "TensorFlow Tutorial #03-C Keras API",
+    "length": "23:11",
+    "views": "20,836",
+    "publish_time": "4 years ago"
+  }
+]

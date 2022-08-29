@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "GMrTBtzJkCg",
+    "thumbnail": "https://i.ytimg.com/vi/GMrTBtzJkCg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZT5Wn0oFpyyimC1IcSrIj5dltw",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.1 (Coding TensorFlow)",
+    "length": "4:43",
+    "views": "56,371",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,447",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "apmNSYWEEnw",
+    "thumbnail": "https://i.ytimg.com/vi/apmNSYWEEnw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEoNkhtF4iXJ3EIRwYuQ_DKcZcTA",
+    "title": "Optimizers Losses And Metrics - Keras",
+    "length": "6:57",
+    "views": "9,150",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "yxUVu0iN26Q",
+    "thumbnail": "https://i.ytimg.com/vi/yxUVu0iN26Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0CNsTRRQnq0RVIZiGUT7WImHQaQ",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+    "length": "4:52",
+    "views": "26,710",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "S6tLSI8bjGs",
+    "thumbnail": "https://i.ytimg.com/vi/S6tLSI8bjGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAS3HVeixz9xei1zQDm5mO-EUT7w",
+    "title": "TensorFlow Tutorial 15 - Customizing Model.Fit",
+    "length": "13:13",
+    "views": "13,439",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "rHgQrdME-DA",
+    "thumbnail": "https://i.ytimg.com/vi/rHgQrdME-DA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhet-42B-soIq-QmtdEOneF4e--A",
+    "title": "135 - A quick introduction to Metrics in deep learning. (Keras & TensorFlow)",
+    "length": "10:14",
+    "views": "6,606",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2UHCjhyNLKw",
+    "thumbnail": "https://i.ytimg.com/vi/2UHCjhyNLKw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJZvi7i8JTzUNZFUaxk7_3vnU5Ig",
+    "title": "[TensorFlow 2 Deep Learning] Dropout, Early Stopping",
+    "length": "6:01",
+    "views": "3,636",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,214",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "nyTOS7UG_ts",
+    "thumbnail": "https://i.ytimg.com/vi/nyTOS7UG_ts/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiDsSaxRRgvrcDFwigoaT4YEMq6A",
+    "title": "Dropout Layer In Tensorflow2.0 | Variance / Overfitting Reduction | High Dev/Validation Accuracy",
+    "length": "7:46",
+    "views": "680",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4eIlvlP-8wk",
+    "thumbnail": "https://i.ytimg.com/vi/4eIlvlP-8wk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFxYXIKFGLzsMy8zsEI6HfB7yu3g",
+    "title": "Custom Activation and Loss Functions in Keras and TensorFlow with Automatic Differentiation",
+    "length": "18:29",
+    "views": "10,426",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zPL-rrgDpAY",
+    "thumbnail": "https://i.ytimg.com/vi/zPL-rrgDpAY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs--8BQLGlM3SMr5-zVYNaXf6atw",
+    "title": "Overfitting and Underfitting in Neural Networks and How To Reduce It",
+    "length": "13:39",
+    "views": "1,978",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "a2HhjNAgZnU",
+    "thumbnail": "https://i.ytimg.com/vi/a2HhjNAgZnU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkpC3fAA2LKXFYdmJgBI1fDqDkYg",
+    "title": "Custom Loss Function in Keras",
+    "length": "6:35",
+    "views": "975",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,458",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bRyOi0L6Rs8",
+    "thumbnail": "https://i.ytimg.com/vi/bRyOi0L6Rs8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY-lGiOq1GJtsL-T_XjkGksIi7dA",
+    "title": "Drop Out for Keras to Decrease Overfitting (5.4)",
+    "length": "5:26",
+    "views": "7,694",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,468",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "i5iVzP-R7WI",
+    "thumbnail": "https://i.ytimg.com/vi/i5iVzP-R7WI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaBxBwDxTex8I-9i0_6lAc7WR9Xw",
+    "title": "Python tips and tricks - 7:  Continuing keras model training when using custom loss and metrics",
+    "length": "9:03",
+    "views": "2,387",
+    "publish_time": "1 year ago"
+  }
+]

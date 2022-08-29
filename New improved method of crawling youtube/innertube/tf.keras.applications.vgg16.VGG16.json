@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "lHM458ZsfkM",
+    "thumbnail": "https://i.ytimg.com/vi/lHM458ZsfkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj9yP9Va1t_cm4fi0-0HUpYAw9xg",
+    "title": "Transfer Learning Using CNN(VGG 16)| Keras Tutorial|",
+    "length": "12:36",
+    "views": "13,282",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zBOavqh3kWU",
+    "thumbnail": "https://i.ytimg.com/vi/zBOavqh3kWU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRMUaYkRL9zHv4mCAnGSmiE4AyFw",
+    "title": "Tutorial 28- Create CNN Model Using Transfer Learning using Vgg 16, Resnet",
+    "length": "14:59",
+    "views": "121,475",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "7MF41u4OhVs",
+    "thumbnail": "https://i.ytimg.com/vi/7MF41u4OhVs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk1ERizz5AZzRdNMOGRkvqXSPTqw",
+    "title": "TensorFlow 2.0 Tutorial for Beginners 8 - Object Classification Using TensorFlow and VGG16 Model",
+    "length": "12:17",
+    "views": "15,798",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "mjk4vDYOwq0",
+    "thumbnail": "https://i.ytimg.com/vi/mjk4vDYOwq0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnvZ6cn-8jiVRGiXX0SL4nFlxLEQ",
+    "title": "Expalined VGG-16 With Keras on Custom Dataset | Convolutional Neural Network | Deep Learning",
+    "length": "31:50",
+    "views": "15,429",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YEkrjuyrtG0",
+    "thumbnail": "https://i.ytimg.com/vi/YEkrjuyrtG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRCZHz2UkpkdK7tN5fAzLdBOyX3Q",
+    "title": "How to use VGG16 as a pre-trained model in 8 minutes",
+    "length": "8:30",
+    "views": "9,756",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "roC4wVRLBa8",
+    "thumbnail": "https://i.ytimg.com/vi/roC4wVRLBa8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuQgIGLNklCQV_w27ih7wH8YmzHQ",
+    "title": "Deep learning with Keras & Tensorflow VGG16",
+    "length": "1:26:54",
+    "views": "166",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oDHpqu52soI",
+    "thumbnail": "https://i.ytimg.com/vi/oDHpqu52soI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjR41M-a8CmBnn2WD-ZHw-ifD6Ug",
+    "title": "Fine-tune VGG16 Image Classifier with Keras | Part 1: Build",
+    "length": "7:46",
+    "views": "69,762",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "3ou0KYtDlOI",
+    "thumbnail": "https://i.ytimg.com/vi/3ou0KYtDlOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxlFfa41QmrweN0G-QHdNcEvUF9g",
+    "title": "Build a Fine-Tuned Neural Network with TensorFlow's Keras API",
+    "length": "11:49",
+    "views": "16,658",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gaoD-C_jfd0",
+    "thumbnail": "https://i.ytimg.com/vi/gaoD-C_jfd0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCarctICxPlwy81uhWHL-xb5YGpHA",
+    "title": "Implement Pretrained VGG16 Tensorflow Keras Model on Intel Image Dataset on Kaggle from Scratch",
+    "length": "18:30",
+    "views": "17",
+    "publish_time": "3 weeks ago"
+  },
+  {
+    "videoId": "S8SivEc395c",
+    "thumbnail": "https://i.ytimg.com/vi/S8SivEc395c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXnk-aAS9cr9csJA1Afb80mxHdhw",
+    "title": "VGG16 Pretrained Model For Cat Dog Classification Using Feature Extraction And Fine Tunning Method",
+    "length": "14:24",
+    "views": "3,939",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "LsdxvjLWkIY",
+    "thumbnail": "https://i.ytimg.com/vi/LsdxvjLWkIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY6N5Q2kTMChdGZHy5zBu_FrHVow",
+    "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras & Python)",
+    "length": "25:55",
+    "views": "73,702",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tpdH5YAdkiM",
+    "thumbnail": "https://i.ytimg.com/vi/tpdH5YAdkiM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVIbaiNA-Oti_96cpVGsaRucTesg",
+    "title": "Keras VGG16 Transfer learning for classifications",
+    "length": "0:50",
+    "views": "593",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "mgdB7WezqbU",
+    "thumbnail": "https://i.ytimg.com/vi/mgdB7WezqbU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtw7jnbJjA0sU3aaKeng408LF28A",
+    "title": "Pretrained VGG16 UNET in TensorFlow using Keras API | Deep Learning | Semantic Segmentation",
+    "length": "23:04",
+    "views": "3,651",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "41d_yuANkb4",
+    "thumbnail": "https://i.ytimg.com/vi/41d_yuANkb4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJnXxMu1_d1C6Rsn6Vhdzi67pdQ",
+    "title": "[DL] Using VGG 16 pretrained model",
+    "length": "7:00",
+    "views": "393",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "L7qjQu2ry2Q",
+    "thumbnail": "https://i.ytimg.com/vi/L7qjQu2ry2Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOjIjnjf3PlCYFezRamYFsG-En_Q",
+    "title": "Exploring Neurons || Transfer Learning in Keras for custom data - VGG-16",
+    "length": "33:06",
+    "views": "39,096",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "yqgFlPF-F3o",
+    "thumbnail": "https://i.ytimg.com/vi/yqgFlPF-F3o/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqp2r-qDCeQX3N6SKguy6jlLI6aQ",
+    "title": "Deep Learning Series - transfer learning using vgg16",
+    "length": "4:35",
+    "views": "261",
+    "publish_time": "4 weeks ago"
+  },
+  {
+    "videoId": "IuoEiemAuIY",
+    "thumbnail": "https://i.ytimg.com/vi/IuoEiemAuIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmb0UmrOdRlk_WNeEcuqbuqNrUAw",
+    "title": "158b - Transfer learning using CNN (VGG16) as feature extractor and Random Forest classifier",
+    "length": "25:34",
+    "views": "23,257",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "hRKEQhiqIU4",
+    "thumbnail": "https://i.ytimg.com/vi/hRKEQhiqIU4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4rHNCok00cwpXYShcxjCX1hmMpg",
+    "title": "TensorFlow.js - Explore tensor operations through VGG16 preprocessing",
+    "length": "8:46",
+    "views": "4,068",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "oHl8U3NccAE",
+    "thumbnail": "https://i.ytimg.com/vi/oHl8U3NccAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmc5Rzv2t9uiSlbq-2xqNNCUFuow",
+    "title": "Transfer Learning and Fine-Tuning of a Pretrained Neural Network with Keras and TensorFlow",
+    "length": "29:22",
+    "views": "14,515",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  }
+]

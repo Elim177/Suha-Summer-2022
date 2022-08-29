@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "s2K1JfNR7Sc",
+    "thumbnail": "https://i.ytimg.com/vi/s2K1JfNR7Sc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiBPErr6evfHNeVded-XaAdUAADg",
+    "title": "Denoising Data with FFT [Python]",
+    "length": "10:03",
+    "views": "98,258",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "dCeHOf4cJE0",
+    "thumbnail": "https://i.ytimg.com/vi/dCeHOf4cJE0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd55ih0wcpMFbPVZOoF7CXxhtkug",
+    "title": "TI Precision Labs – ADCs: Fast Fourier Transforms (FFTs) and Windowing",
+    "length": "10:47",
+    "views": "47,078",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "O0Y8FChBaFU",
+    "thumbnail": "https://i.ytimg.com/vi/O0Y8FChBaFU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgyhuRyhIIAeeZpg1wUZxMuasKNQ",
+    "title": "How to Compute FFT and Plot Frequency Spectrum in Python using Numpy and Matplotlib",
+    "length": "14:52",
+    "views": "43,585",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "u8t-h31baFE",
+    "thumbnail": "https://i.ytimg.com/vi/u8t-h31baFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Md-GM8vDuTNQLXUDNKXABmChWA",
+    "title": "Applied DSP No. 8: Filtering via Fast Fourier Transform",
+    "length": "7:52",
+    "views": "4,098",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oKkxT5d2zWU",
+    "thumbnail": "https://i.ytimg.com/vi/oKkxT5d2zWU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5UQQCTr2iV10k5f4A8aZMEAOUOQ",
+    "title": "FFT to measure dB and Phase of Signals",
+    "length": "5:50",
+    "views": "371",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "3RJHw5ClesQ",
+    "thumbnail": "https://i.ytimg.com/vi/3RJHw5ClesQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf2MkCNJpKUokaBJrEBiFAlPSSNQ",
+    "title": "FFT:  Filtering Noise from Signals, Waveform and Amplitude Spectrum Matlab Code",
+    "length": "5:42",
+    "views": "15,975",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "LQ2h3BWsZ9U",
+    "thumbnail": "https://i.ytimg.com/vi/LQ2h3BWsZ9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtfWxLuf9gDpUOejQtNWABQBl15g",
+    "title": "Denoise signal with FFT",
+    "length": "0:33",
+    "views": "72",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "G3Wgac0yx0U",
+    "thumbnail": "https://i.ytimg.com/vi/G3Wgac0yx0U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3QPJVGaAlxDUpMEvxE4teGgiujw",
+    "title": "2D Signal approximation using Cycloids and Fourier transform",
+    "length": "2:57",
+    "views": "926",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "0_VZhgYdIvg",
+    "thumbnail": "https://i.ytimg.com/vi/0_VZhgYdIvg/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAPFsWTDzWGMJBuaKr3HD8KSX5OyA",
+    "title": "DFT & FFT in DAA.",
+    "length": "0:16",
+    "views": "52",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "CwrhAe6XMLQ",
+    "thumbnail": "https://i.ytimg.com/vi/CwrhAe6XMLQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuN5C22fl9A17X40HUWHviMoK91g",
+    "title": "FFT with correct Amplitude | Digital Signal Processing | MATLAB",
+    "length": "9:24",
+    "views": "2,044",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ELPlzXNAp34",
+    "thumbnail": "https://i.ytimg.com/vi/ELPlzXNAp34/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw2vAbzE6CU5bCnvcyBWVEDeLesw",
+    "title": "FFT Filtering (Python)",
+    "length": "7:36",
+    "views": "9,457",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cbQCO3fN7PM",
+    "thumbnail": "https://i.ytimg.com/vi/cbQCO3fN7PM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZaZ4jF0-R2TJlz0qPUMZK5-pQJw",
+    "title": "Plotting Frequency Components or spectrum of Sinusoidal Signals (FFT DFT) in MATLAB",
+    "length": "4:13",
+    "views": "1,070",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "DpchUWUsYs0",
+    "thumbnail": "https://i.ytimg.com/vi/DpchUWUsYs0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-MTDwbgETgiOrpnk6WBynm4XwJg",
+    "title": "Introduction | Fast Fourier Transform | Discrete Time Signal Processing",
+    "length": "12:22",
+    "views": "80",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "fV-3h7F0b2I",
+    "thumbnail": "https://i.ytimg.com/vi/fV-3h7F0b2I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTyFu6qgfikZkM_GfITcfSPNMY2w",
+    "title": "Digital Signal processing lecture 11  Topic\" DIT FFT BUTTERFLY 🦋 PROBLEMS\"",
+    "length": "33:12",
+    "views": "535",
+    "publish_time": "1 year ago"
+  }
+]

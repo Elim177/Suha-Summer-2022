@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "jcNEt8nyizM",
+    "thumbnail": "https://i.ytimg.com/vi/jcNEt8nyizM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnid5rQ77Dqb9m9yir4xS2zbWbTw",
+    "title": "06 TensorFlow Crashkurs: Tensoren reshapen: tf.reshape, tf.slice",
+    "length": "4:29",
+    "views": "490",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "x-2U1Qr1w9o",
+    "thumbnail": "https://i.ytimg.com/vi/x-2U1Qr1w9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnWVCH_H_eowWXNUEOAcQFLGgMtA",
+    "title": "tf reshape: Use TensorFlow reshape To Convert A Tensor To A Vector - TensorFlow Tutorial",
+    "length": "4:19",
+    "views": "16",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "3wi0lJPfLUY",
+    "thumbnail": "https://i.ytimg.com/vi/3wi0lJPfLUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoFF_5Ze9zR0AqXxFNBHPnH9l7kQ",
+    "title": "What does numpy reshape(-1 1) mean?",
+    "length": "3:50",
+    "views": "52,484",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yGbFPBneqpY",
+    "thumbnail": "https://i.ytimg.com/vi/yGbFPBneqpY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjiGJ7Nw6uvd2j9IJ3WQDz2gKXzA",
+    "title": "05 TensorFlow Crashkurs: Die Shape eines Tensors: tf.reshape, tf.slice",
+    "length": "4:12",
+    "views": "90",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Rd5wRhVg4lU",
+    "thumbnail": "https://i.ytimg.com/vi/Rd5wRhVg4lU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiX-MXn67MxpGsHn7ZjHsgGkPJtA",
+    "title": "TensorFlowTutorial 2- Indexing and Reshaping",
+    "length": "5:36",
+    "views": "516",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jQAlvJgv_0U",
+    "thumbnail": "https://i.ytimg.com/vi/jQAlvJgv_0U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzcbxhtn022hlOkxIKd-N-TXqoA",
+    "title": "Deep Learning in TensorFlow #1 L5 - NumPy Shape Manipulation",
+    "length": "9:40",
+    "views": "110",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Ng_uGKcWfIo",
+    "thumbnail": "https://i.ytimg.com/vi/Ng_uGKcWfIo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvoAMDo0gZUyN-ZZQYJfCdLoBncg",
+    "title": "TIPS & TRICKS - How to Reshape Input Data for Long Short-Term Memory (LSTM) Networks in Tensorflow",
+    "length": "26:02",
+    "views": "1,761",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "WTTgbH85WFw",
+    "thumbnail": "https://i.ytimg.com/vi/WTTgbH85WFw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJhwANkpSvhx3qY-XBsELugXCzQQ",
+    "title": "Tensorflow: 13 Linear Regression using Tensorflow",
+    "length": "18:15",
+    "views": "73",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,853",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "rI0dGrUc-xA",
+    "thumbnail": "https://i.ytimg.com/vi/rI0dGrUc-xA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaexRvuCL_RET4fl5Ba_dz0vkvZg",
+    "title": "Tensorflow: 10 tf.InteractiveSession()",
+    "length": "3:52",
+    "views": "250",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "92gOeXFq2FA",
+    "thumbnail": "https://i.ytimg.com/vi/92gOeXFq2FA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4pwyUtXyvXqDWn4B4McWSkdUoLg",
+    "title": "[DL] Tensors reshape automatically",
+    "length": "6:01",
+    "views": "131",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lV09_8432VA",
+    "thumbnail": "https://i.ytimg.com/vi/lV09_8432VA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqp_HMS4ikZ7L-W7KRLzqo8aOnnQ",
+    "title": "Optimizing with TensorBoard - Deep Learning w/ Python, TensorFlow & Keras p.5",
+    "length": "27:12",
+    "views": "118,316",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "S6tLSI8bjGs",
+    "thumbnail": "https://i.ytimg.com/vi/S6tLSI8bjGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAS3HVeixz9xei1zQDm5mO-EUT7w",
+    "title": "TensorFlow Tutorial 15 - Customizing Model.Fit",
+    "length": "13:13",
+    "views": "13,439",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IOHxyNFQvD8",
+    "thumbnail": "https://i.ytimg.com/vi/IOHxyNFQvD8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9yfa7g_sXeG7d0dNeR0UsYjUKmQ",
+    "title": "Chapter11  Shaping and Reshaping of TENSORS | TensorFlow TUTORIALS | WITH CODE",
+    "length": "8:46",
+    "views": "138",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "e1B7l3smXFE",
+    "thumbnail": "https://i.ytimg.com/vi/e1B7l3smXFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChdB-OMbMAufG43cIyPesU8cc6nQ",
+    "title": "TensorFlow: Tensor and Image Basics",
+    "length": "37:37",
+    "views": "1,777",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4NLlNx6wVaw",
+    "thumbnail": "https://i.ytimg.com/vi/4NLlNx6wVaw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLi-iRJJZNtVSm1v1Vvitn0CVSVg",
+    "title": "Differences Between Tensorflow 1.x and Tensorflow 2.0 (Episode 3)",
+    "length": "10:03",
+    "views": "11,697",
+    "publish_time": "2 years ago"
+  }
+]

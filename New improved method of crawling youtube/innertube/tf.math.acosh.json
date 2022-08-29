@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,785",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "akTnX9Rv6wk",
+    "thumbnail": "https://i.ytimg.com/vi/akTnX9Rv6wk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAifALW4Yb33Vq95qh75VQLxoJYqA",
+    "title": "CAII HAL Training: Intro to TensorFlow (Asad Khan)",
+    "length": "1:47:48",
+    "views": "185",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "vQf_bqJQccY",
+    "thumbnail": "https://i.ytimg.com/vi/vQf_bqJQccY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaslw9ocn-7mJ3Qk25H11UIDu0Gg",
+    "title": "Math operation in tensorflow 2 x",
+    "length": "4:13",
+    "views": "22",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iJF6V4uqoWk",
+    "thumbnail": "https://i.ytimg.com/vi/iJF6V4uqoWk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5wWpR7w9F8TXPHKg8rQHYrfd6_Q",
+    "title": "Tensorflow Math Operations using Constants | Tensorflow Tutorial Series",
+    "length": "24:57",
+    "views": "740",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "pBhQskg8OXU",
+    "thumbnail": "https://i.ytimg.com/vi/pBhQskg8OXU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6ufoxEBc8518lzQdjX6UUfjlCvQ",
+    "title": "Crash Course on TensorFlow Tensors and their Applications",
+    "length": "13:50",
+    "views": "36",
+    "publish_time": "3 weeks ago"
+  },
+  {
+    "videoId": "xL1x6t9LI28",
+    "thumbnail": "https://i.ytimg.com/vi/xL1x6t9LI28/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZf7TKIUtg7psRARbBgLpZCQnE6g",
+    "title": "Math module reduce_prod | reduce_std | reduce_sum | reduce_vaiance",
+    "length": "21:06",
+    "views": "297",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4nYwL8ZZDK8",
+    "thumbnail": "https://i.ytimg.com/vi/4nYwL8ZZDK8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqLR2D0fTlKlNdl-qAc2lVAINbbw",
+    "title": "Working with Tensors | Φ-Flow Tutorial 1",
+    "length": "8:23",
+    "views": "654",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "J3msevUnew4",
+    "thumbnail": "https://i.ytimg.com/vi/J3msevUnew4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxyNe8ov0nD28a0m3VG4BQKNFgGQ",
+    "title": "Let's Learn TensorFlow.js! (with Bekah Hawrot Weigel) — Learn With Jason",
+    "length": "1:28:46",
+    "views": "2,329",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "hzHy57W4Nho",
+    "thumbnail": "https://i.ytimg.com/vi/hzHy57W4Nho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKCetCZeciXxjVw8CS5v-n4tWsUw",
+    "title": "Math module abs | accumulate_n | acos | acosh",
+    "length": "14:34",
+    "views": "231",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3uOKDaK3aRM",
+    "thumbnail": "https://i.ytimg.com/vi/3uOKDaK3aRM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbaBcLCZBZhW_MCP7YCU0BFq0I6g",
+    "title": "Three Nails in the Coffin of TensorFlow/Keras?",
+    "length": "13:50",
+    "views": "6,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "whnLF8K6alU",
+    "thumbnail": "https://i.ytimg.com/vi/whnLF8K6alU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlLQzFYZY1txj79thHuoPBa2Ar7w",
+    "title": "TensorFlow Tutorial 7:  Math Module in TensorFlow | TensorFlow",
+    "length": "17:26",
+    "views": "222",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5b2aP9xSAjw",
+    "thumbnail": "https://i.ytimg.com/vi/5b2aP9xSAjw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzsjzvfLk54Kt1c4xWBxVXzMEZLg",
+    "title": "Everything About TensorFlow Math Module | tf.math | TensorFlow 2.0 Python Tutorial | DL | ML",
+    "length": "8:10",
+    "views": "671",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "OXQ1nDl3WyU",
+    "thumbnail": "https://i.ytimg.com/vi/OXQ1nDl3WyU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGzSKTICa2S2dBkOUwVsYrkyOiFA",
+    "title": "14 Division of Tensors using tf divide math function   TensorFlow 2 0 Python Tutorial   DL   ML720P",
+    "length": "13:36",
+    "views": "No",
+    "publish_time": "6 months ago"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "WQu_iikwr-g",
+    "thumbnail": "https://i.ytimg.com/vi/WQu_iikwr-g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdJiTezu8Ni122aBr1LB4w62x0g",
+    "title": "Whats the purpose of tf.app.flags in TensorFlow - PYTHON",
+    "length": "1:12",
+    "views": "12",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,197",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iu_OSAg5slY",
+    "thumbnail": "https://i.ytimg.com/vi/iu_OSAg5slY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXhrqUTwlIM7p4iTH-tD3IM8bSvQ",
+    "title": "Building models with tf.text (TF World '19)",
+    "length": "39:33",
+    "views": "5,189",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,826",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "j-3vuBynnOE",
+    "thumbnail": "https://i.ytimg.com/vi/j-3vuBynnOE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBGo8k6cETlTVR85WR0ruLydPqWA",
+    "title": "Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2",
+    "length": "18:51",
+    "views": "737,435",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "23R2eI95S30",
+    "thumbnail": "https://i.ytimg.com/vi/23R2eI95S30/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaIk9DoZjV6-N6EzOCVqHcNPZzig",
+    "title": "Building Image Recognition API with Python TensorFlow and  FastAPI",
+    "length": "9:10",
+    "views": "14,513",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "Y_XM3Bu-4yc",
+    "thumbnail": "https://i.ytimg.com/vi/Y_XM3Bu-4yc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX1FE2R-trMRjVeNk3kkBmGAPCXw",
+    "title": "TensorFlow.js Quick Start",
+    "length": "11:17",
+    "views": "233,748",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "lZ51aXq-VIg",
+    "thumbnail": "https://i.ytimg.com/vi/lZ51aXq-VIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlijiLTDBN33RMrRoCHIkpn2M1LA",
+    "title": "Beginner Python Tutorial 68 - Flag Variable Example",
+    "length": "3:01",
+    "views": "16,463",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "V-XLgXJRVSE",
+    "thumbnail": "https://i.ytimg.com/vi/V-XLgXJRVSE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWq-x-aMKZIGmIs49mQefW9BpDrg",
+    "title": "React App Build up / Image Prediction - Techable Machine / Tensorflow JS",
+    "length": "48:35",
+    "views": "508",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "dMq4nAMuqO8",
+    "thumbnail": "https://i.ytimg.com/vi/dMq4nAMuqO8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmwaKv6JZTX2xJ_9bWhN_wzVVu5Q",
+    "title": "How to run any Tensorflow model on a browser with Tensorflow.js Easy!",
+    "length": "33:44",
+    "views": "1,303",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "JHLhLa5LRZ4",
+    "thumbnail": "https://i.ytimg.com/vi/JHLhLa5LRZ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABpMfhz5-fhlp6KO8dvWwEvG6sbA",
+    "title": "TFX: An end-to-end ML platform for everyone - Konstantinos Katsiapis and Anusha Ramesh",
+    "length": "12:34",
+    "views": "610",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "SizWDCJWEzU",
+    "thumbnail": "https://i.ytimg.com/vi/SizWDCJWEzU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBffhzk08r4VEtFIz2QDKcEJZZ77Q",
+    "title": "Experiment with Abseil Flags - Aaron Schumacher",
+    "length": "34:27",
+    "views": "3,875",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "pjtnkCGElcE",
+    "thumbnail": "https://i.ytimg.com/vi/pjtnkCGElcE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlfjAgFyTGvSLV9vlH8lrekYbLMw",
+    "title": "Multi-Class Language Classification With BERT in TensorFlow",
+    "length": "43:24",
+    "views": "10,393",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ENOycxDU9RY",
+    "thumbnail": "https://i.ytimg.com/vi/ENOycxDU9RY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFjM9RrZx6OnkeK_OSdtJ_IdflFA",
+    "title": "TensorFlow Tutorial 6- GradientTape in TensorFlow",
+    "length": "18:39",
+    "views": "5,715",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  }
+]

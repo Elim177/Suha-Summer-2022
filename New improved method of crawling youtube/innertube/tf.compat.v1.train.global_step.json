@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WTTgbH85WFw",
+    "thumbnail": "https://i.ytimg.com/vi/WTTgbH85WFw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJhwANkpSvhx3qY-XBsELugXCzQQ",
+    "title": "Tensorflow: 13 Linear Regression using Tensorflow",
+    "length": "18:15",
+    "views": "73",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,439",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Gz2SGt94hRY",
+    "thumbnail": "https://i.ytimg.com/vi/Gz2SGt94hRY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdgEILGrlA0JsW2TkdHN8RgLNtCQ",
+    "title": "Tensorflow - Improving Model Performance - Estimator Train & Eval Spec - DIY#12",
+    "length": "17:20",
+    "views": "263",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "mPvcBq24Bt0",
+    "thumbnail": "https://i.ytimg.com/vi/mPvcBq24Bt0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ-bhGHr3e38SNnW42KJXE55AErw",
+    "title": "How to Implement GPT in Tensorflow | GPT-3, Transformer Implementation in TF",
+    "length": "33:58",
+    "views": "1,300",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "BqgTU7_cBnk",
+    "thumbnail": "https://i.ytimg.com/vi/BqgTU7_cBnk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbsPKdSYtAC0X-11i5Ii6QvexRA",
+    "title": "Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4",
+    "length": "16:09",
+    "views": "234,215",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "A4K6D_gx2Iw",
+    "thumbnail": "https://i.ytimg.com/vi/A4K6D_gx2Iw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAty79maS4YZaGcTs6-bJ-UL1mEhA",
+    "title": "How to use your trained model - Deep Learning basics with Python, TensorFlow and Keras p.6",
+    "length": "11:55",
+    "views": "195,554",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "lV09_8432VA",
+    "thumbnail": "https://i.ytimg.com/vi/lV09_8432VA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqp_HMS4ikZ7L-W7KRLzqo8aOnnQ",
+    "title": "Optimizing with TensorBoard - Deep Learning w/ Python, TensorFlow & Keras p.5",
+    "length": "27:12",
+    "views": "118,316",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "g2t7M2HTZ9U",
+    "thumbnail": "https://i.ytimg.com/vi/g2t7M2HTZ9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRa2Vs2uJh-cah3BLIVqyUa2ZAKA",
+    "title": "TensorFlow Tutorial 04 - Linear Regression - Full Project Walkthrough",
+    "length": "30:16",
+    "views": "13,324",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "QQKYrmF4QUY",
+    "thumbnail": "https://i.ytimg.com/vi/QQKYrmF4QUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA996sns5lY-c62rT8_TQhpRqocTg",
+    "title": "Train Keras Models Using the Genetic Algorithm",
+    "length": "13:24",
+    "views": "4,151",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "BW7Kevfen_E",
+    "thumbnail": "https://i.ytimg.com/vi/BW7Kevfen_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzPTG2YA3-HzuO-oxy_H6AiMrbjA",
+    "title": "1/2 Train Custom TensorFlow Algorithms in SageMaker · Talk · Part 1",
+    "length": "11:36",
+    "views": "433",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tPYj3fFJGjk",
+    "thumbnail": "https://i.ytimg.com/vi/tPYj3fFJGjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAK8aK9-f9aE0_QqayH3ag4pD3-4g",
+    "title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+    "length": "6:52:08",
+    "views": "2,089,514",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "JmSNUeBG-PQ",
+    "thumbnail": "https://i.ytimg.com/vi/JmSNUeBG-PQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcHbI4o9ruJb221Prey4tMTtIVog",
+    "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
+    "length": "3:17",
+    "views": "67,829",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "oXj6ew5ymhM",
+    "thumbnail": "https://i.ytimg.com/vi/oXj6ew5ymhM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmHleFP6HEn9QejRYg0AJDqJpMhA",
+    "title": "Using callbacks in training, getting started in TF 2.0, & more! #AskTensorFlow",
+    "length": "13:43",
+    "views": "9,104",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Xiab2JhwzYY",
+    "thumbnail": "https://i.ytimg.com/vi/Xiab2JhwzYY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXpoNu1ttY7MfB0AQ_ln_55BaSKQ",
+    "title": "Tensorflow Basics Tutorial Series - (Pt.1) Linear Regression",
+    "length": "19:53",
+    "views": "43,726",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "ti_PCvND4gM",
+    "thumbnail": "https://i.ytimg.com/vi/ti_PCvND4gM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk7nzIcBQi3b7ashkn2EDat4Nh5w",
+    "title": "Train Your First GAN in Tensorflow| Complete Tutorial in Python|",
+    "length": "20:37",
+    "views": "2,080",
+    "publish_time": "4 months ago"
+  }
+]

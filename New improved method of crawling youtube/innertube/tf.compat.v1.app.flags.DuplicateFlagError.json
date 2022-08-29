@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "XoMiveY_1Z4",
+    "thumbnail": "https://i.ytimg.com/vi/XoMiveY_1Z4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWXxn7Ysb_s-PUWkk153hMlkFmFQ",
+    "title": "TFOD 2.0 Custom Object Detection Step By Step Tutorial",
+    "length": "47:08",
+    "views": "94,408",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "dMq4nAMuqO8",
+    "thumbnail": "https://i.ytimg.com/vi/dMq4nAMuqO8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmwaKv6JZTX2xJ_9bWhN_wzVVu5Q",
+    "title": "How to run any Tensorflow model on a browser with Tensorflow.js Easy!",
+    "length": "33:44",
+    "views": "1,303",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "cWrb3qIFlCQ",
+    "thumbnail": "https://i.ytimg.com/vi/cWrb3qIFlCQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk_f8OpeZCPKhCFA8uR_Pi9IEF1w",
+    "title": "TFLite model conversion in Under 3 minutes",
+    "length": "2:25",
+    "views": "24,467",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,419",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "1s9k2GxH2g4",
+    "thumbnail": "https://i.ytimg.com/vi/1s9k2GxH2g4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1UJ2dYpQNVob3DZAz1olLhHAOag",
+    "title": "Convert TensorFlow/Keras models to TensorFlow.js (TFJS)",
+    "length": "12:09",
+    "views": "8,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c8KgKTgyFUE",
+    "thumbnail": "https://i.ytimg.com/vi/c8KgKTgyFUE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD7wR_YyhurfMKhXLn2X8hUKdX5w",
+    "title": "Feature Flags Explained in 6 Minutes. What Are Feature Flags? (Feature Toggles)",
+    "length": "7:19",
+    "views": "1,687",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kyQzrEWOqsU",
+    "thumbnail": "https://i.ytimg.com/vi/kyQzrEWOqsU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_Zekcpv1x_38j6-EhaN-FpPsjVw",
+    "title": "How to use your Custom Tensorflow Model in App using tflite and get labels.txt file🤔 #tensorflow#ml",
+    "length": "8:10",
+    "views": "85",
+    "publish_time": "3 weeks ago"
+  },
+  {
+    "videoId": "pCJEMfujekA",
+    "thumbnail": "https://i.ytimg.com/vi/pCJEMfujekA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcCZOytjj72lFat3Hc5mzuItIyDA",
+    "title": "Print Statements in TensorFlow",
+    "length": "4:22",
+    "views": "18,456",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "7lXYGDVHUNw",
+    "thumbnail": "https://i.ytimg.com/vi/7lXYGDVHUNw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9DH3rukRJJt40x0WKpnw4nXno3Q",
+    "title": "Real Time AI Face Landmark Detection in 20 Minutes with Tensorflow.JS and React",
+    "length": "27:42",
+    "views": "74,087",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "LBAvYZTb_iU",
+    "thumbnail": "https://i.ytimg.com/vi/LBAvYZTb_iU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCBlANSlKCNjMv_inS7AAGxSJgrw",
+    "title": "Going further with text classification",
+    "length": "3:08",
+    "views": "1,751",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cpH7wPXox6Y",
+    "thumbnail": "https://i.ytimg.com/vi/cpH7wPXox6Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNPC8TH7_D6KWcWUdQ9xvWsZpnuw",
+    "title": "Hands-On Transfer Learning with TensorFlow 2.0: TensorFlow Lite Model Maker | packtpub.com",
+    "length": "8:45",
+    "views": "1,495",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "5oBH_eLFXrM",
+    "thumbnail": "https://i.ytimg.com/vi/5oBH_eLFXrM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9P3iCfKWsh96zI6v3d3_RXRKiSQ",
+    "title": "TFLite Object Detection Android App Tutorial | TensorFlow Object Detection",
+    "length": "16:15",
+    "views": "25,345",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5q8BzYN4rqA",
+    "thumbnail": "https://i.ytimg.com/vi/5q8BzYN4rqA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzJBTvd_2AVmY6pPCVRzDcMJa5g",
+    "title": "Easily deploy TF Lite models to the web | Demo",
+    "length": "2:25",
+    "views": "6,314",
+    "publish_time": "1 year ago"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "rI0dGrUc-xA",
+    "thumbnail": "https://i.ytimg.com/vi/rI0dGrUc-xA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaexRvuCL_RET4fl5Ba_dz0vkvZg",
+    "title": "Tensorflow: 10 tf.InteractiveSession()",
+    "length": "3:52",
+    "views": "250",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "qUvl52DHv_g",
+    "thumbnail": "https://i.ytimg.com/vi/qUvl52DHv_g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRPFYQLaKGDbbqHLDTr8-702n4hA",
+    "title": "tf reduce sum: Sum Along Axis - TensorFlow Tutorial",
+    "length": "3:34",
+    "views": "9",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "ukm3YYOBcZM",
+    "thumbnail": "https://i.ytimg.com/vi/ukm3YYOBcZM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-90qUN3USwQK_VXxVPjQwLUSFHQ",
+    "title": "Get Maximum Value of Tensors using tf.maximum() math function | TensorFlow 2.0 Python Tutorial | DL",
+    "length": "10:59",
+    "views": "350",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "-8Gs-8rf_hw",
+    "thumbnail": "https://i.ytimg.com/vi/-8Gs-8rf_hw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQKTHRkcczfmmcKO9qP231pvPkXQ",
+    "title": "Get Minimum of Tensors using tf.maximum() math function | TensorFlow 2.0 Python Tutorial | DL | ML",
+    "length": "9:03",
+    "views": "469",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "x-2U1Qr1w9o",
+    "thumbnail": "https://i.ytimg.com/vi/x-2U1Qr1w9o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnWVCH_H_eowWXNUEOAcQFLGgMtA",
+    "title": "tf reshape: Use TensorFlow reshape To Convert A Tensor To A Vector - TensorFlow Tutorial",
+    "length": "4:19",
+    "views": "16",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "xL1x6t9LI28",
+    "thumbnail": "https://i.ytimg.com/vi/xL1x6t9LI28/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZf7TKIUtg7psRARbBgLpZCQnE6g",
+    "title": "Math module reduce_prod | reduce_std | reduce_sum | reduce_vaiance",
+    "length": "21:06",
+    "views": "297",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "5b2aP9xSAjw",
+    "thumbnail": "https://i.ytimg.com/vi/5b2aP9xSAjw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzsjzvfLk54Kt1c4xWBxVXzMEZLg",
+    "title": "Everything About TensorFlow Math Module | tf.math | TensorFlow 2.0 Python Tutorial | DL | ML",
+    "length": "8:10",
+    "views": "671",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "68uGfN1alxk",
+    "thumbnail": "https://i.ytimg.com/vi/68uGfN1alxk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIXdTQsvEo8UImd6IcV1giwaKcEw",
+    "title": "11 Everything About TensorFlow Math Module   tf math   TensorFlow 2 0 Python Tutorial   DL   ML720P",
+    "length": "8:10",
+    "views": "2",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,785",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "yvIPD2sNJ0s",
+    "thumbnail": "https://i.ytimg.com/vi/yvIPD2sNJ0s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQWLAr1mAvX2sPtutXHBlY0xrHQ",
+    "title": "07 TensorFlow Crashkurs: Tensoren stapeln: tf.stack",
+    "length": "2:33",
+    "views": "102",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,507",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "2JtCNIyGNPU",
+    "thumbnail": "https://i.ytimg.com/vi/2JtCNIyGNPU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8khFToRA7o_ozeOj6gltO65olxA",
+    "title": "Silent TensorFlow tutorial | tf.cast (Part 1)",
+    "length": "8:35",
+    "views": "256",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "dPFqnZ5xfF8",
+    "thumbnail": "https://i.ytimg.com/vi/dPFqnZ5xfF8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHbXaK6Qslo1buCq9e3c5ky_Vbdw",
+    "title": "Deep Learning - 03 08 tf function",
+    "length": "11:04",
+    "views": "169",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lzQkxr1ajTI",
+    "thumbnail": "https://i.ytimg.com/vi/lzQkxr1ajTI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9luYLfwB-7ibn7CaWjykzguadTA",
+    "title": "Get Square Root of Tensors using tf.sqrt() math function | TensorFlow 2.0 Python Tutorial | DL | ML",
+    "length": "8:22",
+    "views": "401",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "IOHxyNFQvD8",
+    "thumbnail": "https://i.ytimg.com/vi/IOHxyNFQvD8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9yfa7g_sXeG7d0dNeR0UsYjUKmQ",
+    "title": "Chapter11  Shaping and Reshaping of TENSORS | TensorFlow TUTORIALS | WITH CODE",
+    "length": "8:46",
+    "views": "138",
+    "publish_time": "3 years ago"
+  }
+]

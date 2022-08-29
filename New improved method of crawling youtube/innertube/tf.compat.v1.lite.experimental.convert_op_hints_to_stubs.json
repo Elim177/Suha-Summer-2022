@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "4xuxOKveu9U",
+    "thumbnail": "https://i.ytimg.com/vi/4xuxOKveu9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpP6gY3AWp164MJGa4kCqRvbi0aA",
+    "title": "Inside TensorFlow: New TF Lite Converter",
+    "length": "37:32",
+    "views": "7,731",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "QSbAUxWfxQw",
+    "thumbnail": "https://i.ytimg.com/vi/QSbAUxWfxQw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjQs-nt04Wup9sKEkFkx8Je1uUnA",
+    "title": "TensorFlow Lite, Experimental GPU Delegate (Coding TensorFlow)",
+    "length": "3:46",
+    "views": "30,803",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "rkpaEPQtOwk",
+    "thumbnail": "https://i.ytimg.com/vi/rkpaEPQtOwk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2PKsC1X7BaZzJRrHWTorQKMTgbQ",
+    "title": "TensorFlow Mobile vs. TF Lite and More! #AskTensorFlow",
+    "length": "8:04",
+    "views": "12,015",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "bKLL0tAj3GE",
+    "thumbnail": "https://i.ytimg.com/vi/bKLL0tAj3GE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTaFrcbH3auz-CrBhs6xm_6jb-0g",
+    "title": "Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)",
+    "length": "14:10",
+    "views": "19,081",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,853",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5J72iMSQmy8",
+    "thumbnail": "https://i.ytimg.com/vi/5J72iMSQmy8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkCrF-unx4PrEOGYFXH_kAuUALOg",
+    "title": "Introducing TensorFlow Lite (Coding TensorFlow)",
+    "length": "6:04",
+    "views": "65,935",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "emdcI0DR1yM",
+    "thumbnail": "https://i.ytimg.com/vi/emdcI0DR1yM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB97sglic3h-3ApJWLqnN_oIYQTGA",
+    "title": "TensorFlow 2.x - TensorFlow Lite Converter",
+    "length": "5:48",
+    "views": "2,209",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HXzz87WVm6c",
+    "thumbnail": "https://i.ytimg.com/vi/HXzz87WVm6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHko67TvfksHVKlAL6wsigUslIA",
+    "title": "237 - What is Tensorflow Lite and how to convert keras model to tflite?",
+    "length": "30:41",
+    "views": "4,717",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "OJnaBhCixng",
+    "thumbnail": "https://i.ytimg.com/vi/OJnaBhCixng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWPewuklIpu6NjlmSNSA2ltnYq0g",
+    "title": "TensorFlow Lite for Edge Devices - Tutorial",
+    "length": "59:21",
+    "views": "38,360",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,424",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ICY4Lvhyobk",
+    "thumbnail": "https://i.ytimg.com/vi/ICY4Lvhyobk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjr2Ox1SDhyL6-cxvS3_-mndJ8Ug",
+    "title": "Convert your model to tensorflow lite",
+    "length": "10:46",
+    "views": "23,962",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,909",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5q8BzYN4rqA",
+    "thumbnail": "https://i.ytimg.com/vi/5q8BzYN4rqA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzJBTvd_2AVmY6pPCVRzDcMJa5g",
+    "title": "Easily deploy TF Lite models to the web | Demo",
+    "length": "2:25",
+    "views": "6,314",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "uaRO0AV6Tto",
+    "thumbnail": "https://i.ytimg.com/vi/uaRO0AV6Tto/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYgCmMUSqHr_zT59BAjsf20K3XWQ",
+    "title": "Inside TensorFlow: Resources and Variants",
+    "length": "46:55",
+    "views": "5,433",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "8TBMiz325M8",
+    "thumbnail": "https://i.ytimg.com/vi/8TBMiz325M8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbzk2yBgaCQX7RBKNgyMW7CLcWLA",
+    "title": "How to convert PyTorch model to Tensorflow",
+    "length": "10:30",
+    "views": "7,971",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "1s9k2GxH2g4",
+    "thumbnail": "https://i.ytimg.com/vi/1s9k2GxH2g4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1UJ2dYpQNVob3DZAz1olLhHAOag",
+    "title": "Convert TensorFlow/Keras models to TensorFlow.js (TFJS)",
+    "length": "12:09",
+    "views": "8,251",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "-lw4n36tpD4",
+    "thumbnail": "https://i.ytimg.com/vi/-lw4n36tpD4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1jq5hsmbO1ebDOy_dzerqrWWZGg",
+    "title": "Introduction to TensorFlow Hub (TFHub)",
+    "length": "10:16",
+    "views": "2,551",
+    "publish_time": "1 year ago"
+  }
+]

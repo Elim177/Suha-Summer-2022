@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "-fPHnFSQ2qk",
+    "thumbnail": "https://i.ytimg.com/vi/-fPHnFSQ2qk/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBJXUy4Bzx3tiEcPnIozN3FdtP7RA",
+    "title": "3 Ways To Get Started with TensorRT using TensorFlow #nvidia #tensorflow #tensorrt",
+    "length": "0:16",
+    "views": "192",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "67ev-6Xn30U",
+    "thumbnail": "https://i.ytimg.com/vi/67ev-6Xn30U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5QEZCUBFKVVyN5ZVxaP-G9uAsFw",
+    "title": "NVAITC Webinar: Deploying Models with TensorRT",
+    "length": "15:08",
+    "views": "11,966",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "G_KhUFCUSsY",
+    "thumbnail": "https://i.ytimg.com/vi/G_KhUFCUSsY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZCE3KTMAHR0iYmqwa99smAICakg",
+    "title": "NVidia TensorRT: high-performance deep learning inference accelerator (TensorFlow Meets)",
+    "length": "8:07",
+    "views": "18,163",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "AIGOSz2tFP8",
+    "thumbnail": "https://i.ytimg.com/vi/AIGOSz2tFP8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyZ8fm1GyYnKSyidO8AzHMbbe2hA",
+    "title": "01 Optimizing Tensorflow Model Using TensorRT with 3.7x Faster Inference Time",
+    "length": "18:42",
+    "views": "21,871",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "w7871kMiAs8",
+    "thumbnail": "https://i.ytimg.com/vi/w7871kMiAs8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaMDfEsbXQ0xsVn3Nm0Mj845oQrg",
+    "title": "Getting Started with TensorFlow-TensorRT",
+    "length": "1:36",
+    "views": "4,441",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "Gd-9cUb7x5Q",
+    "thumbnail": "https://i.ytimg.com/vi/Gd-9cUb7x5Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjIhKAzZMN64RNjpUZvdhsVLSz_Q",
+    "title": "Increase YOLOv4 object detection speed on GPU with TensorRT",
+    "length": "25:52",
+    "views": "15,954",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ky4mFPewl8Y",
+    "thumbnail": "https://i.ytimg.com/vi/ky4mFPewl8Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsYtS21TbB6n9zbFA1vZO5XMsrZQ",
+    "title": "03 Optimizing Keras Model to TensorRT",
+    "length": "7:50",
+    "views": "5,562",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "7kJ-jph9gCw",
+    "thumbnail": "https://i.ytimg.com/vi/7kJ-jph9gCw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD49UylP2lUgvEMRRkHXh01mPkV-A",
+    "title": "AI at the Edge  TensorFlow to TensorRT on Jetson",
+    "length": "54:03",
+    "views": "17,929",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "bE1N7sq3xIA",
+    "thumbnail": "https://i.ytimg.com/vi/bE1N7sq3xIA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw7Y9tGlgm0vUMFljkS20Bi1JItQ",
+    "title": "[Educational Video] PyTorch, TensorFlow, Keras, ONNX, TensorRT, OpenVINO, AI Model File Conversion",
+    "length": "24:52",
+    "views": "7,316",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFADsRDJhDM",
+    "thumbnail": "https://i.ytimg.com/vi/iFADsRDJhDM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQA1-Jbe-dcnFAxHOpDShcyiZYZA",
+    "title": "Inference with Torch-TensorRT Deep Learning Prediction for Beginners - CPU vs CUDA vs TensorRT",
+    "length": "36:25",
+    "views": "9,231",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "mgY46AEXnG0",
+    "thumbnail": "https://i.ytimg.com/vi/mgY46AEXnG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALcaRRTJ9fw2Tuo_oDQZPQs27vYA",
+    "title": "Faster NumPy using Tensorflow's tf.experimental.numpy module",
+    "length": "8:52",
+    "views": "900",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6rZNLaS775w",
+    "thumbnail": "https://i.ytimg.com/vi/6rZNLaS775w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ-GUvItyQx9AGFGEKnZaH37P0Uw",
+    "title": "TensorRT Overview",
+    "length": "14:54",
+    "views": "35,300",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "kJSUq1PLmWg",
+    "thumbnail": "https://i.ytimg.com/vi/kJSUq1PLmWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtJM6xefFpDEDKoXMzpzWojYeOFQ",
+    "title": "TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout",
+    "length": "5:24",
+    "views": "18,082",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4iq-d2AmfRU",
+    "thumbnail": "https://i.ytimg.com/vi/4iq-d2AmfRU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEd5-ozn51KkYr6LINA1XriQ6UUw",
+    "title": "Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)",
+    "length": "42:35",
+    "views": "13,400",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "FFfmD3dJ5uM",
+    "thumbnail": "https://i.ytimg.com/vi/FFfmD3dJ5uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOe1tWULAc4JUpHU7OeeC4SsV4Ow",
+    "title": "NVIDIA TensorRT 8 Released Today: High Performance Deep Neural Network Inference",
+    "length": "8:53",
+    "views": "4,371",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HsJ_PPOfysE",
+    "thumbnail": "https://i.ytimg.com/vi/HsJ_PPOfysE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrXenkeH9_TsWZkHimG-R2MyMFXw",
+    "title": "A gentle introduction to TensorFlow Data (tf.data) | PyImageSearch | Deep Learning Part-07",
+    "length": "28:50",
+    "views": "154",
+    "publish_time": "2 weeks ago"
+  },
+  {
+    "videoId": "O_aCcPtBfYM",
+    "thumbnail": "https://i.ytimg.com/vi/O_aCcPtBfYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7Wn8Eb-WbCRZcLJjb1Hcvjj78Xg",
+    "title": "High Performance Inferencing with TensorRT",
+    "length": "21:38",
+    "views": "6,200",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tCmC7nyfJp8",
+    "thumbnail": "https://i.ytimg.com/vi/tCmC7nyfJp8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP9BUVTab9OmtwW7vg12AFmBfHMw",
+    "title": "YOLOv4 Object Detection with TensorFlow, TFLite and TensorRT | Windows, Linux | Image, Video, Webcam",
+    "length": "16:54",
+    "views": "8,215",
+    "publish_time": "1 year ago"
+  }
+]

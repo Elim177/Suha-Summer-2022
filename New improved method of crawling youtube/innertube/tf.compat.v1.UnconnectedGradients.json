@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "us-5I52Lac8",
+    "thumbnail": "https://i.ytimg.com/vi/us-5I52Lac8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ERppOcIds8lR0cUSMesCB3d-DQ",
+    "title": "8/9 Gradient Descent in Tensorflow 2 - tf.GradientTape",
+    "length": "6:12",
+    "views": "1,979",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ENOycxDU9RY",
+    "thumbnail": "https://i.ytimg.com/vi/ENOycxDU9RY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFjM9RrZx6OnkeK_OSdtJ_IdflFA",
+    "title": "TensorFlow Tutorial 6- GradientTape in TensorFlow",
+    "length": "18:39",
+    "views": "5,716",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tDG52BjkGUY",
+    "thumbnail": "https://i.ytimg.com/vi/tDG52BjkGUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeTuDVXRvkzligKGjPO7U5VeqwEQ",
+    "title": "Tensorflow GradientTape - Simple Example",
+    "length": "2:49",
+    "views": "2,153",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "l-MGydWW-UE",
+    "thumbnail": "https://i.ytimg.com/vi/l-MGydWW-UE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIzC2Tt0EHuvvQ13MTgvXhqevLwg",
+    "title": "TensorFlow Course - Automatic Differentiation and Gradients",
+    "length": "5:38",
+    "views": "1,054",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "k0Bm7t6VJ5U",
+    "thumbnail": "https://i.ytimg.com/vi/k0Bm7t6VJ5U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFcsu0-ErzDB4qbdgj_RwICq9O9Q",
+    "title": "Imbalanced X_ray Classification with Transfer Learning and Gradients CAM in Tensorflow",
+    "length": "18:30",
+    "views": "1,852",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_u7AVsxANes",
+    "thumbnail": "https://i.ytimg.com/vi/_u7AVsxANes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKrWRqmcAqIPrqw4BkDBBCEcEnQ",
+    "title": "TensorFlow Tutorial 16 - Custom Training Loops",
+    "length": "8:10",
+    "views": "9,854",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "KrQp1TxTCUY",
+    "thumbnail": "https://i.ytimg.com/vi/KrQp1TxTCUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPL564X5-VvwRukU2aNmgjAR8Z3Q",
+    "title": "Gradient Clipping for Neural Networks | Deep Learning Fundamentals",
+    "length": "3:35",
+    "views": "1,105",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "Yl5lDaYvNqI",
+    "thumbnail": "https://i.ytimg.com/vi/Yl5lDaYvNqI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl1cJOvSPKpJPM1w7G4kQqeWFsew",
+    "title": "Tensorflow 8 placeholder (neural network tutorials)",
+    "length": "4:56",
+    "views": "12,315",
+    "publish_time": "6 years ago"
+  },
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mA9rxgOQyE4",
+    "thumbnail": "https://i.ytimg.com/vi/mA9rxgOQyE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1Dr47FmCo149xE_VP2NIASn42PQ",
+    "title": "Policy Gradients are Easy in Tensorflow 2 | Complete Deep Reinforcement Learning Tutorial |",
+    "length": "29:33",
+    "views": "6,684",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "OXd2a4iYZTU",
+    "thumbnail": "https://i.ytimg.com/vi/OXd2a4iYZTU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo01xOMbtZ2FjWaPTvZgoFYq__SQ",
+    "title": "Computing gradients using TensorFlow | Training a Linear Regression model from scratch.",
+    "length": "34:58",
+    "views": "443",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kGAo32JgY48",
+    "thumbnail": "https://i.ytimg.com/vi/kGAo32JgY48/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnvXnefsJ_MaDcAOOvB63UgjLMVQ",
+    "title": "Vanishing Gradients and Activation Functions - Intro to Deep Learning using TensorFlow #8",
+    "length": "8:41",
+    "views": "8,271",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "iHlT8RlFcnU",
+    "thumbnail": "https://i.ytimg.com/vi/iHlT8RlFcnU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmfHweHdj3tu4l8VFzLZcATBS8OQ",
+    "title": "Introduction to Tensorflow 2.0 (no keras): Part 5 - Loss and Gradients",
+    "length": "13:17",
+    "views": "43",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jp_S0L1i8Jw",
+    "thumbnail": "https://i.ytimg.com/vi/jp_S0L1i8Jw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-RXfmvWugbF2sSeZQk24qqIzspQ",
+    "title": "Error in Tensorflow",
+    "length": "13:35",
+    "views": "1,967",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,784",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "wG_nF1awSSY",
+    "thumbnail": "https://i.ytimg.com/vi/wG_nF1awSSY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqoJxklv177_QCg5wKqX4pRwjPVQ",
+    "title": "What is Automatic Differentiation?",
+    "length": "14:25",
+    "views": "47,080",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "qowp6SQ9_Oo",
+    "thumbnail": "https://i.ytimg.com/vi/qowp6SQ9_Oo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc_CzMirzMjYp2wfqDuWeoeNOuOA",
+    "title": "Vanishing and exploding gradients | Deep Learning Tutorial 35 (Tensorflow, Keras & Python)",
+    "length": "9:53",
+    "views": "32,513",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "6YZoZ9Vtez0",
+    "thumbnail": "https://i.ytimg.com/vi/6YZoZ9Vtez0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD09PvlXGei68Gzfl3Qy7bt4c7RWg",
+    "title": "Grad-CAM class activation visualization - Keras Code Examples",
+    "length": "16:40",
+    "views": "11,594",
+    "publish_time": "1 year ago"
+  }
+]

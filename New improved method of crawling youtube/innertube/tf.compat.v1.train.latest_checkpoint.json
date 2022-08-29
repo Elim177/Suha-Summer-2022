@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tk7cniyvH6c",
+    "thumbnail": "https://i.ytimg.com/vi/tk7cniyvH6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0RZNoKBGz88zM1qF_skYiDuRqXA",
+    "title": "Speed up your TensorFlow code using TFRecords and dataset pipelines",
+    "length": "26:07",
+    "views": "1,697",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "oFFbKogYdfc",
+    "thumbnail": "https://i.ytimg.com/vi/oFFbKogYdfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SRGLOpWNLKJIZc3n441lmCLVag",
+    "title": "TensorFlow high-level APIs: Part 1 - loading data",
+    "length": "7:04",
+    "views": "106,439",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kaQCdv46OBA",
+    "thumbnail": "https://i.ytimg.com/vi/kaQCdv46OBA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjXy6kuOwmjnh6AfSw1PyhpryJyw",
+    "title": "Resuming Training and Checkpoints in Python TensorFlow Keras (13.2)",
+    "length": "13:26",
+    "views": "4,254",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "sarZ_FZfDxs",
+    "thumbnail": "https://i.ytimg.com/vi/sarZ_FZfDxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn14PACgZUe3Sg4g8hmjFu2ct49g",
+    "title": "On-device object detection: Train and deploy a custom TensorFlow Lite model",
+    "length": "12:04",
+    "views": "41,425",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "mPvcBq24Bt0",
+    "thumbnail": "https://i.ytimg.com/vi/mPvcBq24Bt0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ-bhGHr3e38SNnW42KJXE55AErw",
+    "title": "How to Implement GPT in Tensorflow | GPT-3, Transformer Implementation in TF",
+    "length": "33:58",
+    "views": "1,300",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "nuViDYGLOGs",
+    "thumbnail": "https://i.ytimg.com/vi/nuViDYGLOGs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm7fDqpx-qqHhDhmqvIBkWUD9zAA",
+    "title": "Training a TensorFlow Object Detection Network",
+    "length": "34:56",
+    "views": "5,589",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "LWlbFVtPiwo",
+    "thumbnail": "https://i.ytimg.com/vi/LWlbFVtPiwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUrcO8Ns5EBDycRlm5TE-NIZfvCg",
+    "title": "Tensorflow Object Detection Tutorial: Fast Style Transfer in Real-time",
+    "length": "29:02",
+    "views": "1,510",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oT_zNwN_ld4",
+    "thumbnail": "https://i.ytimg.com/vi/oT_zNwN_ld4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxEXDAUSMDXHNu8Kykw47vFAqq8w",
+    "title": "Train models to recognize hand-written digits using Tensorflow",
+    "length": "47:29",
+    "views": "737",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "A4K6D_gx2Iw",
+    "thumbnail": "https://i.ytimg.com/vi/A4K6D_gx2Iw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAty79maS4YZaGcTs6-bJ-UL1mEhA",
+    "title": "How to use your trained model - Deep Learning basics with Python, TensorFlow and Keras p.6",
+    "length": "11:55",
+    "views": "195,554",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "chQNuV9B-Rw",
+    "thumbnail": "https://i.ytimg.com/vi/chQNuV9B-Rw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-_LTu85bdeCao0UocUNhGEj9Yug",
+    "title": "How To Train Deep Learning Models In Google Colab- Must For Everyone",
+    "length": "24:26",
+    "views": "159,855",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "yxUVu0iN26Q",
+    "thumbnail": "https://i.ytimg.com/vi/yxUVu0iN26Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0CNsTRRQnq0RVIZiGUT7WImHQaQ",
+    "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+    "length": "4:52",
+    "views": "26,710",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "9Wg3iiImRo4",
+    "thumbnail": "https://i.ytimg.com/vi/9Wg3iiImRo4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBJAeyS4R_tbZoqStAklvWZKoHzg",
+    "title": "Train ML models directly from GitHub",
+    "length": "2:32",
+    "views": "478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "u--UVvH-LIQ",
+    "thumbnail": "https://i.ytimg.com/vi/u--UVvH-LIQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjCIl2y-eG4EXtJTWYp8zbtcy48g",
+    "title": "Simple Training with the 🤗 Transformers Trainer",
+    "length": "26:42",
+    "views": "4,305",
+    "publish_time": "8 months ago"
+  },
+  {
+    "videoId": "gVO1dFCbi6o",
+    "thumbnail": "https://i.ytimg.com/vi/gVO1dFCbi6o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4D_zY06GAzFUwjH-GvCcwjUl_HQ",
+    "title": "Model Checkpoint in Tensorflow | Save Best Model using Checkpoint and Callbacks",
+    "length": "10:08",
+    "views": "1,231",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "UkDsrd3uaDg",
+    "thumbnail": "https://i.ytimg.com/vi/UkDsrd3uaDg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2BoLlxNzlhkqM7fh2hHtWG58apg",
+    "title": "TensorFlow 2.0 Tutorial for Beginners 11 - Bank Customer Satisfaction Prediction Using CNN",
+    "length": "44:40",
+    "views": "4,489",
+    "publish_time": "2 years ago"
+  }
+]

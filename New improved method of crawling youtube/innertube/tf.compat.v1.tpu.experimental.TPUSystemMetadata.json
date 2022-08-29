@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "xu4f1QKTeUY",
+    "thumbnail": "https://i.ytimg.com/vi/xu4f1QKTeUY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi77bDhrjaNKdMRX0JdmHe9h0-YQ",
+    "title": "Tensorflow: 12 Variables and Placeholders",
+    "length": "7:42",
+    "views": "332",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "IfIZnbf8WnE",
+    "thumbnail": "https://i.ytimg.com/vi/IfIZnbf8WnE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnTbTt-8rFZBdG_JTUq6glXi1qIQ",
+    "title": "Transitioning Kagglers to TPU with TF 2.x",
+    "length": "11:51",
+    "views": "248",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ZnukSLKEw34",
+    "thumbnail": "https://i.ytimg.com/vi/ZnukSLKEw34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa2Tk1xH9te8CbLu2KzTdbipRQjw",
+    "title": "Inside TensorFlow: tf.data + tf.distribute",
+    "length": "46:24",
+    "views": "18,020",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "tCYSce6l8gA",
+    "thumbnail": "https://i.ytimg.com/vi/tCYSce6l8gA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8hiCZu0RBTe6UIRMRk0jj8JbrGQ",
+    "title": "How to take advantage of GPUs and TPUs for your ML project (Coding TensorFlow)",
+    "length": "4:24",
+    "views": "93,906",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "jgNwywYcH4w",
+    "thumbnail": "https://i.ytimg.com/vi/jgNwywYcH4w/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKjXZWke1vHuc-xJSJHhoTCZRcew",
+    "title": "TPU Machine Learning (LIVE)",
+    "length": "1:00:15",
+    "views": "31,024",
+    "publish_time": "Streamed 3 years ago"
+  },
+  {
+    "videoId": "WTTgbH85WFw",
+    "thumbnail": "https://i.ytimg.com/vi/WTTgbH85WFw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJhwANkpSvhx3qY-XBsELugXCzQQ",
+    "title": "Tensorflow: 13 Linear Regression using Tensorflow",
+    "length": "18:15",
+    "views": "73",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "2kSo7Az4ZOs",
+    "thumbnail": "https://i.ytimg.com/vi/2kSo7Az4ZOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo7fA8tuFwIsZ73Im279hLu6T9wQ",
+    "title": "Speeding up TensorFlow with TPUs",
+    "length": "2:58",
+    "views": "6,018",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "KgjaC9VeOi8",
+    "thumbnail": "https://i.ytimg.com/vi/KgjaC9VeOi8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiI2UU0l2L06gf_8FgS3AhihOX8w",
+    "title": "TPU Notebook Walkthrough: Introduction to TFRecords | Kaggle",
+    "length": "9:05",
+    "views": "12,784",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "1pdwRQ1DQfY",
+    "thumbnail": "https://i.ytimg.com/vi/1pdwRQ1DQfY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_c-RpFMbRrmleyvO9MTcoaCt8Ww",
+    "title": "Learn With Me: Getting Started with Tensor Processing Units (TPUs) | Kaggle",
+    "length": "9:41",
+    "views": "19,164",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "_DexQhQB8uI",
+    "thumbnail": "https://i.ytimg.com/vi/_DexQhQB8uI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaY1E3WdMNNy3DlKF9JBtg1Sz4Hg",
+    "title": "Generate Robert Mueller with TF 2.0, Keras, GRU, TPU, For Free and Under 5 Minutes",
+    "length": "6:00",
+    "views": "217",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HXzz87WVm6c",
+    "thumbnail": "https://i.ytimg.com/vi/HXzz87WVm6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClHko67TvfksHVKlAL6wsigUslIA",
+    "title": "237 - What is Tensorflow Lite and how to convert keras model to tflite?",
+    "length": "30:41",
+    "views": "4,718",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "P9ci-avgZv8",
+    "thumbnail": "https://i.ytimg.com/vi/P9ci-avgZv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnMhpOu-o28b36NKNP_rYeCBsPyg",
+    "title": "what is #tensors #processing unit #tpu ? #shorts #ai #ml",
+    "length": "0:16",
+    "views": "38",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "5IBnuauBvkQ",
+    "thumbnail": "https://i.ytimg.com/vi/5IBnuauBvkQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfF8kX56NyUOwJook-5emVamBQiQ",
+    "title": "Pneumonia Classification on X-rays using TensorFlow and Tensor Processing Units (TPUs) | Kaggle",
+    "length": "9:04",
+    "views": "18,074",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "PicxU81owCs",
+    "thumbnail": "https://i.ytimg.com/vi/PicxU81owCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRKOnP2KF6pPxJwQlLJyJbXSOFnQ",
+    "title": "Lecture 7: Introduction to TensorFlow",
+    "length": "1:12:33",
+    "views": "224,148",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "s4Lcf9du9L8",
+    "thumbnail": "https://i.ytimg.com/vi/s4Lcf9du9L8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgDyL94Ec3qibWdQGwv4Nq6DdGuA",
+    "title": "TensorFlow Installation | Step By Step Guide to Install TensorFlow on Windows | Edureka",
+    "length": "9:06",
+    "views": "300,705",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "kPMpmcl_Pyw",
+    "thumbnail": "https://i.ytimg.com/vi/kPMpmcl_Pyw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwEGEMOVyvJn2ecsHkU9016Ug5fw",
+    "title": "Cloud TPU Pods: AI Supercomputing for Large Machine Learning Problems (Google I/O'19)",
+    "length": "41:48",
+    "views": "9,588",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "t3z0bOsaDQ0",
+    "thumbnail": "https://i.ytimg.com/vi/t3z0bOsaDQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0V8wE6AJRqxtPi8afPjrcztjI_w",
+    "title": "Intro to Sparse Tensors and Spatially Sparse Neural Networks",
+    "length": "11:28",
+    "views": "1,457",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Fg6DqCzUY2s",
+    "thumbnail": "https://i.ytimg.com/vi/Fg6DqCzUY2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_1LoHrhL8a3GsfisQ_wycjbzNSA",
+    "title": "Image Compression based on Sparse AutoEncoders using Tensorflow",
+    "length": "10:23",
+    "views": "220",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tfM5QUNYtEA",
+    "thumbnail": "https://i.ytimg.com/vi/tfM5QUNYtEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zcQs_OOZXiYDKJlmw709zPo8KQ",
+    "title": "#7: Broadcasting, ragged tensor, sparse and dense tensor | TensorFlow | Tutorial",
+    "length": "25:08",
+    "views": "137",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "smZfsYhDFkY",
+    "thumbnail": "https://i.ytimg.com/vi/smZfsYhDFkY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNw2IRzvKKe3xZEZVMbXweH-l36w",
+    "title": "Sparse Tensors with MXNet",
+    "length": "10:12",
+    "views": "393",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "CSlAm95u_10",
+    "thumbnail": "https://i.ytimg.com/vi/CSlAm95u_10/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-Nu-BWxXueALX1HsVU7wJG91FA",
+    "title": "Introducing the Deep Sparse Platform: Sparsify Deep Learning Models to Run on CPUs on GPU Speeds.",
+    "length": "55:23",
+    "views": "699",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "hgSGHusDx7M",
+    "thumbnail": "https://i.ytimg.com/vi/hgSGHusDx7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXcXxe6yYyQYdxYcVfQ_jjO35Rvw",
+    "title": "Sparse is Enough in Scaling Transformers (aka Terraformer) | ML Research Paper Explained",
+    "length": "57:07",
+    "views": "18,566",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "i5Et50umrUA",
+    "thumbnail": "https://i.ytimg.com/vi/i5Et50umrUA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZW2xrI50VNFRqw2NYj2CNO5E1NA",
+    "title": "Keras Text Vectorization Layer: Configure, Adapt, Use, Save, and Upload: Part A Background",
+    "length": "20:01",
+    "views": "621",
+    "publish_time": "Streamed 8 months ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "oxrcZ9uUblI",
+    "thumbnail": "https://i.ytimg.com/vi/oxrcZ9uUblI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9UM4r339xu083s4lkY3XTlpX3RA",
+    "title": "TensorFlow Tutorial #18 TFRecords & Dataset API",
+    "length": "19:56",
+    "views": "34,262",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "3NMNP_1d1s8",
+    "thumbnail": "https://i.ytimg.com/vi/3NMNP_1d1s8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE4Y6yT4qczMeErPCW9dsphdzlqA",
+    "title": "Training a machine learning model on your own dataset with Deeplab in Tensorflow",
+    "length": "48:09",
+    "views": "13,795",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,507",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Tf-ZZnBi6dU",
+    "thumbnail": "https://i.ytimg.com/vi/Tf-ZZnBi6dU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlJ7EbXG-BSk704O0oMk16JNqcTg",
+    "title": "Hands-On Predictive Analytics with TensorFlow 2.0 :Intro to Unsupervised Learning|packtpub.com",
+    "length": "4:14",
+    "views": "74",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kgkyu7LpBaM",
+    "thumbnail": "https://i.ytimg.com/vi/kgkyu7LpBaM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJWHhg251g-9obuE3sYlKV9640Qg",
+    "title": "TF2 DeepLabV3+ Tensorflow 2.0",
+    "length": "30:37",
+    "views": "2,579",
+    "publish_time": "3 years ago"
+  }
+]

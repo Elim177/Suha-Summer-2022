@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "qTYQEXsBb_E",
+    "thumbnail": "https://i.ytimg.com/vi/qTYQEXsBb_E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvL850XFAaof45Z2vuQmYWztoIQw",
+    "title": "TensorFlow Eager Mode",
+    "length": "3:20",
+    "views": "14,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "JHLhLa5LRZ4",
+    "thumbnail": "https://i.ytimg.com/vi/JHLhLa5LRZ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABpMfhz5-fhlp6KO8dvWwEvG6sbA",
+    "title": "TFX: An end-to-end ML platform for everyone - Konstantinos Katsiapis and Anusha Ramesh",
+    "length": "12:34",
+    "views": "610",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "lwZUXa7Wgbs",
+    "thumbnail": "https://i.ytimg.com/vi/lwZUXa7Wgbs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw0kHU6MnDyefn2rbMKp2nR0hGdA",
+    "title": "FTC SIM Using Tensorflow",
+    "length": "15:48",
+    "views": "1,707",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "c8KgKTgyFUE",
+    "thumbnail": "https://i.ytimg.com/vi/c8KgKTgyFUE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD7wR_YyhurfMKhXLn2X8hUKdX5w",
+    "title": "Feature Flags Explained in 6 Minutes. What Are Feature Flags? (Feature Toggles)",
+    "length": "7:19",
+    "views": "1,687",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "kyQzrEWOqsU",
+    "thumbnail": "https://i.ytimg.com/vi/kyQzrEWOqsU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_Zekcpv1x_38j6-EhaN-FpPsjVw",
+    "title": "How to use your Custom Tensorflow Model in App using tflite and get labels.txt file🤔 #tensorflow#ml",
+    "length": "8:10",
+    "views": "85",
+    "publish_time": "3 weeks ago"
+  },
+  {
+    "videoId": "0d-2551pQcM",
+    "thumbnail": "https://i.ytimg.com/vi/0d-2551pQcM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQl6ItQydluvkLH7WLvB2WDA6OaQ",
+    "title": "Training and deploying ML models on edge devices (TF Fall 2020 Updates)",
+    "length": "11:41",
+    "views": "12,721",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "dMq4nAMuqO8",
+    "thumbnail": "https://i.ytimg.com/vi/dMq4nAMuqO8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmwaKv6JZTX2xJ_9bWhN_wzVVu5Q",
+    "title": "How to run any Tensorflow model on a browser with Tensorflow.js Easy!",
+    "length": "33:44",
+    "views": "1,303",
+    "publish_time": "6 months ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,881",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "AtWNFd0YrVk",
+    "thumbnail": "https://i.ytimg.com/vi/AtWNFd0YrVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb30UqaTykvgZglMqab5xt4Ttacw",
+    "title": "TFX: A TensorFlow-Based Production-Scale Machine Learning Platform",
+    "length": "19:07",
+    "views": "2,268",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "-yHZ9uLVSp4",
+    "thumbnail": "https://i.ytimg.com/vi/-yHZ9uLVSp4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTF1d5Glg2RusCR32x3tXzgoQZIQ",
+    "title": "Feature Toggles - Why and How to Add to Your Software",
+    "length": "1:53:10",
+    "views": "54,357",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "QJQTIp5McV8",
+    "thumbnail": "https://i.ytimg.com/vi/QJQTIp5McV8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5CGlmqUcSpbpOEgWTQTZR6ccxpA",
+    "title": "TensorFlow.js Crash Course - Machine Learning For The Web - Handwriting Recognition",
+    "length": "1:02:44",
+    "views": "8,622",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "5q8BzYN4rqA",
+    "thumbnail": "https://i.ytimg.com/vi/5q8BzYN4rqA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzJBTvd_2AVmY6pPCVRzDcMJa5g",
+    "title": "Easily deploy TF Lite models to the web | Demo",
+    "length": "2:25",
+    "views": "6,314",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cpH7wPXox6Y",
+    "thumbnail": "https://i.ytimg.com/vi/cpH7wPXox6Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNPC8TH7_D6KWcWUdQ9xvWsZpnuw",
+    "title": "Hands-On Transfer Learning with TensorFlow 2.0: TensorFlow Lite Model Maker | packtpub.com",
+    "length": "8:45",
+    "views": "1,495",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "uIcqeP7MFH0",
+    "thumbnail": "https://i.ytimg.com/vi/uIcqeP7MFH0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMhSiShU6DUPrMQiBHoVdI3h-KfA",
+    "title": "tf.data: Fast, flexible, and easy-to-use input pipelines (TensorFlow Dev Summit 2018)",
+    "length": "15:10",
+    "views": "64,490",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "7lXYGDVHUNw",
+    "thumbnail": "https://i.ytimg.com/vi/7lXYGDVHUNw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9DH3rukRJJt40x0WKpnw4nXno3Q",
+    "title": "Real Time AI Face Landmark Detection in 20 Minutes with Tensorflow.JS and React",
+    "length": "27:42",
+    "views": "74,087",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jh4ITuOytE4",
+    "thumbnail": "https://i.ytimg.com/vi/jh4ITuOytE4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHr6EIaYhGcVqY8Ywgdk9oNll6ag",
+    "title": "AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)",
+    "length": "2:26",
+    "views": "8,529",
+    "publish_time": "3 years ago"
+  }
+]

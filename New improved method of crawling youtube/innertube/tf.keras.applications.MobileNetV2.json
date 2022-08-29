@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "oBqQWuhMTsY",
+    "thumbnail": "https://i.ytimg.com/vi/oBqQWuhMTsY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCawUY-K6BNByMemj07iEiWfKzzkw",
+    "title": "How To Use The Pre-trained Neural Network MobileNet From Keras and TensorFlow",
+    "length": "21:04",
+    "views": "4,324",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5JAZiue-fzY",
+    "thumbnail": "https://i.ytimg.com/vi/5JAZiue-fzY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-HDTF-iocvigUnzXXyu0Nj8J01g",
+    "title": "MobileNet Image Classification with TensorFlow's Keras API",
+    "length": "14:03",
+    "views": "26,313",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "EzE4oE2OA6c",
+    "thumbnail": "https://i.ytimg.com/vi/EzE4oE2OA6c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Ol_rATsW-96cl3JHaxUVk91MlA",
+    "title": "Tensorflow in Docker tutorial | Image classification tutorial | MobilenetV2",
+    "length": "12:39",
+    "views": "5,472",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WE6MLSOoU8U",
+    "thumbnail": "https://i.ytimg.com/vi/WE6MLSOoU8U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTKHaoLClqBO9h9gimftPmGmN1DQ",
+    "title": "MobileNetV2 UNET in TensorFlow 2.0 | UNET with Pretrained MobileNetV2 as Encoder | Deep Learning",
+    "length": "21:47",
+    "views": "1,195",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Zrt76AIbeh4",
+    "thumbnail": "https://i.ytimg.com/vi/Zrt76AIbeh4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo97CtfcOngz1jxxPb0hQbFYN4MQ",
+    "title": "Fine-Tuning MobileNet on Custom Data Set with TensorFlow's Keras API",
+    "length": "15:11",
+    "views": "14,436",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "krTHVKkUEYw",
+    "thumbnail": "https://i.ytimg.com/vi/krTHVKkUEYw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY5QFEiV5rTHVjDVmgI3Z0x_Hzcw",
+    "title": "Face Mask Detection using OpenCV, Keras/TF and Deep Learning | Detect Masks in Real-Time videos",
+    "length": "40:36",
+    "views": "18,889",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "BAbIIl-SCG8",
+    "thumbnail": "https://i.ytimg.com/vi/BAbIIl-SCG8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9zvfMtmCsyilPIm4uPm4LwrzEyQ",
+    "title": "Tensorflow, tf Keras API Tutorial - Create App, Disease Detector on IOS and Android - 1. Converter",
+    "length": "20:38",
+    "views": "1,683",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "LsdxvjLWkIY",
+    "thumbnail": "https://i.ytimg.com/vi/LsdxvjLWkIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY6N5Q2kTMChdGZHy5zBu_FrHVow",
+    "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras & Python)",
+    "length": "25:55",
+    "views": "73,702",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oHl8U3NccAE",
+    "thumbnail": "https://i.ytimg.com/vi/oHl8U3NccAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmc5Rzv2t9uiSlbq-2xqNNCUFuow",
+    "title": "Transfer Learning and Fine-Tuning of a Pretrained Neural Network with Keras and TensorFlow",
+    "length": "29:22",
+    "views": "14,515",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,699",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "8LjK4knsTRQ",
+    "thumbnail": "https://i.ytimg.com/vi/8LjK4knsTRQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzdk9oeaWqb-aHQ8ROBQUBASSocA",
+    "title": "Customizing MobileNetV2 through transfer learning using Keras and Python [Part 4]",
+    "length": "35:07",
+    "views": "3,489",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "IOI0o3Cxv9Q",
+    "thumbnail": "https://i.ytimg.com/vi/IOI0o3Cxv9Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB2fT2qlqOJaMqp1mY41BrY_pwyw",
+    "title": "Real Time Face Mask Detection with Tensorflow and Python | Custom Object Detection w/ MobileNet SSD",
+    "length": "58:42",
+    "views": "160,806",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "uhzGTijaw8A",
+    "thumbnail": "https://i.ytimg.com/vi/uhzGTijaw8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9KyJbWSewRHeZsYfkVAC4VOtEhQ",
+    "title": "Inside TensorFlow: tf.Keras (part 2)",
+    "length": "51:34",
+    "views": "12,006",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "5kbpoIQUB4Q",
+    "thumbnail": "https://i.ytimg.com/vi/5kbpoIQUB4Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzHlCmzZZ5eYHf6MexIbtVrWfl1g",
+    "title": "Tips Tricks 20 - Understanding transfer learning for different size and channel inputs",
+    "length": "47:32",
+    "views": "8,747",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "kXsBbDGUbpw",
+    "thumbnail": "https://i.ytimg.com/vi/kXsBbDGUbpw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQjTvTVryO64z40TQbt3Ug9h7xKg",
+    "title": "UNET with Pretrained MobileNetV2 as Encoder |  Semantic Segmentation | UNET TensorFlow 2.0",
+    "length": "54:59",
+    "views": "6,648",
+    "publish_time": "2 years ago"
+  }
+]

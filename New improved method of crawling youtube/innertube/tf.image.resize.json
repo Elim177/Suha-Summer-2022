@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "q7ZuZ8ZOErE",
+    "thumbnail": "https://i.ytimg.com/vi/q7ZuZ8ZOErE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZnm8iOadtqApGsn2WN8ag5JzyMQ",
+    "title": "TensorFlow Tutorial 18 - Custom Dataset for Images",
+    "length": "25:16",
+    "views": "53,046",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "_L2uYfVV48I",
+    "thumbnail": "https://i.ytimg.com/vi/_L2uYfVV48I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9PIdKI3DXUqr1m7vUiWOx3WR6Ew",
+    "title": "Image Preparation for Convolutional Neural Networks with TensorFlow's Keras API",
+    "length": "18:32",
+    "views": "51,551",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "a7djihFElOs",
+    "thumbnail": "https://i.ytimg.com/vi/a7djihFElOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9q9mSu72bPEgdF70hkwhyJUZJZw",
+    "title": "Data augmentation with TensorFlow using tf.image and Keras Layers - Full Stack Deep Learning",
+    "length": "53:27",
+    "views": "499",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "8wwfVV7ixyY",
+    "thumbnail": "https://i.ytimg.com/vi/8wwfVV7ixyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6p2vmrVeOpRsR0vqi2TRZ_iXAQ",
+    "title": "TensorFlow Tutorial 13 - Data Augmentation",
+    "length": "15:40",
+    "views": "13,493",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "j-3vuBynnOE",
+    "thumbnail": "https://i.ytimg.com/vi/j-3vuBynnOE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBGo8k6cETlTVR85WR0ruLydPqWA",
+    "title": "Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2",
+    "length": "18:51",
+    "views": "737,445",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VFEOskzhhbc",
+    "thumbnail": "https://i.ytimg.com/vi/VFEOskzhhbc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABIM2TAq6Zb7zKCtscAaURMdbsdw",
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras & Python)",
+    "length": "33:19",
+    "views": "37,506",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "cWHW9MnX_F4",
+    "thumbnail": "https://i.ytimg.com/vi/cWHW9MnX_F4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCHp6R3JnD8ewXfak4DaoJraKAOA",
+    "title": "Resize or Scale an image using python || 5 different types of image resize",
+    "length": "10:13",
+    "views": "32,557",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "5kbpoIQUB4Q",
+    "thumbnail": "https://i.ytimg.com/vi/5kbpoIQUB4Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzHlCmzZZ5eYHf6MexIbtVrWfl1g",
+    "title": "Tips Tricks 20 - Understanding transfer learning for different size and channel inputs",
+    "length": "47:32",
+    "views": "8,747",
+    "publish_time": "10 months ago"
+  },
+  {
+    "videoId": "z83v_jMh_FM",
+    "thumbnail": "https://i.ytimg.com/vi/z83v_jMh_FM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7yTyYhW_R-CORVffckegs7umfHA",
+    "title": "8.  TensorFlow 2.1: reescalar una imagen || matplotlib, PIL y tf.image.resize",
+    "length": "8:34",
+    "views": "89",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "jztwpsIzEGc",
+    "thumbnail": "https://i.ytimg.com/vi/jztwpsIzEGc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbyjzTdVL-dp98jtzmQc-m8She6Q",
+    "title": "Build a Deep CNN Image Classifier with ANY Images",
+    "length": "1:25:05",
+    "views": "18,582",
+    "publish_time": "2 months ago"
+  },
+  {
+    "videoId": "oHl8U3NccAE",
+    "thumbnail": "https://i.ytimg.com/vi/oHl8U3NccAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmc5Rzv2t9uiSlbq-2xqNNCUFuow",
+    "title": "Transfer Learning and Fine-Tuning of a Pretrained Neural Network with Keras and TensorFlow",
+    "length": "29:22",
+    "views": "14,515",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GiVVCu7l34A",
+    "thumbnail": "https://i.ytimg.com/vi/GiVVCu7l34A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6RGTMWHyyOjo9lX5_Q--AbX8T2Q",
+    "title": "How to Crop and Resize Images [3] | OpenCV Python Tutorials for Beginners",
+    "length": "11:28",
+    "views": "38,148",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6qQx6d1O10I",
+    "thumbnail": "https://i.ytimg.com/vi/6qQx6d1O10I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqJjuUA-dhrAVR5Ac-S-B7Qzh9FA",
+    "title": "How To Load Your Own Custom Dataset in Google Colab with Keras and TensorFlow",
+    "length": "16:19",
+    "views": "5,205",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "QWdYWwW6OAE",
+    "thumbnail": "https://i.ytimg.com/vi/QWdYWwW6OAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNc0rDQrpz6unhD_OB2ztlOBRVmg",
+    "title": "Machine Learning Foundations: Ep #7 - Image augmentation and overfitting",
+    "length": "12:25",
+    "views": "24,383",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Y6NRFru9WLg",
+    "thumbnail": "https://i.ytimg.com/vi/Y6NRFru9WLg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0OGt_VEF7M_kCzDA9rnN5mGI1HA",
+    "title": "Python Resize Multiple Images",
+    "length": "6:39",
+    "views": "20,904",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "QfNvhPx5Px8",
+    "thumbnail": "https://i.ytimg.com/vi/QfNvhPx5Px8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCqioRSSEdpYs2icUBM03t-iFqZw",
+    "title": "Build a TensorFlow Image Classifier in 5 Min",
+    "length": "5:47",
+    "views": "861,244",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "mTVf7BN7S8w",
+    "thumbnail": "https://i.ytimg.com/vi/mTVf7BN7S8w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw1ukQngK-wNUENwCK_XGOavo2XA",
+    "title": "Data augmentation to address overfitting | Deep Learning Tutorial 26 (Tensorflow, Keras & Python)",
+    "length": "31:33",
+    "views": "57,729",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "HxtBIwfy0kM",
+    "thumbnail": "https://i.ytimg.com/vi/HxtBIwfy0kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW1Xi_MuZ-5XW4P8MDipDIoNwpkQ",
+    "title": "Saving and Loading Models (Coding TensorFlow)",
+    "length": "6:53",
+    "views": "139,449",
+    "publish_time": "3 years ago"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "e4_4D7uNvf8",
+    "thumbnail": "https://i.ytimg.com/vi/e4_4D7uNvf8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmuxX-wepuf8CU1NJkEfvxG6PWFQ",
+    "title": "TensorFlow Profiler demo (TF Dev Summit '20)",
+    "length": "7:51",
+    "views": "6,166",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "IEXu1dIRJhY",
+    "thumbnail": "https://i.ytimg.com/vi/IEXu1dIRJhY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWK6rIpMyc5wTX_snQgqUkj5HZtw",
+    "title": "Analyzing Model Performance Tf Profiler",
+    "length": "54:19",
+    "views": "107",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "pXHAQIhhMhI",
+    "thumbnail": "https://i.ytimg.com/vi/pXHAQIhhMhI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApi6_AE1L3P2b_hnaAhwlxsIbCMA",
+    "title": "Performance profiling in TF 2 (TF Dev Summit '20)",
+    "length": "9:47",
+    "views": "10,121",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Dicw8GDuEc8",
+    "thumbnail": "https://i.ytimg.com/vi/Dicw8GDuEc8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGmPYx2R0q2o_Vlrl7WAcT1p7HSA",
+    "title": "Five Ways To Increase Your Model Performance Using PyTorch Profiler",
+    "length": "3:01",
+    "views": "2,087",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "SczRceAa4OE",
+    "thumbnail": "https://i.ytimg.com/vi/SczRceAa4OE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzaYEpOUjdI0e-IQt50js1z5PCEw",
+    "title": "Profiling Low-End Platforms using HawkTracer Profiler",
+    "length": "30:04",
+    "views": "72",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "p0oxO92Er7g",
+    "thumbnail": "https://i.ytimg.com/vi/p0oxO92Er7g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS4J7XCU40iG_sWq80wN6QmRjp2g",
+    "title": "Using the Profiler",
+    "length": "5:08",
+    "views": "1,154",
+    "publish_time": "9 years ago"
+  },
+  {
+    "videoId": "_expOfB4CYg",
+    "thumbnail": "https://i.ytimg.com/vi/_expOfB4CYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAwx2zlhoST7anKMRHvq9Tt1l1bQ",
+    "title": "Profiling Deep Learning",
+    "length": "56:07",
+    "views": "165",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "klHMUGcDfvc",
+    "thumbnail": "https://i.ytimg.com/vi/klHMUGcDfvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnB5l6IrPu-QsXKeKuzJIYpLuHcQ",
+    "title": "Dmitry Trofimov - Profiling the unprofilable",
+    "length": "36:23",
+    "views": "269",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "yKr_GNXYurI",
+    "thumbnail": "https://i.ytimg.com/vi/yKr_GNXYurI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKReqUKrJmBdXTzF44XTjs9dpfrg",
+    "title": "Profiling Frameworks TensorFlow",
+    "length": "24:52",
+    "views": "67",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "4NLlNx6wVaw",
+    "thumbnail": "https://i.ytimg.com/vi/4NLlNx6wVaw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLi-iRJJZNtVSm1v1Vvitn0CVSVg",
+    "title": "Differences Between Tensorflow 1.x and Tensorflow 2.0 (Episode 3)",
+    "length": "10:03",
+    "views": "11,697",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "oDKzeNpCfLI",
+    "thumbnail": "https://i.ytimg.com/vi/oDKzeNpCfLI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnRhp-fwGXqGi9IaFR3-g5EZuO9w",
+    "title": "Profiling your machine learning model with Tensorflow and Tensorboard (Amine Kerkeni)",
+    "length": "53:12",
+    "views": "668",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6FgnoCb7ZPc",
+    "thumbnail": "https://i.ytimg.com/vi/6FgnoCb7ZPc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU5nQYwGS2Q8SvGLD73mdu2qVqDA",
+    "title": "Low-end platform profiling with HawkTracer profiler",
+    "length": "25:06",
+    "views": "248",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4nYwL8ZZDK8",
+    "thumbnail": "https://i.ytimg.com/vi/4nYwL8ZZDK8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqLR2D0fTlKlNdl-qAc2lVAINbbw",
+    "title": "Working with Tensors | Φ-Flow Tutorial 1",
+    "length": "8:23",
+    "views": "654",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "oY4vZrKrMf0",
+    "thumbnail": "https://i.ytimg.com/vi/oY4vZrKrMf0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzMVd4dhaOF5eSdcJEtYIyKWNzLg",
+    "title": "Using Tensorboard to debug and profile neural network models",
+    "length": "58:47",
+    "views": "173",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "hOOeIIoePFc",
+    "thumbnail": "https://i.ytimg.com/vi/hOOeIIoePFc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnULv1y_V4IwaQ0WV7nXq_ndSdTg",
+    "title": "Fake Profile Identification Using Deep Neural Networks",
+    "length": "1:06:35",
+    "views": "2,770",
+    "publish_time": "Streamed 1 year ago"
+  }
+]

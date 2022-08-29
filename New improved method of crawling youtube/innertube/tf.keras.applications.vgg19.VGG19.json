@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "2D5WLsrc-Go",
+    "thumbnail": "https://i.ytimg.com/vi/2D5WLsrc-Go/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA18jwY5JZpKilLFsWvvLD9mWXb6w",
+    "title": "Pretrained VGG19 UNET in TensorFlow using Keras | Semantic Segmentation | Deep Learning",
+    "length": "16:22",
+    "views": "2,000",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "LsdxvjLWkIY",
+    "thumbnail": "https://i.ytimg.com/vi/LsdxvjLWkIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY6N5Q2kTMChdGZHy5zBu_FrHVow",
+    "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras & Python)",
+    "length": "25:55",
+    "views": "73,702",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lHM458ZsfkM",
+    "thumbnail": "https://i.ytimg.com/vi/lHM458ZsfkM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj9yP9Va1t_cm4fi0-0HUpYAw9xg",
+    "title": "Transfer Learning Using CNN(VGG 16)| Keras Tutorial|",
+    "length": "12:36",
+    "views": "13,282",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oBqQWuhMTsY",
+    "thumbnail": "https://i.ytimg.com/vi/oBqQWuhMTsY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCawUY-K6BNByMemj07iEiWfKzzkw",
+    "title": "How To Use The Pre-trained Neural Network MobileNet From Keras and TensorFlow",
+    "length": "21:04",
+    "views": "4,324",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "GQmyRd03Ax0",
+    "thumbnail": "https://i.ytimg.com/vi/GQmyRd03Ax0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJk5t8M5EcNeLzNyv5nDEleG7h1g",
+    "title": "Python零基础学习69讲 应用Keras Vgg16, Vgg19, Resnet等模型图像识别CNN",
+    "length": "24:44",
+    "views": "499",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "oHl8U3NccAE",
+    "thumbnail": "https://i.ytimg.com/vi/oHl8U3NccAE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmc5Rzv2t9uiSlbq-2xqNNCUFuow",
+    "title": "Transfer Learning and Fine-Tuning of a Pretrained Neural Network with Keras and TensorFlow",
+    "length": "29:22",
+    "views": "14,515",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zBOavqh3kWU",
+    "thumbnail": "https://i.ytimg.com/vi/zBOavqh3kWU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRMUaYkRL9zHv4mCAnGSmiE4AyFw",
+    "title": "Tutorial 28- Create CNN Model Using Transfer Learning using Vgg 16, Resnet",
+    "length": "14:59",
+    "views": "121,475",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "NjvX4BhOjOw",
+    "thumbnail": "https://i.ytimg.com/vi/NjvX4BhOjOw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsEIMGa8dyHSTTXisgu9vcTVVIfQ",
+    "title": "Kaggle Competition- Dengue or Malaria Prediction Using Transfer Learning VGG19",
+    "length": "13:25",
+    "views": "9,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,460",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "6qQx6d1O10I",
+    "thumbnail": "https://i.ytimg.com/vi/6qQx6d1O10I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqJjuUA-dhrAVR5Ac-S-B7Qzh9FA",
+    "title": "How To Load Your Own Custom Dataset in Google Colab with Keras and TensorFlow",
+    "length": "16:19",
+    "views": "5,205",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "7MF41u4OhVs",
+    "thumbnail": "https://i.ytimg.com/vi/7MF41u4OhVs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk1ERizz5AZzRdNMOGRkvqXSPTqw",
+    "title": "TensorFlow 2.0 Tutorial for Beginners 8 - Object Classification Using TensorFlow and VGG16 Model",
+    "length": "12:17",
+    "views": "15,798",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8cN0PiZQl18",
+    "thumbnail": "https://i.ytimg.com/vi/8cN0PiZQl18/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb5eOzEQQS8XC9PiqeMpKbrWahXA",
+    "title": "TensorFlow Tutorial 09 - Transfer Learning",
+    "length": "12:21",
+    "views": "7,656",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "E__eD-ZpxHk",
+    "thumbnail": "https://i.ytimg.com/vi/E__eD-ZpxHk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq9JI2acK25tQezlP_K6f5uCdrMA",
+    "title": "Deep Learning Computer Vision in TensorFlow / Keras: Image Classifier Tutorial",
+    "length": "1:08:32",
+    "views": "1,532",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "rYB9xmVNaks",
+    "thumbnail": "https://i.ytimg.com/vi/rYB9xmVNaks/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUlzi9zzEEh6FADCutAYap3ytY1w",
+    "title": "Convolutional Neural Network Tutorial In TensorFlow / Keras",
+    "length": "14:40",
+    "views": "247",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "WJZoywOG1cs",
+    "thumbnail": "https://i.ytimg.com/vi/WJZoywOG1cs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vTg111bTudCGpwmbDWX_1LyusA",
+    "title": "TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub",
+    "length": "17:12",
+    "views": "26,643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "71mubTQ90Uw",
+    "thumbnail": "https://i.ytimg.com/vi/71mubTQ90Uw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbwLfeykS87d2HvsGsq45F4E0FvA",
+    "title": "GlobalMaxPooling1D: Understanding tf.keras.layers",
+    "length": "14:18",
+    "views": "2,313",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "YEkrjuyrtG0",
+    "thumbnail": "https://i.ytimg.com/vi/YEkrjuyrtG0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRCZHz2UkpkdK7tN5fAzLdBOyX3Q",
+    "title": "How to use VGG16 as a pre-trained model in 8 minutes",
+    "length": "8:30",
+    "views": "9,756",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "HCLmM1PyDIs",
+    "thumbnail": "https://i.ytimg.com/vi/HCLmM1PyDIs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtyP0FoJcLZqTKyheR6iPAHZDseA",
+    "title": "How to Use 2 (or more) NVIDIA GPUs to Speed Keras/TensorFlow Deep Learning Training",
+    "length": "13:44",
+    "views": "9,563",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "5JAZiue-fzY",
+    "thumbnail": "https://i.ytimg.com/vi/5JAZiue-fzY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-HDTF-iocvigUnzXXyu0Nj8J01g",
+    "title": "MobileNet Image Classification with TensorFlow's Keras API",
+    "length": "14:03",
+    "views": "26,313",
+    "publish_time": "1 year ago"
+  }
+]

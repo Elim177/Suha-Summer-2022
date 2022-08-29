@@ -1,0 +1,154 @@
+[
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "FB0Tlxf4mCs",
+    "thumbnail": "https://i.ytimg.com/vi/FB0Tlxf4mCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBulgSTVAKLuDReiJIea5l_z1AAwA",
+    "title": "2019 (March) Converting Code to Run on TensorFlow 2.0 (including Keras)",
+    "length": "16:35",
+    "views": "6,432",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "07BXhaWtUEo",
+    "thumbnail": "https://i.ytimg.com/vi/07BXhaWtUEo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8z4COTteFWd3sGC2VEqGpuBi7KQ",
+    "title": "Visualizing TensorFlow Models: Part 1",
+    "length": "17:13",
+    "views": "202",
+    "publish_time": "Streamed 5 months ago"
+  },
+  {
+    "videoId": "6ovfZW8pepo",
+    "thumbnail": "https://i.ytimg.com/vi/6ovfZW8pepo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb0ZNNVQpSV52eYgypzPZoj_JP4w",
+    "title": "Scaling TensorFlow 2 models to multi-worker GPUs (TF Dev Summit '20)",
+    "length": "16:15",
+    "views": "7,314",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "ULXXej1n9H8",
+    "thumbnail": "https://i.ytimg.com/vi/ULXXej1n9H8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7ImXObjoMg4s_qO42xxJshQYNmw",
+    "title": "Visualizing TensorFlow Models: Part I",
+    "length": "38:19",
+    "views": "230",
+    "publish_time": "Streamed 5 months ago"
+  },
+  {
+    "videoId": "tzKqjPdAf8M",
+    "thumbnail": "https://i.ytimg.com/vi/tzKqjPdAf8M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtk9QEh_ClqGwmwbs29cP1Sv9wWA",
+    "title": "TensorFlow Coding Session #6 TFRecords and Freezing Models",
+    "length": "4:57",
+    "views": "5,431",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "QSbAUxWfxQw",
+    "thumbnail": "https://i.ytimg.com/vi/QSbAUxWfxQw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjQs-nt04Wup9sKEkFkx8Je1uUnA",
+    "title": "TensorFlow Lite, Experimental GPU Delegate (Coding TensorFlow)",
+    "length": "3:46",
+    "views": "30,803",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "O-_K42EAlP0",
+    "thumbnail": "https://i.ytimg.com/vi/O-_K42EAlP0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRWsn_3dDCh2-k-Ip7eiaMYZF4tw",
+    "title": "How To Increase Inference Performance with TensorFlow-TensorRT",
+    "length": "6:18",
+    "views": "5,061",
+    "publish_time": "7 months ago"
+  },
+  {
+    "videoId": "cPAD9vLKE0c",
+    "thumbnail": "https://i.ytimg.com/vi/cPAD9vLKE0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYTc1U2mQL6JMrsfuj-lN4OWxdng",
+    "title": "How to make TensorFlow models run faster on GPUs",
+    "length": "21:04",
+    "views": "20,881",
+    "publish_time": "11 months ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,826",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "2LQakLAMKJc",
+    "thumbnail": "https://i.ytimg.com/vi/2LQakLAMKJc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGzklc_vIpOfpJyq222Nsix5eHow",
+    "title": "Multi GPU Training with TensorFlow on Piz Daint - Day 2 - Morning",
+    "length": "1:10:15",
+    "views": "156",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "ba42uYJd8nc",
+    "thumbnail": "https://i.ytimg.com/vi/ba42uYJd8nc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZwBmsw1RsvKxevBI2hLtHfDCfA",
+    "title": "Custom TensorFlow Model for Image Classification App | #1",
+    "length": "20:40",
+    "views": "6,198",
+    "publish_time": "5 months ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "xDizVoYTmic",
+    "thumbnail": "https://i.ytimg.com/vi/xDizVoYTmic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqkT2NdZA4PoK7ntq5goa0dWvoWA",
+    "title": "Fix AttributeError: module 'tensorflow' has no attribute 'contrib' | Tensorflow object detection api",
+    "length": "1:18",
+    "views": "7,925",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tufyAAc-7cU",
+    "thumbnail": "https://i.ytimg.com/vi/tufyAAc-7cU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMvBETPXT1qxvoXqHCu8DskoJQgA",
+    "title": "#2 Working on Tensorflow Image Classification with Transfer Learning  - Dataset Gathering",
+    "length": "1:14:05",
+    "views": "47",
+    "publish_time": "Streamed 4 days ago"
+  },
+  {
+    "videoId": "pECXKyaRfYM",
+    "thumbnail": "https://i.ytimg.com/vi/pECXKyaRfYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7uQ81p9vtro9pY_3eo0yutoD5g",
+    "title": "Using GPUs in TensorFlow, TensorBoard in notebooks, finding new datasets, & more! #AskTensorFlow",
+    "length": "12:56",
+    "views": "5,893",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3pXgxbkVDao",
+    "thumbnail": "https://i.ytimg.com/vi/3pXgxbkVDao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q3-MFCsU8rOGnSgx9GHmKn3thQ",
+    "title": "How to deploy your custom tensorflow model to the web (Part 1)",
+    "length": "10:11",
+    "views": "11,696",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Gd-9cUb7x5Q",
+    "thumbnail": "https://i.ytimg.com/vi/Gd-9cUb7x5Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjIhKAzZMN64RNjpUZvdhsVLSz_Q",
+    "title": "Increase YOLOv4 object detection speed on GPU with TensorRT",
+    "length": "25:52",
+    "views": "15,951",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "w7871kMiAs8",
+    "thumbnail": "https://i.ytimg.com/vi/w7871kMiAs8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaMDfEsbXQ0xsVn3Nm0Mj845oQrg",
+    "title": "Getting Started with TensorFlow-TensorRT",
+    "length": "1:36",
+    "views": "4,440",
+    "publish_time": "7 months ago"
+  }
+]

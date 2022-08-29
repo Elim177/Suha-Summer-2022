@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "5d67893GJao",
+    "thumbnail": "https://i.ytimg.com/vi/5d67893GJao/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsIKKPQFXd4R-9jzni69h3gzAXyg",
+    "title": "Mathematics for Machine Learning: Understanding Singular Value Decomposition (SVD) with NumPy",
+    "length": "27:44",
+    "views": "4,432",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gXbThCXjZFM",
+    "thumbnail": "https://i.ytimg.com/vi/gXbThCXjZFM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_89v3-Oz8QqbsxBHCNuTJZuJ9PA",
+    "title": "Singular Value Decomposition (SVD): Overview",
+    "length": "6:44",
+    "views": "298,156",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "2CwNn777P7Y",
+    "thumbnail": "https://i.ytimg.com/vi/2CwNn777P7Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC18z1dCbdVBt0aEmBly_B_n1zGVQ",
+    "title": "Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777] || Solution",
+    "length": "10:56",
+    "views": "715",
+    "publish_time": "1 month ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kVEOCfBy9uY",
+    "thumbnail": "https://i.ytimg.com/vi/kVEOCfBy9uY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2mXJGg58VT65kSHTFMst8_Od28Q",
+    "title": "Inside TensorFlow: tf.data - TF Input Pipeline",
+    "length": "53:52",
+    "views": "30,234",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "yTJ8QydIgVQ",
+    "thumbnail": "https://i.ytimg.com/vi/yTJ8QydIgVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJvzLcPpPprchJq_rOFvUWG28D7w",
+    "title": "Inside TensorFlow: TF Filesystems",
+    "length": "26:25",
+    "views": "6,478",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "0O201IQlkxc",
+    "thumbnail": "https://i.ytimg.com/vi/0O201IQlkxc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARmdNS5eWCj6Yuiu6q2cnfIi8FjQ",
+    "title": "TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit '19)",
+    "length": "15:07",
+    "views": "9,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "PicxU81owCs",
+    "thumbnail": "https://i.ytimg.com/vi/PicxU81owCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRKOnP2KF6pPxJwQlLJyJbXSOFnQ",
+    "title": "Lecture 7: Introduction to TensorFlow",
+    "length": "1:12:33",
+    "views": "224,148",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "A5wiwT1qFjc",
+    "thumbnail": "https://i.ytimg.com/vi/A5wiwT1qFjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1mrSJ4at2i1QaR-efi2lZDG-Hgg",
+    "title": "TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit '19)",
+    "length": "31:35",
+    "views": "14,827",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "LNZLj7rkh2g",
+    "thumbnail": "https://i.ytimg.com/vi/LNZLj7rkh2g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMNIub70mV3-kW0W0UmXsUMtxvLg",
+    "title": "SVD examples -- Part 1",
+    "length": "8:08",
+    "views": "11,073",
+    "publish_time": "7 years ago"
+  },
+  {
+    "videoId": "tG3pUwmGjsc",
+    "thumbnail": "https://i.ytimg.com/vi/tG3pUwmGjsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY-SQYbY856jFYTX_5J5azG2pG3Q",
+    "title": "Topic Modeling with SVD & NMF (NLP video 2)",
+    "length": "1:06:40",
+    "views": "60,474",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "d7iIb_XVkZs",
+    "thumbnail": "https://i.ytimg.com/vi/d7iIb_XVkZs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJLhSLg-Dy8h2Yqhc8oT-hKpKvCQ",
+    "title": "Daniel Pyrathon - A practical guide to Singular Value Decomposition in Python - PyCon 2018",
+    "length": "31:31",
+    "views": "16,222",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "c7G5W4Wv72Q",
+    "thumbnail": "https://i.ytimg.com/vi/c7G5W4Wv72Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dweFgB2NKo8yr6_cl8awqqhO1w",
+    "title": "TensoFlow tf.data.dataset: Repeat, Batch, Shuffle - explained!",
+    "length": "2:27",
+    "views": "2,026",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "jKV53r9-H14",
+    "thumbnail": "https://i.ytimg.com/vi/jKV53r9-H14/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsId86mHL7TbETbfw8_EWRgOeow",
+    "title": "Inside TensorFlow: tf.distribute.Strategy",
+    "length": "54:33",
+    "views": "17,405",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "paJNSODuu3c",
+    "thumbnail": "https://i.ytimg.com/vi/paJNSODuu3c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXUqNxv_aUrjsLMrW8Z0X2d78tg",
+    "title": "Building a Visual Debugging Tool for ML - TF.js in Interactive Visual Analytics (TF Dev Summit '19)",
+    "length": "5:19",
+    "views": "6,727",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "VeV65oVvoes",
+    "thumbnail": "https://i.ytimg.com/vi/VeV65oVvoes/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFeK8wat2BreI7vGKYWwtNfHNUUw",
+    "title": "tf.data: TensorFlow Input Pipeline",
+    "length": "15:02",
+    "views": "1,801",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Ls2TgGFfZnU",
+    "thumbnail": "https://i.ytimg.com/vi/Ls2TgGFfZnU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV5kkujrN2F4KbSIMME99epRkf5A",
+    "title": "How to find Singular Value Decomposition quick and easy  - Linear algebra explained right",
+    "length": "6:47",
+    "views": "214,123",
+    "publish_time": "5 years ago"
+  },
+  {
+    "videoId": "HAJey9-Q8js",
+    "thumbnail": "https://i.ytimg.com/vi/HAJey9-Q8js/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHu1JRYV0fW88LuWvDoRvQ2FaXjA",
+    "title": "Singular Value Decomposition : Data Science Basics",
+    "length": "9:00",
+    "views": "21,069",
+    "publish_time": "2 years ago"
+  }
+]

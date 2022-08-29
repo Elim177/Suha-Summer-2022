@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "hF72sY70_IQ",
+    "thumbnail": "https://i.ytimg.com/vi/hF72sY70_IQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE_mmPQsIr7HXmqMCx9rt-nUL-VA",
+    "title": "Mel-Spectrogram and MFCCs | Lecture 72 (Part 1) | Applied Deep Learning",
+    "length": "16:11",
+    "views": "10,198",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "9GHCiiDLHQ4",
+    "thumbnail": "https://i.ytimg.com/vi/9GHCiiDLHQ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY0zjC0wTfRA-6tsd2QJ_uUbtLTg",
+    "title": "Mel Spectrograms Explained Easily",
+    "length": "30:31",
+    "views": "45,544",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "TdnVE5m3o_0",
+    "thumbnail": "https://i.ytimg.com/vi/TdnVE5m3o_0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ5xrvLJMH8e7co4W1x_7ss_jTJQ",
+    "title": "Extracting Mel Spectrograms with Python",
+    "length": "13:00",
+    "views": "18,222",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WNB9JUiHAMg",
+    "thumbnail": "https://i.ytimg.com/vi/WNB9JUiHAMg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrFnbVE5uqdg2PeIIJusBjdGp4UQ",
+    "title": "CS 472 Module 16: Mel Filterbanks And Mel Spectrograms",
+    "length": "10:39",
+    "views": "2,466",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "PPmNYwVbcts",
+    "thumbnail": "https://i.ytimg.com/vi/PPmNYwVbcts/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3ujI8QILEpCGSBEKjEeEH_b77uQ",
+    "title": "Speech features intro 3: Mel-scale spectrogram",
+    "length": "22:05",
+    "views": "2,581",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "lhF_RVa7DLE",
+    "thumbnail": "https://i.ytimg.com/vi/lhF_RVa7DLE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5cY4e3X2SuoSid8mAuYv8kED1Vg",
+    "title": "Extracting Mel Spectrograms with Pytorch and Torchaudio",
+    "length": "22:57",
+    "views": "8,176",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "WJI-17MNpdE",
+    "thumbnail": "https://i.ytimg.com/vi/WJI-17MNpdE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAuBUljXf9aLLnwR6zkOjTB9uqyg",
+    "title": "Extracting Mel-Frequency Cepstral Coefficients with Python",
+    "length": "10:52",
+    "views": "27,532",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "4_SH2nfbQZ8",
+    "thumbnail": "https://i.ytimg.com/vi/4_SH2nfbQZ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMAhPZIlfIZGhFD3qWI3wxwbQiyw",
+    "title": "Mel-Frequency Cepstral Coefficients Explained Easily",
+    "length": "57:43",
+    "views": "69,025",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Up9CvRLIIIw",
+    "thumbnail": "https://i.ytimg.com/vi/Up9CvRLIIIw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-er7B82NoVVEsSAsLxKAtjoqng",
+    "title": "tf.function and Autograph (TF Dev Summit ‘19)",
+    "length": "14:38",
+    "views": "29,699",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "3gzI4Z2OFgY",
+    "thumbnail": "https://i.ytimg.com/vi/3gzI4Z2OFgY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCLtc2VQ4g0UamdDs7uOsnRk1wkg",
+    "title": "How to Extract Spectrograms from Audio with Python",
+    "length": "23:26",
+    "views": "32,236",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "Z7YM-HAz-IY",
+    "thumbnail": "https://i.ytimg.com/vi/Z7YM-HAz-IY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-tjB84mYpKkJiMXZ17xZwVUaUYw",
+    "title": "DSP Background - Deep Learning for Audio Classification p.1",
+    "length": "14:57",
+    "views": "104,213",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "TJGlxdW7Fb4",
+    "thumbnail": "https://i.ytimg.com/vi/TJGlxdW7Fb4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkUMWkiTd3VEszFc6yb0oaypGdig",
+    "title": "Spectrogram Examples [Python]",
+    "length": "9:59",
+    "views": "35,862",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Gg4IHbiITd0",
+    "thumbnail": "https://i.ytimg.com/vi/Gg4IHbiITd0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2lZlJWyNaHJgBMKjhAlYqIMXPhA",
+    "title": "Introduction to Spectrogram Analysis",
+    "length": "11:21",
+    "views": "203,425",
+    "publish_time": "10 years ago"
+  },
+  {
+    "videoId": "iFZRUwGcrxQ",
+    "thumbnail": "https://i.ytimg.com/vi/iFZRUwGcrxQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7wOu5NaqEopd2Pb6ot14HvorMw",
+    "title": "#16: tf.function in TensorFlow | Tutorial",
+    "length": "25:25",
+    "views": "148",
+    "publish_time": "3 months ago"
+  },
+  {
+    "videoId": "tfuyOmGT80Q",
+    "thumbnail": "https://i.ytimg.com/vi/tfuyOmGT80Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYj6vPgy8X9cQLIbvYH9w6LrMUSA",
+    "title": "Spectrograms and TFRecords",
+    "length": "11:39",
+    "views": "15",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "37zCgCdV468",
+    "thumbnail": "https://i.ytimg.com/vi/37zCgCdV468/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8SDpYizz4mQOKXTJEs22WBFEo-g",
+    "title": "Seeing Voices: 1 - Intro to Spectrograms",
+    "length": "8:34",
+    "views": "2,995",
+    "publish_time": "9 months ago"
+  },
+  {
+    "videoId": "Oa_d-zaUti8",
+    "thumbnail": "https://i.ytimg.com/vi/Oa_d-zaUti8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_OhouBTZXepGKvJy_vVEjuNiLZA",
+    "title": "11- Preprocessing audio data for Deep Learning",
+    "length": "25:04",
+    "views": "67,084",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "Ssj5BlqCJyE",
+    "thumbnail": "https://i.ytimg.com/vi/Ssj5BlqCJyE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhvnamhe9FH4qgLQChTGMDA-57Cw",
+    "title": "Visualising word embeddings using TensorFlow (TF-2.0)and Tensorboard",
+    "length": "7:39",
+    "views": "2,562",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "RPocW_aMZKE",
+    "thumbnail": "https://i.ytimg.com/vi/RPocW_aMZKE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEvsbbeeWsHxtVbtWVMMspiif8uA",
+    "title": "Inside TensorFlow: TF Debugging",
+    "length": "38:26",
+    "views": "13,114",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "kq2Gjv_pPe8",
+    "thumbnail": "https://i.ytimg.com/vi/kq2Gjv_pPe8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0L_y2txVCITqJ_7gp7_ZBgFZ7Bg",
+    "title": "Creating TFRecords - TensorFlow Object Detection API Tutorial p.4",
+    "length": "16:25",
+    "views": "174,105",
+    "publish_time": "4 years ago"
+  }
+]

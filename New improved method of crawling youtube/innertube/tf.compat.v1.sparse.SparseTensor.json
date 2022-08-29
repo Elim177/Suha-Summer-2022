@@ -1,0 +1,162 @@
+[
+  {
+    "videoId": "t3z0bOsaDQ0",
+    "thumbnail": "https://i.ytimg.com/vi/t3z0bOsaDQ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0V8wE6AJRqxtPi8afPjrcztjI_w",
+    "title": "Intro to Sparse Tensors and Spatially Sparse Neural Networks",
+    "length": "11:28",
+    "views": "1,457",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "smZfsYhDFkY",
+    "thumbnail": "https://i.ytimg.com/vi/smZfsYhDFkY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNw2IRzvKKe3xZEZVMbXweH-l36w",
+    "title": "Sparse Tensors with MXNet",
+    "length": "10:12",
+    "views": "393",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "0wJsGWA5pTU",
+    "thumbnail": "https://i.ytimg.com/vi/0wJsGWA5pTU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAVJ2xNoH_dbPdBnSC4b4kGxjhbw",
+    "title": "A Sparse Iteration Space Transformation Framework for Sparse Tensor Algebra",
+    "length": "16:50",
+    "views": "643",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "tfM5QUNYtEA",
+    "thumbnail": "https://i.ytimg.com/vi/tfM5QUNYtEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zcQs_OOZXiYDKJlmw709zPo8KQ",
+    "title": "#7: Broadcasting, ragged tensor, sparse and dense tensor | TensorFlow | Tutorial",
+    "length": "25:08",
+    "views": "137",
+    "publish_time": "4 months ago"
+  },
+  {
+    "videoId": "F--_SOlufpE",
+    "thumbnail": "https://i.ytimg.com/vi/F--_SOlufpE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6VeJa-0R53InGu_5jnJczEHi_w",
+    "title": "TF SavedModel vs HDF5: How to save TF & Keras Models with  Custom Objects?",
+    "length": "42:35",
+    "views": "1,572",
+    "publish_time": "Streamed 1 year ago"
+  },
+  {
+    "videoId": "Fg6DqCzUY2s",
+    "thumbnail": "https://i.ytimg.com/vi/Fg6DqCzUY2s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_1LoHrhL8a3GsfisQ_wycjbzNSA",
+    "title": "Image Compression based on Sparse AutoEncoders using Tensorflow",
+    "length": "10:23",
+    "views": "220",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sDcgXd8-Rx0",
+    "thumbnail": "https://i.ytimg.com/vi/sDcgXd8-Rx0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7Pa8REz3wzm-g1CHwm0cpiL2msQ",
+    "title": "A Sparse Tensor Benchmark Suite for CPUs and GPUs",
+    "length": "19:41",
+    "views": "132",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "bqeUmLCgsVw",
+    "thumbnail": "https://i.ytimg.com/vi/bqeUmLCgsVw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGPkBFFPzTPg9BIymly2RuST_s1Q",
+    "title": "How to load a custom dataset with tf.data [Tensorflow]",
+    "length": "15:12",
+    "views": "45,828",
+    "publish_time": "4 years ago"
+  },
+  {
+    "videoId": "dfMoygb7FZE",
+    "thumbnail": "https://i.ytimg.com/vi/dfMoygb7FZE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUugiBU9F2KJrg13P1sR_THmqo-w",
+    "title": "#5: Scikit-learn 3: Preprocessing 3: Scaling a sparse matrix, CSR, CSC format",
+    "length": "13:43",
+    "views": "1,086",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "YrMy-BAqk8k",
+    "thumbnail": "https://i.ytimg.com/vi/YrMy-BAqk8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnip1KRENerlzGyZWmwGbq5Na13w",
+    "title": "TensorFlow Tutorial 12 - TensorFlow Datasets",
+    "length": "29:35",
+    "views": "28,459",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "sQOq3Ci4tB0",
+    "thumbnail": "https://i.ytimg.com/vi/sQOq3Ci4tB0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVyoguaCkAuLdLttdH27yag2PT0g",
+    "title": "Format Abstraction for Sparse Tensor Algebra Compilers",
+    "length": "25:12",
+    "views": "1,195",
+    "publish_time": "3 years ago"
+  },
+  {
+    "videoId": "HPjBY1H-U4U",
+    "thumbnail": "https://i.ytimg.com/vi/HPjBY1H-U4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0iU-Zchegx1tuTrWEmVNE7ZXU1w",
+    "title": "TensorFlow Tutorial 2 - Tensor Basics",
+    "length": "21:01",
+    "views": "71,783",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "EFcAjycmI8E",
+    "thumbnail": "https://i.ytimg.com/vi/EFcAjycmI8E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYJzPj_fjQ4-6y3HT8ZRwLwWE7wQ",
+    "title": "Talk: Using a Sparse RNN for dynamic binary classification",
+    "length": "17:08",
+    "views": "79",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "s6JRY8qcjvA",
+    "thumbnail": "https://i.ytimg.com/vi/s6JRY8qcjvA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZTkYyQNBOB2V5P2EEpTlgbl558A",
+    "title": "Automatic Generation of Efficient Sparse Tensor Format Conversion Routines",
+    "length": "16:53",
+    "views": "421",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "cKMJDkWSDnY",
+    "thumbnail": "https://i.ytimg.com/vi/cKMJDkWSDnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOJeU5ZQad_C4NsKL6kT9RvnbTrg",
+    "title": "TensorFlow Tutorial 9 - Custom Layers",
+    "length": "11:48",
+    "views": "19,947",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "zpKm8OxDBwE",
+    "thumbnail": "https://i.ytimg.com/vi/zpKm8OxDBwE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE9FB4xECKoI1X5gezBJVZr64iw",
+    "title": "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial",
+    "length": "29:25",
+    "views": "24,885",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "8QgeGLafvN0",
+    "thumbnail": "https://i.ytimg.com/vi/8QgeGLafvN0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvu5_HnHjzGCnZWaE6RD6c6XDR4w",
+    "title": "Fast Sparse ConvNets",
+    "length": "1:01",
+    "views": "337",
+    "publish_time": "2 years ago"
+  },
+  {
+    "videoId": "WcZ_1IAH_nM",
+    "thumbnail": "https://i.ytimg.com/vi/WcZ_1IAH_nM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdS7W9nU1U4ner4AQVy5k8H6M5RA",
+    "title": "TensorFlow Tutorial 8 - Model Subclassing with Keras",
+    "length": "22:59",
+    "views": "22,910",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "gXqHd6-NKBo",
+    "thumbnail": "https://i.ytimg.com/vi/gXqHd6-NKBo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtAtnJZJQTgB_Iqvbms41u6FW9cg",
+    "title": "How to Build TensorFlow Pipelines with tf.data.Dataset",
+    "length": "30:53",
+    "views": "3,869",
+    "publish_time": "1 year ago"
+  },
+  {
+    "videoId": "q7ZuZ8ZOErE",
+    "thumbnail": "https://i.ytimg.com/vi/q7ZuZ8ZOErE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZnm8iOadtqApGsn2WN8ag5JzyMQ",
+    "title": "TensorFlow Tutorial 18 - Custom Dataset for Images",
+    "length": "25:16",
+    "views": "53,045",
+    "publish_time": "1 year ago"
+  }
+]
