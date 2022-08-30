@@ -1,24 +1,11 @@
-# Suha-Summer-2022
+# crawl-youtube
 
-## This repository includes
-  - Different branches containing moving parts of the projects
-  - Notes taken over the course of the summer
-  - Work left to do
-  
-### Branches and their Purposes
-  - k-means-clustering-elim-sample-dataset
-    - Clusetering performed on provided dataset from Elim to find number of clusters based on number of votes.
-  - tf-api
-    - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link
+## This branch includes
   - crawl-youtube
     - Using innertube api, tensorflow videos related videos are crawled per api name
-  - 
   
-### Notes
-  - Weekly meetings and scratch notes dated in the file name and in file
-  - Research notes on topics and findings
-  
-### Left To-do
-  - Crawl the rest of the questions
-  - Get EASSE and ACCESS to work on the labelled mixed text
-  - Find a method to make the text more advanced for advanced users
+## Files/Folders in this branch
+  - Old method of crawling youtube and results
+    - This was my original method of scraping the youtube videos related to each tensorflow api symbol. It used the official Youtube API but it was unsuccessful because we were limited by quotas and it was taking long. 
+  - New improved method of crawling youtube
+    - This uses innertube API which efficiently scrapes the first few related videos per API name (provided by Azalea). The folder contains a file which saves each api youtube video to an innertube subfile and saves each link to the yt_links.json file to use in the tf-frontend branch
