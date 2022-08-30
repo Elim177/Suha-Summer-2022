@@ -1,29 +1,36 @@
 # Suha-Summer-2022
 
 ## This repository includes
-  - Different branches containing moving parts of the projects
-  - Notes taken over the course of the summer
-  - Work left to do
+  - Using different ML algorithms and CV scoring we selected which algorithm we would use to classify each API description based on the tutorials
   
-### Branches and their Purposes
-  - k-means-clustering-elim-sample-dataset
-    - Clustering performed on provided dataset from Elim to find number of clusters based on number of votes.
-  - tf-api
-    - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link
-  - crawl-youtube
-    - Using innertube api, tensorflow videos related videos are crawled per api name
-  - tf-frontend
-    - Vue files that contain all frontend workings to display ELSU parser. Displays beginner and orignal tensorflow APIs and allows for user to check off youtube option to view related youtube videos per api symbol.
-  - querying-stackoverflow-questions
-    - Querying stack overflow questions based on question ids provided by Elim using the stackoverflow API.
-  - ml-classifier-and-cross-validation
-    - Using different ML algorithms and CV scoring we selected which algorithm we would use to classify each API description based on the tutorials
-  
-### Notes
-  - Weekly meetings and scratch notes dated in the file name and in file
-  - Research notes on topics and findings
-  
-### Left To-do
-  - Crawl the rest of the questions
-  - Get EASSE and ACCESS to work on the labelled mixed text
-  - Find a method to make the text more advanced for advanced users
+## Files/Folders in this branch
+  - 'Flesch Reading Ease','Flesch-Kincaid Grade', k=2.ipynb
+    - k means cluster plot for 'Flesch Reading Ease' vs 'Flesch-Kincaid Grade' and k = 2
+  - 'Flesch Reading Ease','Flesch-Kincaid Grade', k=3.ipynb
+    - k means cluster plot for 'Flesch Reading Ease' vs 'Flesch-Kincaid Grade' and k = 3
+  - 'Flesch Reading Ease','Gunning Fog Index' k=2.ipynb
+    - k means cluster plot for 'Flesch Reading Ease' vs 'Gunning Fog Index' and k = 2
+  - 'Flesch Reading Ease','Gunning Fog Index' k=3.ipynb
+    - k means cluster plot for 'Flesch Reading Ease' vs 'Gunning Fog Index' and k = 3
+  - 'Gunning Fog Index','Flesch-Kincaid Grade', k=2.ipynb
+    - k means cluster plot for 'Gunning Fog Index' vs 'Flesch-Kincaid Grade' and k = 2
+  - 'Gunning Fog Index','Flesch-Kincaid Grade', k=3.ipynb
+    - k means cluster plot for 'Gunning Fog Index' vs 'Flesch-Kincaid Grade' and k = 3
+  - balanced logistic reg (1).ipynb
+    - cross validation score and balanced labelled data using the Testing_Data.csv and Training_Scores.csv file
+  - balanced_gaus_nb (1).ipynb
+    - cross validation score and balanced labelled data using the Testing_Data.csv and Training_Scores.csv file
+  - balanced_multi_nb (1).ipynb
+    - cross validation score and balanced labelled data using the Testing_Data.csv and Training_Scores.csv file
+  - balanced_rfc (1).ipynb
+    - cross validation score and balanced labelled data using the Testing_Data.csv and Training_Scores.csv file
+  - flesch_kincaid_grade mann whitney u.R
+    - performed mann whitney on Flesch Kincaid Grade data to see if there is a significant variance in data using Training_Scores.csv (tutorials)
+  - flesch_reading_ease mann whitney u.R
+    - performed mann whitney on Flesch Reading Ease data to see if there is a significant variance in data using Training_Scores.csv (tutorials)
+  - gunning_fog_index mann whitney u.R
+    - performed mann whitney on Gunning Fog Index data to see if there is a significant variance in data using Training_Scores.csv (tutorials)
+  - total_sentence mann whitney u.R
+    - performed mann whitney on total sentence data to see if there is a significant variance in data using Training_Scores.csv (tutorials)
+  - total_word mann whitney u.R
+    - performed mann whitney on total word data to see if there is a significant variance in data using Training_Scores.csv (tutorials)
