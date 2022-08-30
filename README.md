@@ -1,22 +1,25 @@
-# Suha-Summer-2022
+# tf_api
 
-## This repository includes
-  - Different branches containing moving parts of the projects
-  - Notes taken over the course of the summer
-  - Work left to do
-  
-### Branches and their Purposes
-  - k-means-clustering-elim-sample-dataset
-    - Clusetering performed on provided dataset from Elim to find number of clusters based on number of votes.
+## This branch includes
   - tf-api
-    - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link
-  -
+    - Collects the tensorflow apis using docstringand formats them with their according name, description, and youtube link.
   
-### Notes
-  - Weekly meetings and scratch notes dated in the file name and in file
-  - Research notes on topics and findings
-  
-### Left To-do
-  - Crawl the rest of the questions
-  - Get EASSE and ACCESS to work on the labelled mixed text
-  - Find a method to make the text more advanced for advanced users
+## Files/Folders in this branch
+  - tf
+    - folder containing all tensorflow markup file api descriptions found from tensorflow website
+  - List_of_all_TF_API.csv
+    - CSV file listing all tensorflow api names/symbols
+  - List_of_all_TF_API.md
+    - md file converted from List_of_all_TF_API.csv for the purpose of parsing using docstring to pull api descriptions from tensorflow site.
+  - meta_yt_links.json
+    - file used in front end branch to use youtube linka with tf api symbols
+  - output100.csv
+    - a sample file of the first few api symbols + youtube links
+  - tf.md
+    - an md file containing tf specific primary symbols such as modules, classes and functions pulled using docstring
+  - to_json_from_tf_for_ps.py
+    - creates a meta_primary_symbol.json file in the tf_frontend branch path (the path is specific to my personal directory). It saves the primary symbols of tf names, description, and youtube links into json file
+  - to_json_from_tfmd.py
+    - takes the tf.md file and converts it into a json file. The tf.md file has the api primary symbol names, descriptions, documentation
+  - to_json_from_yt_link_csv.py
+    - copied the csv file called output100.csv to a json file
