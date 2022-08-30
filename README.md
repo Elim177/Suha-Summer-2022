@@ -14,6 +14,8 @@
     - Using innertube api, tensorflow videos related videos are crawled per api name
   - **tf-frontend**
     - Vue files that contain all frontend workings to display ELSU parser. Displays beginner and orignal tensorflow APIs and allows for user to check off youtube option to view related youtube videos per api symbol.
+    - the page is not active right not on github
+    - if the page doesnt work due to ownership issues I can also just transfer ownership on the original repo
   - **querying-stackoverflow-questions**
     - Querying stack overflow questions based on question ids provided by Elim using the stackoverflow API.
   - **ml-classifier-and-cross-validation**
