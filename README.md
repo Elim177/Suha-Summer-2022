@@ -1,20 +1,12 @@
-# Suha-Summer-2022
+# k-means-clustering-elim-sample-dataset
 
-## This repository includes
-  - Different branches containing moving parts of the projects
-  - Notes taken over the course of the summer
-  - Work left to do
-  
-### Branches and their Purposes
-  - k-means-clustering-elim-sample-dataset
-    - Clusetering performed on provided dataset from Elim to find number of clusters based on number of votes.
-  - 
-  
-### Notes
-  - Weekly meetings and scratch notes dated in the file name and in file
-  - Research notes on topics and findings
-  
-### Left To-do
-  - Crawl the rest of the questions
-  - Get EASSE and ACCESS to work on the labelled mixed text
-  - Find a method to make the text more advanced for advanced users
+## This branch includes
+  - Clusetering performed on provided dataset from Elim to find number of clusters based on number of votes.
+  - Each file contains k means clustering set to different k values (2 and 6) to check which number of k (clusters) best suits the data.
+  - Verified using the elbow plot
+
+## Files in this branch
+  - elim sample dataset kmeans clustering k=2.ipynb
+    - See above for more info
+  - elim sample dataset kmeans clustering k=6.ipynb
+    - See above for more info
