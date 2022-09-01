@@ -7,7 +7,7 @@
   - see above description and comments throughout file for more information
 
 ## How to use the code in the branch
-  1. Make sure you have cloned and gotten access/ownership over the https://github.com/suhasid098/tf_apis repo
+  1. Make sure you have cloned and gotten access/ownership over the https://github.com/suhasid098/tf_apis repo just incase there are necessary files missing but all  files should be in this repo
   2. Navigate to https://github.com/suhasid098/tf_frontend or gain access to the repo (the ownership/collaborator to this branch at the moment is Elim)
   3. To activate the page go to (general) settings and scroll down to the "Danger Zone".
   4. At the moment the repository is set to to be private but you must make it public. To do that press "Change visibility" on the "Change repository visibility" tab.
