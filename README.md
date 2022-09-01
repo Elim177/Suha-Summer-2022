@@ -23,3 +23,6 @@
     - takes the tf.md file and converts it into a json file. The tf.md file has the api primary symbol names, descriptions, documentation
   - to_json_from_yt_link_csv.py
     - copied the csv file called output100.csv to a json file
+
+## How to use the code in the branch
+Make sure you have cloned and gotten access/ownership over the https://github.com/suhasid098/tf_apis repo just incase there are necessary files missing but all files should be in the https://github.com/suhasid098/tf_frontend repo.
